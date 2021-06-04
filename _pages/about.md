@@ -29,7 +29,7 @@ Awards
 * Excellent Bachelor Thesis of BUPT **(Top 0.5%)**, 2019
 * First-class Scholarship of BUPT **(Top 5%)**, 2018
 * Nokia Venture Scholarships of BUPT **(Top 1%)**, 2018
-* The 2<sup>nd</sup> Prize of *Beijing Internet+ innovation entrepreneurship competition* **(Top 3%)**, 2018
+<!-- * The 2<sup>nd</sup> Prize of *Beijing Internet+ innovation entrepreneurship competition* **(Top 3%)**, 2018 -->
 * National Scholarship of BUPT **(Top 0.5%)**, 2017
 * Leader of *Star of the Clubs* of BUPT **(Top 3%)**, 2016
 
