@@ -35,6 +35,8 @@ Awards
 
 Mentored Students
 ------
+* Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa)
+* Srimanth Tangedipalli (Undergrad in CS @UVa)
 * Chen Fan (M.S. @UMass)
 * Mike Song (Quantitative researcher @J.P. Morgan)
 * Deepaloke Chattopadhyay (M.S. @UVa, now Data Scientist @2nd Order Solutions)
