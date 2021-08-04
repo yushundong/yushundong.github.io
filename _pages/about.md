@@ -20,8 +20,9 @@ News
 * May 2020: Our paper *Individual Fairness for Graph Neural Networks: A Ranking based Approach* has been accepted by SIGKDD 2021.
 <!-- * May-17-2020, Our paper *Individual Fairness for Graph Neural Networks: A Ranking based Approach* has been accepted by SIGKDD 2021. -->
 
-Awards
+Activities & Awards
 ------
+* Volunteer for IJCAI 2021
 * The Web Conference scholarship 2021
 * SDM Ph.D. Forum presenter 2021
 * SDM Student Travel Award 2021
