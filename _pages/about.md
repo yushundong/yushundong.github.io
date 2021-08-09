@@ -17,7 +17,7 @@ I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, *
 News
 ------
 * Aug. 2021: One paper accepted by CIKM 2021.
-* May 2021: Invited to serve as a PC member for CIKM 2021.
+<!-- * May 2021: Invited to serve as a PC member for CIKM 2021. -->
 * May 2021: One paper accepted by SIGKDD 2021.
 <!-- * May-17-2020, Our paper *Individual Fairness for Graph Neural Networks: A Ranking based Approach* has been accepted by SIGKDD 2021. -->
 
