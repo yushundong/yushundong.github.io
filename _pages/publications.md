@@ -20,7 +20,7 @@ International Conference on Information and Knowledge Management (**CIKM 2019**)
 - *Learning Route Planning from Experienced Drivers Using Generalized Value Iteration Network* <br>
 Xiao Wang, Quan Yuan, Zhihan Liu, **Yushun Dong**, Xiaojuan Wei, Jinglin Li <br>
 International Conference on Internet of Vehicles (**IOV 2019**). 
-
+<!-- 
 - *Graph Neural Networks with Adaptive Frequency Response Filter* <br>
 **Yushun Dong**, Kaize Ding, Brian Jalaian, Shuiwang Ji, Jundong Li <br>
 International Conference on Information and Knowledge Management (**CIKM 2021**). 
@@ -39,4 +39,4 @@ International Conference on Internet of Vehicles (**IOV 2019**).
 
 - *Learning Route Planning from Experienced Drivers Using Generalized Value Iteration Network* <br>
 Xiao Wang, Quan Yuan, Zhihan Liu, **Yushun Dong**, Xiaojuan Wei, Jinglin Li <br>
-International Conference on Internet of Vehicles (**IOV 2019**). 
+International Conference on Internet of Vehicles (**IOV 2019**).  -->
