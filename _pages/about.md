@@ -23,9 +23,8 @@ News
 * May 2021: One paper accepted by SIGKDD 2021.
 <!-- * May-17-2020, Our paper *Individual Fairness for Graph Neural Networks: A Ranking based Approach* has been accepted by SIGKDD 2021. -->
 
-Activities & Awards
+Awards
 ------
-* Volunteer for IJCAI 2021
 * The Web Conference scholarship 2021
 * SDM Ph.D. Forum presenter 2021
 * SDM Student Travel Award 2021
@@ -53,3 +52,4 @@ Services
 ------
 * **Program Committee Member**: CIKM 2021.
 * **External reviewer**: KDD'21, SIGIR'21, ICML'21, PAKDD'21, WWW'21, ICLR'20, WSDM'21, BigData'20, KDD'20, SIGIR'20, NeurIPS'20, TKDE, WWW'20, ECML-PKDD'20, CIKM'20.
+* **Volunteer**: IJCAI 2021
