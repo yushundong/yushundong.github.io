@@ -50,6 +50,6 @@ Mentored Students
 
 Services
 ------
-* **Program Committee Member**: CIKM 2021.
+* **Program Committee Member**: WSDM 2022, CIKM 2021.
 * **External reviewer**: KDD'21, SIGIR'21, ICML'21, PAKDD'21, WWW'21, ICLR'20, WSDM'21, BigData'20, KDD'20, SIGIR'20, NeurIPS'20, TKDE, WWW'20, ECML-PKDD'20, CIKM'20.
 * **Volunteer**: IJCAI 2021
