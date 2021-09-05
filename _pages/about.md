@@ -25,6 +25,7 @@ News
 
 Awards
 ------
+* SIGIR Student Travel Award 2021
 * The Web Conference scholarship 2021
 * SDM Ph.D. Forum presenter 2021
 * SDM Student Travel Award 2021
