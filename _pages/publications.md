@@ -13,7 +13,7 @@ International Conference on Information and Knowledge Management (**CIKM 2021**)
 **Yushun Dong**, Jian Kang, Hanghang Tong, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**). 
 
-- *Forecasting Pavement Performance with a Feature Fusion LSTM-BPNN Model* [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3447548.3467266) [\[Code\]](https://yushundong.github.io//publications/) <br>
+- *Forecasting Pavement Performance with a Feature Fusion LSTM-BPNN Model* [\[PDF\]](https://dl.acm.org/doi/10.1145/3357384.3357867) [\[Code\]](https://yushundong.github.io//publications/) <br>
 **Yushun Dong**, Yingxia Shao, Xiaotong Li, Sili Li, Lei Quan, Wei Zhang, Junping Du <br>
 International Conference on Information and Knowledge Management (**CIKM 2019**). 
 
