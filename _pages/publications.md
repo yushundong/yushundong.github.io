@@ -17,7 +17,7 @@ SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**).
 **Yushun Dong**, Yingxia Shao, Xiaotong Li, Sili Li, Lei Quan, Wei Zhang, Junping Du <br>
 International Conference on Information and Knowledge Management (**CIKM 2019**). 
 
-- *Learning Route Planning from Experienced Drivers Using Generalized Value Iteration Network* <br>
+- *Learning Route Planning from Experienced Drivers Using Generalized Value Iteration Network* [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-030-38651-1_9) <br>
 Xiao Wang, Quan Yuan, Zhihan Liu, **Yushun Dong**, Xiaojuan Wei, Jinglin Li <br>
 International Conference on Internet of Vehicles (**IOV 2019**). 
 
