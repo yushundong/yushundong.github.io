@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- *Graph Neural Networks with Adaptive Frequency Response Filter* <br> [PDF] [Code]
+- *Graph Neural Networks with Adaptive Frequency Response Filter* <br> [PDF](www.google.com) [Code]
 **Yushun Dong**, Kaize Ding, Brian Jalaian, Shuiwang Ji, Jundong Li <br>
 International Conference on Information and Knowledge Management (**CIKM 2021**). 
 
