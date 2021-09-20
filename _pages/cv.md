@@ -33,7 +33,7 @@ Experience
 * @ Peking University
   * Research assistant, 10/2017 - 06/2018
 
-Publications
+<!-- Publications
 ======
 <!-- * Dong Y, Shao Y, Li X, et al. Forecasting Pavement Performance with a Feature Fusion LSTM-BPNN Model[C]//Proceedings of the 28th ACM International Conference on Information and Knowledge Management. 2019: 1953-1962.
  -->
@@ -58,5 +58,5 @@ International Conference on Internet of Vehicles (**IOV 2019**).
 Teaching
 ======
 * Teaching assistant @ UVa: ECE 4502/6502 & CS 6501: Graph Mining - 2021 Spring
-* Teaching assistant @ UVa: ECE 4502/6502 & CS 6501: Graph Mining - 2020 Spring
+* Teaching assistant @ UVa: ECE 4502/6502 & CS 6501: Graph Mining - 2020 Spring -->
 
