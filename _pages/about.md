@@ -23,7 +23,7 @@ News
 * May 2021: One paper accepted by SIGKDD 2021.
 <!-- * May-17-2020, Our paper *Individual Fairness for Graph Neural Networks: A Ranking based Approach* has been accepted by SIGKDD 2021. -->
 
-Awards
+<!-- Awards
 ------
 * SIGIR Student Travel Award 2021
 * The Web Conference scholarship 2021
@@ -34,7 +34,7 @@ Awards
 * First-class Scholarship of BUPT **(Top 5%)**, 2018
 * Nokia Venture Scholarships of BUPT **(Top 1%)**, 2018<!-- * The 2<sup>nd</sup> Prize of *Beijing Internet+ innovation entrepreneurship competition* **(Top 3%)**, 2018 -->
 * National Scholarship of BUPT **(Top 0.5%)**, 2017
-* Founder & Chief lecturer in *Star of the Clubs* of BUPT **(Top 3%)**, 2016
+* Founder & Chief lecturer in *Star of the Clubs* of BUPT **(Top 3%)**, 2016 -->
 
 
 Mentored Students
