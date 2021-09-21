@@ -19,7 +19,6 @@ I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, *
 News
 ------
 * Aug. 2021: One paper accepted by CIKM 2021.
-
 * May 2021: One paper accepted by SIGKDD 2021.
 
 
