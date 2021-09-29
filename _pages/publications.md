@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-- *Graph Neural Networks with Adaptive Frequency Response Filter* [\[PDF\]](http://yushundong.github.io/files/cikm2021.pdf) [\[Code\]](https://github.com/yushundong/AdaGNN) [\[Slides\]](https://github.com/yushundong/AdaGNN/blob/main/adagnn_cikm2021.pdf)<br>
+- *Graph Neural Networks with Adaptive Frequency Response Filter* [\[PDF\]](http://yushundong.github.io/files/cikm2021.pdf) [\[Code\]](https://github.com/yushundong/AdaGNN) [\[Slides\]](http://yushundong.github.io/files/slides_cikm2021.pdf)<br>
 **Yushun Dong**, Kaize Ding, Brian Jalaian, Shuiwang Ji, Jundong Li <br>
 International Conference on Information and Knowledge Management (**CIKM 2021**). 
 
-- *Individual Fairness for Graph Neural Networks: A Ranking based Approach* [\[PDF\]](http://yushundong.github.io/files/kdd2021.pdf) [\[Code\]](https://github.com/yushundong/REDRESS) [\[Slides\]](https://github.com/yushundong/REDRESS/blob/main/redress.pptx)<br>
+- *Individual Fairness for Graph Neural Networks: A Ranking based Approach* [\[PDF\]](http://yushundong.github.io/files/kdd2021.pdf) [\[Code\]](https://github.com/yushundong/REDRESS) [\[Slides\]](http://yushundong.github.io/files/slides_kdd2021.pdf)<br>
 **Yushun Dong**, Jian Kang, Hanghang Tong, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**). 
 
