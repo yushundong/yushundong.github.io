@@ -22,22 +22,6 @@ News
 * May 2021: One paper accepted by SIGKDD 2021.
 
 
-Honors
-------
-* McVey Fellowship 2021 (**One of the limited two** at UVa ECE Department)
-* SIGIR Student Travel Award 2021
-* The Web Conference scholarship 2021
-* SDM Ph.D. Forum presenter 2021
-* SDM Student Travel Award 2021
-* SIGKDD Student Travel Award 2020
-<!-- * Excellent Bachelor Thesis of BUPT **(Top 0.5%)**, 2019
-* First-class Scholarship of BUPT **(Top 5%)**, 2018
-* Nokia Venture Scholarships of BUPT **(Top 1%)**, 2018
-* The 2<sup>nd</sup> Prize of *Beijing Internet+ innovation entrepreneurship competition* **(Top 3%)**, 2018
-* National Scholarship of BUPT **(Top 0.5%)**, 2017
-* Founder & Chief lecturer in *Star of the Clubs* of BUPT **(Top 3%)**, 2016 -->
-
-
 Mentored Students
 ------
 * Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa)
@@ -55,3 +39,21 @@ Services
 * **Program Committee Member**: AAAI 2022, WSDM 2022, CIKM 2021.
 * **External Reviewer**: KDD'21, SIGIR'21, ICML'21, PAKDD'21, WWW'21, ICLR'20, WSDM'21, BigData'20, KDD'20, SIGIR'20, NeurIPS'20, TKDE, WWW'20, ECML-PKDD'20, CIKM'20.
 * **Volunteer**: KDD 2021, IJCAI 2021, KDD 2020.
+
+
+
+Honors
+------
+* McVey Fellowship 2021 (**One of the limited two** at UVa ECE Department)
+* SIGIR Student Travel Award 2021
+* The Web Conference scholarship 2021
+* SDM Ph.D. Forum presenter 2021
+* SDM Student Travel Award 2021
+* SIGKDD Student Travel Award 2020
+<!-- * Excellent Bachelor Thesis of BUPT **(Top 0.5%)**, 2019
+* First-class Scholarship of BUPT **(Top 5%)**, 2018
+* Nokia Venture Scholarships of BUPT **(Top 1%)**, 2018
+* The 2<sup>nd</sup> Prize of *Beijing Internet+ innovation entrepreneurship competition* **(Top 3%)**, 2018
+* National Scholarship of BUPT **(Top 0.5%)**, 2017
+* Founder & Chief lecturer in *Star of the Clubs* of BUPT **(Top 3%)**, 2016 -->
+
