@@ -22,7 +22,7 @@ News
 * May 2021: One paper accepted by SIGKDD 2021.
 
 
-Awards
+Honors
 ------
 * McVey Fellowship 2021-2022 (**One of the limited two** at UVa ECE Department)
 * SIGIR Student Travel Award 2021
