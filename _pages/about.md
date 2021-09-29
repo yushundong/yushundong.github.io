@@ -24,7 +24,7 @@ News
 
 Honors
 ------
-* McVey Fellowship 2021-2022 (**One of the limited two** at UVa ECE Department)
+* McVey Fellowship 2021 (**One of the limited two** at UVa ECE Department)
 * SIGIR Student Travel Award 2021
 * The Web Conference scholarship 2021
 * SDM Ph.D. Forum presenter 2021
