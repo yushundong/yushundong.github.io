@@ -9,11 +9,11 @@ author_profile: true
 **Yushun Dong**, Kaize Ding, Brian Jalaian, Shuiwang Ji, Jundong Li <br>
 International Conference on Information and Knowledge Management (**CIKM 2021**). 
 
-- *Individual Fairness for Graph Neural Networks: A Ranking based Approach* [\[PDF\]](https://github.com/yushundong/REDRESS/raw/main/Individual%20Fairness%20for%20Graph%20Neural%20Networks%20A%20Ranking%20based%20Approach.pdf) [\[Code\]](https://github.com/yushundong/REDRESS) [\[Slides\]](https://github.com/yushundong/REDRESS/blob/main/redress.pptx)<br>
+- *Individual Fairness for Graph Neural Networks: A Ranking based Approach* [\[PDF\]](http://yushundong.github.io/files/kdd2021.pdf) [\[Code\]](https://github.com/yushundong/REDRESS) [\[Slides\]](https://github.com/yushundong/REDRESS/blob/main/redress.pptx)<br>
 **Yushun Dong**, Jian Kang, Hanghang Tong, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**). 
 
-- *Forecasting Pavement Performance with a Feature Fusion LSTM-BPNN Model* [\[PDF\]](https://github.com/yushundong/yushundong.github.io/raw/master/_pages/Forecasting%20Pavement%20Performance%20with%20a%20Feature%20Fusion%20LSTM-BPNN%20Model.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+- *Forecasting Pavement Performance with a Feature Fusion LSTM-BPNN Model* [\[PDF\]](http://yushundong.github.io/files/cikm2019.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Yingxia Shao, Xiaotong Li, Sili Li, Lei Quan, Wei Zhang, Junping Du <br>
 International Conference on Information and Knowledge Management (**CIKM 2019**). 
 
