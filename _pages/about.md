@@ -22,14 +22,15 @@ News
 * May 2021: One paper accepted by SIGKDD 2021.
 
 
-<!-- Awards
+Awards
 ------
+* McVey Fellowship 2021-2022 (**One of the limited two** at UVa ECE Department)
 * SIGIR Student Travel Award 2021
 * The Web Conference scholarship 2021
 * SDM Ph.D. Forum presenter 2021
 * SDM Student Travel Award 2021
 * SIGKDD Student Travel Award 2020
-* Excellent Bachelor Thesis of BUPT **(Top 0.5%)**, 2019
+<!-- * Excellent Bachelor Thesis of BUPT **(Top 0.5%)**, 2019
 * First-class Scholarship of BUPT **(Top 5%)**, 2018
 * Nokia Venture Scholarships of BUPT **(Top 1%)**, 2018
 * The 2<sup>nd</sup> Prize of *Beijing Internet+ innovation entrepreneurship competition* **(Top 3%)**, 2018
