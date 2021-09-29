@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- *Graph Neural Networks with Adaptive Frequency Response Filter* [\[PDF\]](https://github.com/yushundong/AdaGNN/raw/main/Graph%20Neural%20Networks%20with%20Adaptive%20Frequency%20Response%20Filter.pdf) [\[Code\]](https://github.com/yushundong/AdaGNN) [\[Slides\]](https://github.com/yushundong/AdaGNN/blob/main/adagnn_cikm2021.pdf)<br>
+- *Graph Neural Networks with Adaptive Frequency Response Filter* [\[PDF\]](http://yushundong.github.io/files/cikm2021.pdf) [\[Code\]](https://github.com/yushundong/AdaGNN) [\[Slides\]](https://github.com/yushundong/AdaGNN/blob/main/adagnn_cikm2021.pdf)<br>
 **Yushun Dong**, Kaize Ding, Brian Jalaian, Shuiwang Ji, Jundong Li <br>
 International Conference on Information and Knowledge Management (**CIKM 2021**). 
 
