@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Misc"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Education
+Education
 ======
 * B.S. in Beijing University of Posts and Telecommunications, 2019
 
@@ -31,7 +31,7 @@ Experience
   * Internship, 06/2019 - 09/2019
 
 * @ Peking University
-  * Research assistant, 10/2017 - 06/2018 -->
+  * Research assistant, 10/2017 - 06/2018
 
 ​<audio id="audio" controls="" preload="none">
       <source id="mp3" src="">
