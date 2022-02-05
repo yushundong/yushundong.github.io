@@ -19,7 +19,7 @@ I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, *
 News
 ------
 * Jan. 2022: Two papers accepted by WWW 2022.
-* Jan. 2021: One paper accepted by PAKDD 2022.
+* Jan. 2022: One paper accepted by PAKDD 2022.
 <!-- * Aug. 2021: One paper accepted by CIKM 2021. -->
 <!-- * May 2021: One paper accepted by SIGKDD 2021. -->
 
