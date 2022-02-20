@@ -38,11 +38,12 @@ Mentored Students
 
 Services
 ------
-* **Program Committee Member**: SIGKDD 2022, AAAI 2022, WSDM 2022, CIKM 2021.
+* **Invited Program Committee Member**: CIKM 2022, SIGKDD 2022, AAAI 2022, WSDM 2022, etc.
+<!-- * CIKM 2021. -->
 <!-- * **Reviewer & External Reviewer**: TKDE, TKDD, SIGKDD'21, SIGIR'21, ICML'21, PAKDD'21, WWW'21, ICLR'20, WSDM'21, BigData'20, SIGKDD'20, SIGIR'20, NeurIPS'20, WWW'20, ECML-PKDD'20, CIKM'20. -->
-* **Reviewer & External Reviewer**:
+* **Invited Reviewer & External Reviewer**:
 SIGKDD, SIGIR, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKDD, BigData, etc.
-* **Volunteer**: SIGKDD 2021, IJCAI 2021, SIGKDD 2020.
+* **Volunteer**: SIGKDD 2021, IJCAI 2021, SIGKDD 2020, etc.
 
 
 
