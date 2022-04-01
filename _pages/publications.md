@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - (To appear) *Empowering Next POI Recommendation with Multi-Relation Modeling (short paper)* [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
-Zheng Huang, Jing Ma, **Yushun Dong**, Natasha Zhang, Jundong Li <br>
+Zheng Huang, Jing Ma, **Yushun Dong**, Natasha Zhang Foutz, Jundong Li <br>
 Special Interest Group on Information Retrieval (**SIGIR 2022**). 
 
 - (To appear) *EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks* [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
