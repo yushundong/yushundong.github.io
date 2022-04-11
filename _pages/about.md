@@ -52,7 +52,7 @@ SIGKDD, SIGIR, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKD
 Honors
 ------
 * WSDM Student Travel Award 2022
-* McVey Fellowship 2021
+* McVey Fellowship at UVa ECE Department 2021
 * SIGIR Student Travel Award 2021
 * The Web Conference Scholarship 2021
 * SDM Ph.D. Forum Presenter 2021
