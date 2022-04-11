@@ -54,8 +54,8 @@ Honors
 * WSDM Student Travel Award 2022
 * McVey Fellowship at UVa ECE Department 2021
 * SIGIR Student Travel Award 2021
-* The Web Conference Scholarship 2021
-* SDM Ph.D. Forum Presenter 2021
+<!-- * The Web Conference Scholarship 2021 -->
+<!-- * SDM Ph.D. Forum Presenter 2021 -->
 <!-- * McVey Fellowship 2021 (**One of the limited two** at UVa ECE Department) -->
 <!-- * SDM Student Travel Award 2021 -->
 <!-- * SIGKDD Student Travel Award 2020 -->
