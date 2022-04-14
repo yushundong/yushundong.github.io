@@ -9,11 +9,11 @@ author_profile: true
 Zheng Huang, Jing Ma, **Yushun Dong**, Natasha Zhang Foutz, Jundong Li <br>
 Special Interest Group on Information Retrieval (**SIGIR 2022**). 
 
-- (To appear) *EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks* [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+- (To appear) *EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks* [\[PDF\]](http://yushundong.github.io/files/WWW2022_EDITS.pdf) [\[Code\]](https://github.com/yushundong/EDITS) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Ninghao Liu, Brian Jalaian, Jundong Li <br>
 International Conference on World Wide Web (**WWW 2022**). 
 
-- (To appear) *Assessing the Causal Impact of COVID-19 Related Policies on Outbreak Dynamics: A Case Study in the US* [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+- (To appear) *Assessing the Causal Impact of COVID-19 Related Policies on Outbreak Dynamics: A Case Study in the US* [\[PDF\]](http://yushundong.github.io/files/WWW2022_casual.pdf) [\[Code\]](https://github.com/QIDSOD/COVID-19-Policy-Causal) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Jing Ma, **Yushun Dong**, Zheng Huang, Daniel Mietchen, Jundong Li <br>
 International Conference on World Wide Web (**WWW 2022**). 
 
