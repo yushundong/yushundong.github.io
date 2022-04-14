@@ -13,7 +13,7 @@ Special Interest Group on Information Retrieval (**SIGIR 2022**).
 Zhiming Xu, Xiao Huang, Yue Zhao, **Yushun Dong**, Jundong Li <br>
 International Conference on Information and Knowledge Management (**PAKDD 2022**). 
 
-- *EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks* [\[PDF\]](http://yushundong.github.io/files/WWW2022_EDITS.pdf) [\[Code\]](https://github.com/yushundong/EDITS) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+- *EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks* [\[PDF\]](http://yushundong.github.io/files/WWW2022_EDITS_final.pdf) [\[Code\]](https://github.com/yushundong/EDITS) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Ninghao Liu, Brian Jalaian, Jundong Li <br>
 International Conference on World Wide Web (**WWW 2022**). 
 
