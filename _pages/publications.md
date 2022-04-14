@@ -13,7 +13,7 @@ Special Interest Group on Information Retrieval (**SIGIR 2022**).
 **Yushun Dong**, Ninghao Liu, Brian Jalaian, Jundong Li <br>
 International Conference on World Wide Web (**WWW 2022**). 
 
-- (To appear) *Assessing the Causal Impact of COVID-19 Related Policies on Outbreak Dynamics: A Case Study in the US* [\[PDF\]](http://yushundong.github.io/files/WWW2022_casual.pdf) [\[Code\]](https://github.com/QIDSOD/COVID-19-Policy-Causal) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+- (To appear) *Assessing the Causal Impact of COVID-19 Related Policies on Outbreak Dynamics: A Case Study in the US* [\[PDF\]](http://yushundong.github.io/files/WWW2022_causal.pdf) [\[Code\]](https://github.com/QIDSOD/COVID-19-Policy-Causal) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Jing Ma, **Yushun Dong**, Zheng Huang, Daniel Mietchen, Jundong Li <br>
 International Conference on World Wide Web (**WWW 2022**). 
 
