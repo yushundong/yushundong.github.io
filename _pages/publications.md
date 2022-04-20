@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - (To appear) *FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs* [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
-Song Wang, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li <br>
+Song Wang, **Yushun Dong**, Xiao Huang, Chen Chen, Jundong Li <br>
 International Joint Conference on Artificial Intelligence (**IJCAI 2022**). 
 
 - (To appear) *Empowering Next POI Recommendation with Multi-Relation Modeling (short paper)* [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
