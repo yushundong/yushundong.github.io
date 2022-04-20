@@ -18,7 +18,8 @@ I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, *
 
 News
 ------
-* Apr. 2022: One paper accepted by SIGIR 2022.
+* Apr. 2022: One paper accepted by IJCAI 2022.
+<!-- * Apr. 2022: One paper accepted by SIGIR 2022. -->
 <!-- * Jan. 2022: Two papers accepted by WWW 2022. -->
 <!-- * Jan. 2022: One paper accepted by PAKDD 2022. -->
 <!-- * Aug. 2021: One paper accepted by CIKM 2021. -->
