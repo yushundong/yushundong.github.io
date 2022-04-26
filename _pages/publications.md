@@ -3,7 +3,11 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /publications/
+  - /publications.html
 ---
+
 ## Preprints
 ---
 1. Fairness in Graph Mining: A Survey [\[PDF\]](http://yushundong.github.io/files/fairness_survey.pdf) [\[Code\]](https://github.com/yushundong/Graph-Mining-Fairness-Data) [\[Slides\]](https://yushundong.github.io//publications/)<br>
