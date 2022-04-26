@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- *Fairness in Graph Mining: A Survey* [\[PDF\]](http://yushundong.github.io/files/fairness in graph mining-survey.pdf) [\[Code\]](https://github.com/yushundong/Graph-Mining-Fairness-Data) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+- *Fairness in Graph Mining: A Survey* [\[PDF\]](http://yushundong.github.io/files/fairness_survey.pdf) [\[Code\]](https://github.com/yushundong/Graph-Mining-Fairness-Data) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Jing Ma, Chen Chen, Jundong Li <br>
 arXiv preprint arXiv:2204.09888 (**arXiv**). 
 
