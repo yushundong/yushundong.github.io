@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+- *Fairness in Graph Mining: A Survey* [\[PDF\]](http://yushundong.github.io/files/fairness in graph mining-survey.pdf) [\[Code\]](https://github.com/yushundong/Graph-Mining-Fairness-Data) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+**Yushun Dong**, Jing Ma, Chen Chen, Jundong Li <br>
+arXiv preprint arXiv:2204.09888 (**arXiv**). 
+
 - (To appear) *FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs* [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Song Wang, **Yushun Dong**, Xiao Huang, Chen Chen, Jundong Li <br>
 International Joint Conference on Artificial Intelligence (**IJCAI 2022**). 
