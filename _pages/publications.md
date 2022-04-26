@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Preprints
+---
 
 1. Fairness in Graph Mining: A Survey [\[PDF\]](http://yushundong.github.io/files/fairness_survey.pdf) [\[Code\]](https://github.com/yushundong/Graph-Mining-Fairness-Data) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Jing Ma, Chen Chen, Jundong Li <br>
@@ -13,8 +14,11 @@ arXiv preprint arXiv:2204.09888 (**arXiv**).
 
 
 ## Conference Publications
+---
 
 ### 2022
+-
+
 1. (To appear) FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Song Wang, **Yushun Dong**, Xiao Huang, Chen Chen, Jundong Li <br>
 International Joint Conference on Artificial Intelligence (**IJCAI 2022**). 
@@ -36,6 +40,7 @@ Jing Ma, **Yushun Dong**, Zheng Huang, Daniel Mietchen, Jundong Li <br>
 International Conference on World Wide Web (**WWW 2022**). 
 
 ### 2021
+-
 
 1. Graph Neural Networks with Adaptive Frequency Response Filter [\[PDF\]](http://yushundong.github.io/files/cikm2021.pdf) [\[Code\]](https://github.com/yushundong/AdaGNN) [\[Slides\]](http://yushundong.github.io/files/slides_cikm2021.pdf)<br>
 **Yushun Dong**, Kaize Ding, Brian Jalaian, Shuiwang Ji, Jundong Li <br>
@@ -46,6 +51,7 @@ International Conference on Information and Knowledge Management (**CIKM 2021**)
 SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**). 
 
 ### Earlier
+-
 
 1. Forecasting Pavement Performance with a Feature Fusion LSTM-BPNN Model [\[PDF\]](http://yushundong.github.io/files/cikm2019.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Yingxia Shao, Xiaotong Li, Sili Li, Lei Quan, Wei Zhang, Junping Du <br>
