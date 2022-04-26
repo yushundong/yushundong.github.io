@@ -18,7 +18,7 @@ I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, *
 
 News
 ------
-Apr. 2022: An inetresting and comprehensive paper "Fairness in Graph Mining: A Survey" released! [\[arxiv\]](https://arxiv.org/abs/2204.09888)
+Apr. 2022: An inetresting and comprehensive survey paper "Fairness in Graph Mining: A Survey" released! [\[arxiv\]](https://arxiv.org/abs/2204.09888)
 <!-- * Apr. 2022: One paper accepted by IJCAI 2022. -->
 <!-- * Apr. 2022: One paper accepted by SIGIR 2022. -->
 <!-- * Jan. 2022: Two papers accepted by WWW 2022. -->
