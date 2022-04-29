@@ -29,11 +29,19 @@ Apr. 2022: An interesting and comprehensive survey paper "Fairness in Graph Mini
 
 Mentored Students
 ------
-* Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa)
+* Pranav Bangarbale (Undergrad in CS @UVa)
+* Yiling Yuan (Undergrad in CS @BUPT)
 * Srimanth Tangedipalli (Undergrad in CS @UVa)
 * Mike Song (Quantitative researcher @J.P. Morgan)
+* Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa)
 * Deepaloke Chattopadhyay (M.S. @UVa, now Data Scientist @2nd Order Solutions)
-* Zheng Huang (M.S. @UVa)
+* Edward Wei (Undergrad in CS @UVa)
+* Kerui Huang (Undergrad in CS @UVa)
+* Zheng Huang (M.S. @UVa, now Software Development Engineer @Amazon)
+<!-- * Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa) -->
+<!-- * Srimanth Tangedipalli (Undergrad in CS @UVa) -->
+<!-- * Mike Song (Quantitative researcher @J.P. Morgan) -->
+<!-- * Deepaloke Chattopadhyay (M.S. @UVa, now Data Scientist @2nd Order Solutions) -->
 <!-- * Chen Fan (M.S. @UMass) -->
 <!-- * Srimanth Tangedipalli (B.S. in Computer Science @UVa) -->
 <!-- * Nitin Maddi (B.S. in Computer Science @UVa) -->
