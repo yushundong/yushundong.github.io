@@ -18,7 +18,7 @@ I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, *
 
 News
 ------
-* Apr. 2022: Best Poster (Runner Up) @Ph.D. Forum of SDM. Thanks for the efforts of organizers.
+* Apr. 2022: Best Poster (Runner Up) @Doctoral Forum of SDM. Thanks for the efforts of organizers.
 * Apr. 2022: An interesting and comprehensive survey paper "Fairness in Graph Mining: A Survey" released. [\[arXiv\]](https://arxiv.org/abs/2204.09888)
 <!-- * Apr. 2022: One paper accepted by IJCAI 2022. -->
 <!-- * Apr. 2022: One paper accepted by SIGIR 2022. -->
@@ -62,7 +62,7 @@ SIGKDD, SIGIR, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKD
 
 Recent Honors
 ------
-* Best Poster (Runner Up) @Ph.D. Forum of SIAM International Conference on Data Mining 2022
+* Best Poster (Runner Up) @Doctoral Forum of SIAM International Conference on Data Mining 2022
 * SDM Student Travel Award 2022
 <!-- * Ph.D. Forum Presenter @SIAM International Conference on Data Mining 2022 -->
 <!-- * WSDM Student Travel Award 2022 -->
