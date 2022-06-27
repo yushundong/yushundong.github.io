@@ -18,6 +18,7 @@ I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, *
 
 News
 ------
+* May. 2022: Three papers accepted by SIGKDD 2022. Congratulations to Mike and Song!
 * Apr. 2022: Best Poster (Runner Up) @Doctoral Forum of SDM. Thanks for the efforts of organizers.
 * Apr. 2022: An interesting and comprehensive survey paper "Fairness in Graph Mining: A Survey" released. [\[arXiv\]](https://arxiv.org/abs/2204.09888)
 <!-- * Apr. 2022: One paper accepted by IJCAI 2022. -->
