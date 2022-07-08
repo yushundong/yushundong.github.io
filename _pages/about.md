@@ -61,16 +61,16 @@ SIGKDD, SIGIR, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKD
 
 
 
-Recent Honors
+Honors
 ------
 * Best Poster (Runner Up) @Doctoral Forum of SIAM International Conference on Data Mining 2022
 * SDM Student Travel Award 2022
-<!-- * Ph.D. Forum Presenter @SIAM International Conference on Data Mining 2022 -->
 * WSDM Student Travel Award 2022
-* McVey Fellowship at UVa ECE Department 2021
-<!-- * SIGIR Student Travel Award 2021 -->
 * SIGKDD Student Travel Award 2020
 * The Web Conference Scholarship 2021
+* McVey Fellowship at UVa ECE Department 2021
+<!-- * Ph.D. Forum Presenter @SIAM International Conference on Data Mining 2022 -->
+<!-- * SIGIR Student Travel Award 2021 -->
 <!-- * SDM Ph.D. Forum Presenter 2021 -->
 <!-- * SDM Student Travel Award 2021 -->
 <!-- * Excellent Bachelor Thesis of BUPT **(Top 0.5%)**, 2019 -->
