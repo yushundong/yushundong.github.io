@@ -19,7 +19,7 @@ arXiv preprint arXiv:2204.09888 (**arXiv**).
 **Yushun Dong**, Song Wang, Yu Wang, Tyler Derr, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
-2. (To appear) GUIDE: Group Equality Informed Individual Fairness in Graph Neural Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+2. (To appear) GUIDE: Group Equality Informed Individual Fairness in Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/KDD22_group_individual.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Weihao Song, **Yushun Dong**, Ninghao Liu, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
