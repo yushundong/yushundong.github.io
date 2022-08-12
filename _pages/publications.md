@@ -11,6 +11,9 @@ author_profile: true
 **Yushun Dong**, Jing Ma, Chen Chen, Jundong Li <br>
 arXiv preprint arXiv:2204.09888 (**arXiv**). 
 
+2. Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications [\[PDF\]](http://yushundong.github.io/files/fairness_survey.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Xingbo Fu, Binchi Zhang, **Yushun Dong**, Chen Chen, Jundong Li <br>
+arXiv preprint arXiv:2207.11812 (**arXiv**). 
 
 ## Conference Publications
 
