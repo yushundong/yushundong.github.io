@@ -18,6 +18,7 @@ I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, *
 
 News
 ------
+* July 2022: An interesting and comprehensive survey paper "Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications" released. [\[arXiv\]](https://arxiv.org/pdf/2207.11812.pdf) [\[Blog in Chinese\]](https://mp.weixin.qq.com/s/w0_DSd-hteYGfWnwKEALNQ)
 * May. 2022: Three papers accepted by SIGKDD 2022.
 * Apr. 2022: Best Poster (Runner Up) @Doctoral Forum of SDM. Thanks for the efforts of organizers.
 * Apr. 2022: An interesting and comprehensive survey paper "Fairness in Graph Mining: A Survey" released. [\[arXiv\]](https://arxiv.org/abs/2204.09888) [\[Blog in Chinese\]](https://github.com/yushundong/Fairness-in-Graph-Mining-A-Survey)
