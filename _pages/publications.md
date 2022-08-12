@@ -15,7 +15,7 @@ arXiv preprint arXiv:2204.09888 (**arXiv**).
 ## Conference Publications
 
 ### 2022
-1. (To appear) On Structural Explanation of Bias in Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/kdd2022.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+1. (To appear) On Structural Explanation of Bias in Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/kdd2022.pdf) [\[Code\]](https://github.com/yushundong/REFEREE) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Song Wang, Yu Wang, Tyler Derr, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
