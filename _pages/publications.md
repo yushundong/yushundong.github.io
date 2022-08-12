@@ -23,7 +23,7 @@ SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**).
 Weihao Song, **Yushun Dong**, Ninghao Liu, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
-3. (To appear) Fair View Graph Neural Network for Fair Node Representation Learning [\[PDF\]](http://yushundong.github.io/files/kdd2022_yuwang.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+3. (To appear) Fair View Graph Neural Network for Fair Node Representation Learning [\[PDF\]](http://yushundong.github.io/files/kdd2022_yuwang.pdf) [\[Code\]](https://github.com/YuWVandy/FairVGNN) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Yu Wang, Yuying Zhao, **Yushun Dong**, Huiyuan Chen, Jundong Li, Tyler Derr <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
