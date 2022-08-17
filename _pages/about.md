@@ -18,6 +18,7 @@ I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, *
 
 News
 ------
+* Aug. 2022: One tutorial accepted by ICDM 2022.
 * July 2022: An interesting and comprehensive survey paper "Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications" released. [\[arXiv\]](https://arxiv.org/pdf/2207.11812.pdf) [\[Blog in Chinese\]](https://mp.weixin.qq.com/s/w0_DSd-hteYGfWnwKEALNQ)
 * May. 2022: Three papers accepted by SIGKDD 2022.
 * Apr. 2022: Best Poster (Runner Up) @Doctoral Forum of SDM. Thanks for the efforts of organizers.
@@ -64,7 +65,7 @@ SIGKDD, SIGIR, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKD
 
 Honors
 ------
-* Best Poster (Runner Up) @Doctoral Forum of SIAM International Conference on Data Mining 2022
+* Best Poster (Runner Up) @Doctoral Forum of SIAM International Conference on Data Mining 2022 [\[Certificate\]](http://yushundong.github.io/files/BestPoster-RunnerUp.pdf)
 * SDM Student Travel Award 2022
 * WSDM Student Travel Award 2022
 * SIGKDD Student Travel Award 2020
