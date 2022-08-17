@@ -15,6 +15,11 @@ arXiv preprint arXiv:2204.09888 (**arXiv**).
 Xingbo Fu, Binchi Zhang, **Yushun Dong**, Chen Chen, Jundong Li <br>
 arXiv preprint arXiv:2207.11812 (**arXiv**). 
 
+## Tutorials
+1. Fairness in Graph Mining: Metrics, Algorithms, and Applications [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+**Yushun Dong**, Jing Ma, Chen Chen, Jundong Li <br>
+The IEEE International Conference on Data Mining (**ICDM 2022**). 
+
 ## Conference Publications
 
 ### 2022
