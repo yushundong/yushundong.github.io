@@ -23,15 +23,15 @@ The IEEE International Conference on Data Mining (**ICDM 2022**).
 ## Conference Publications
 
 ### 2022
-1. (To appear) On Structural Explanation of Bias in Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/kdd2022.pdf) [\[Code\]](https://github.com/yushundong/REFEREE) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+1. On Structural Explanation of Bias in Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/kdd2022.pdf) [\[Code\]](https://github.com/yushundong/REFEREE) [\[Slides\]](http://yushundong.github.io/files/REFEREE_Slides.pdf)<br>
 **Yushun Dong**, Song Wang, Yu Wang, Tyler Derr, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
-2. (To appear) GUIDE: Group Equality Informed Individual Fairness in Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/KDD22_group_individual.pdf) [\[Code\]](https://github.com/mikesong724/GUIDE) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+2. GUIDE: Group Equality Informed Individual Fairness in Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/KDD22_group_individual.pdf) [\[Code\]](https://github.com/mikesong724/GUIDE) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Weihao Song, **Yushun Dong**, Ninghao Liu, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
-3. (To appear) Fair View Graph Neural Network for Fair Node Representation Learning [\[PDF\]](http://yushundong.github.io/files/kdd2022_yuwang.pdf) [\[Code\]](https://github.com/YuWVandy/FairVGNN) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+3. Fair View Graph Neural Network for Fair Node Representation Learning [\[PDF\]](http://yushundong.github.io/files/kdd2022_yuwang.pdf) [\[Code\]](https://github.com/YuWVandy/FairVGNN) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Yu Wang, Yuying Zhao, **Yushun Dong**, Huiyuan Chen, Jundong Li, Tyler Derr <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
