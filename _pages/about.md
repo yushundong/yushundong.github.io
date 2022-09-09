@@ -53,6 +53,7 @@ Mentored Students
 
 Services
 ------
+* **Invited Program Committee Co-Chairs**: SDM 2023.
 * **Invited Program Committee Member**: CIKM 2022, SIGKDD 2022, AAAI 2022, WSDM 2022, etc.
 * **Invited Reviewer & External Reviewer**:
 SIGKDD, SIGIR, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKDD, BigData, etc.
