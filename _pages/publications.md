@@ -23,35 +23,40 @@ The IEEE International Conference on Data Mining (**ICDM 2022**).
 ## Conference Publications
 
 ### 2022
-1. On Structural Explanation of Bias in Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/kdd2022.pdf) [\[Code\]](https://github.com/yushundong/REFEREE) [\[Slides\]](http://yushundong.github.io/files/REFEREE_Slides.pdf)<br>
+
+1. Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications (Spotlight) [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Xingbo Fu, Binchi Zhang, **Yushun Dong**, Chen Chen, Jundong Li <br>
+International Workshop on Federated Learning with Graph Data (**CIKM 2022**). 
+
+2. On Structural Explanation of Bias in Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/kdd2022.pdf) [\[Code\]](https://github.com/yushundong/REFEREE) [\[Slides\]](http://yushundong.github.io/files/REFEREE_Slides.pdf)<br>
 **Yushun Dong**, Song Wang, Yu Wang, Tyler Derr, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
-2. GUIDE: Group Equality Informed Individual Fairness in Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/KDD22_group_individual.pdf) [\[Code\]](https://github.com/mikesong724/GUIDE) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+3. GUIDE: Group Equality Informed Individual Fairness in Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/KDD22_group_individual.pdf) [\[Code\]](https://github.com/mikesong724/GUIDE) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Weihao Song, **Yushun Dong**, Ninghao Liu, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
-3. Fair View Graph Neural Network for Fair Node Representation Learning [\[PDF\]](http://yushundong.github.io/files/kdd2022_yuwang.pdf) [\[Code\]](https://github.com/YuWVandy/FairVGNN) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+4. Fair View Graph Neural Network for Fair Node Representation Learning [\[PDF\]](http://yushundong.github.io/files/kdd2022_yuwang.pdf) [\[Code\]](https://github.com/YuWVandy/FairVGNN) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Yu Wang, Yuying Zhao, **Yushun Dong**, Huiyuan Chen, Jundong Li, Tyler Derr <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
-4. FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs [\[PDF\]](http://yushundong.github.io/files/faith.pdf) [\[Code\]](https://github.com/SongW-SW/FAITH) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+5. FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs [\[PDF\]](http://yushundong.github.io/files/faith.pdf) [\[Code\]](https://github.com/SongW-SW/FAITH) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Song Wang, **Yushun Dong**, Xiao Huang, Chen Chen, Jundong Li <br>
 International Joint Conference on Artificial Intelligence (**IJCAI 2022**). 
 
-5. Empowering Next POI Recommendation with Multi-Relation Modeling (short paper) [\[PDF\]](http://yushundong.github.io/files/poi.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+6. Empowering Next POI Recommendation with Multi-Relation Modeling (short paper) [\[PDF\]](http://yushundong.github.io/files/poi.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Zheng Huang, Jing Ma, **Yushun Dong**, Natasha Zhang Foutz, Jundong Li <br>
 Special Interest Group on Information Retrieval (**SIGIR 2022**). 
 
-6. EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/WWW2022_EDITS.pdf) [\[Code\]](https://github.com/yushundong/EDITS) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+7. EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/WWW2022_EDITS.pdf) [\[Code\]](https://github.com/yushundong/EDITS) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Ninghao Liu, Brian Jalaian, Jundong Li <br>
 International Conference on World Wide Web (**WWW 2022**). 
 
-7. Assessing the Causal Impact of COVID-19 Related Policies on Outbreak Dynamics: A Case Study in the US [\[PDF\]](http://yushundong.github.io/files/WWW2022_causal.pdf) [\[Code\]](https://github.com/QIDSOD/COVID-19-Policy-Causal) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+8. Assessing the Causal Impact of COVID-19 Related Policies on Outbreak Dynamics: A Case Study in the US [\[PDF\]](http://yushundong.github.io/files/WWW2022_causal.pdf) [\[Code\]](https://github.com/QIDSOD/COVID-19-Policy-Causal) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Jing Ma, **Yushun Dong**, Zheng Huang, Daniel Mietchen, Jundong Li <br>
 International Conference on World Wide Web (**WWW 2022**). 
 
-8. Contrastive Attributed Network Anomaly Detection with Data Augmentation [\[PDF\]](http://yushundong.github.io/files/contrastive.pdf) [\[Code\]](https://github.com/zhiming-xu/conad) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+9. Contrastive Attributed Network Anomaly Detection with Data Augmentation [\[PDF\]](http://yushundong.github.io/files/contrastive.pdf) [\[Code\]](https://github.com/zhiming-xu/conad) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Zhiming Xu, Xiao Huang, Yue Zhao, **Yushun Dong**, Jundong Li <br>
 International Conference on Information and Knowledge Management (**PAKDD 2022**). 
 
