@@ -24,7 +24,7 @@ The IEEE International Conference on Data Mining (**ICDM 2022**).
 
 ### 2022
 
-1. Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications (Spotlight) [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+1. Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications (Spotlight) [\[PDF\]](http://yushundong.github.io/files/FedGraph2022.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Xingbo Fu, Binchi Zhang, **Yushun Dong**, Chen Chen, Jundong Li <br>
 International Workshop on Federated Learning with Graph Data (**FedGraph 2022**). 
 
