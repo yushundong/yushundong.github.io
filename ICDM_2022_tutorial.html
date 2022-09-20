@@ -1,0 +1,142 @@
+<!-- <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"> -->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width initial-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<div style="width:80%; margin:0 auto;">
+
+
+<title>ICDM 2022 Tutorial</title>
+</head>
+<body>
+
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<!-- <div class="menu-category"><img class="menu" src="chuxu.jpg" width="110px" height="160px"  align="center"></div>
+<div class="menu-item"><a href="index.html" class="current">Home</a></div>
+<div class="menu-item"><a href="publications.html">Publication</a></div>
+<div class="menu-item"><a href="services.html">Service</a></div> -->
+</td>
+
+<center>
+<h1>ICDM 2022 Tutorial: Fairness in Graph Mining: Metrics, Algorithms, and Applications</h1>
+</center>
+<center>
+<h2>EST Time: to be released, 2022</h2>
+</center>
+
+ <hr>
+
+<h2 id="description"><u>Description</u></h2>
+Graph data is ubiquitous in diverse real-world applications. To gain a deeper understanding of these graphs, graph mining algorithms have been playing a significant role over the years. Nevertheless, most graph mining algorithms lack fairness consideration. As a consequence, they could render discriminatory results against certain demographic subgroups or individuals. Such potential discrimination leads to an increasing societal concern about alleviating the bias exhibited in graph mining algorithms. In this tutorial, we provide a comprehensive overview of the recent research progress in measuring and mitigating the bias exhibited in graph mining algorithms. Specifically, we first introduce several widely-used fairness notions and the corresponding metrics. Then, we present an organized summary of existing techniques to debias graph mining algorithms. Furthermore, we demonstrate how different real-world applications benefit from these graph mining algorithms after debiasing. Finally, we provide insights on current research challenges and open questions to encourage further advances.
+
+<br />
+
+<font size="3" color="black" ><b>Keywords</b></font>: Graph Mining Algorithms, Debiasing, Algorithmic Fairness<br>
+
+<!-- <b>Proposal</b></font>: <a style="color: rgb(0, 43, 91); text-decoration: none;" href="KDD20_Tutorial.pdf">Multi-modal Network Representation Learning<font color="red"></font> </a>
+ -->
+ <hr>
+  
+
+  
+  
+<h2 id="content"><u>Content </u> <a style="color: rgb(0, 43, 91); text-decoration: none;" href="https://yushundong.github.io/">[Slides]</a></h2>
+<h3>Part 1: Introduction </a> </h3>
+  
+<ul style="list-style-type:disc;">
+<li>Background and Motivation.</li>
+<li>An overview of graph mining tasks that have been studied on algorithmic bias mitigation.</li> 
+<li>An overview of the applications which benefit from debiased graph mining algorithms.</li>
+</ul>
+  
+<h3>Part 2: Fairness Notions and Metrics in Graph Mining </a> </h3>
+
+<ul style="list-style-type:disc;">
+<li>Why is it necessary to define fairness in different ways?</li>
+<li>Group Fairness: graph mining algorithms should not render discriminatory predictions or decisions against individuals from any specific sensitive subgroup.</li>  
+<li>Individual Fairness: graph mining algorithms should render similar predictions for similar individuals.</li>
+<li>Counterfactual Fairness: an individual should receive similar predictions when his/her features are perturbed in a counterfactual manner.</li>
+<li>Degree-Related Fairness: nodes with different degree values in the graph should receive similar quality of predictions.</li>
+<li>Application-Specific Fairness: fairness notions defined in specific real-world applications.</li>
+</ul>
+
+  
+<h3>Part 3: Techniques to Debias Graph Mining Algorithms</h3> 
+
+<ul style="list-style-type:disc;">
+<li>Optimization with regularization.</li>
+<li>Optimization with constraint.</li>
+<li>Adversarial learning.</li>
+<li>Edge re-wiring.</li>
+<li>Re-balancing.</li>
+<li>Orthogonal projection.</li>
+</ul>
+
+
+<h3>Part 4: Real-World Application Scenarios</h3>
+  
+<ul style="list-style-type:disc;">
+<li>Recommender systems.</li>
+<li>Applications based on knowledge graphs.</li>
+<li>Other real-world applications, including candidate-job matching, criminal justice, transportation optimization, credit default prediction, etc.</li>
+</ul>
+  
+
+<h3>Part 5: Summary, Challenges, and Future Directions</h3>
+  
+
+<ul style="list-style-type:disc;">
+<li>Summary of presented fairness notions, metrics and debiasing techniques in graph mining.</li>
+<li>Summary on current challenges and future directions.</li>
+<li>Discussion with audience on which fairness notion, metric should be applied to their own application scenarios.</li>
+</ul>
+  
+
+<hr>
+
+  
+  
+<h2 id="presenter"><u>Presenters</u></h2>
+<!-- <h2><p><img src="yushun.jpg" alt="Smiley face" align="left" height="120" width="100"></p> &nbsp;</h2> -->
+<a style="color: rgb(0, 43, 91); text-decoration: none;" href="https://yushundong.github.io/"><font size="4"><b>
+  <p><img src="image/yushun.jpg" alt="Smiley face" align="left" height="90" width="80"></p> &nbsp;Yushun Dong </b></font></a></div> is a third-year Ph.D. student in the Department of Electrical and Computer Engineering at the University of Virginia. His research interest broadly lies in the graph mining realm, with a particular interest in algorithmic fairness problems in graph mining. He has been studying how to mitigate and interpret the exhibited bias in graph mining algorithms for more than two years, and his related papers have been accepted in top-tier conferences, including SIGKDD and WWW. He is also the first author of a recent survey paper on algorithmic fairness in graph mining.
+<p></p> 
+
+<br />
+  
+<a style="color: rgb(0, 43, 91); text-decoration: none;" href="https://www.cs.virginia.edu/~jm3mr/"><font size="4"><b>
+  <p><img src="image/jing.jpg" alt="Smiley face" align="left" height="90" width="80"></p> &nbsp;Jing Ma </b></font></a></div> is a Ph.D. candidate in the Department of Computer Science at the University of Virginia. Her research interests include causal inference, machine learning, data mining, and especially for bridging the gap between causality and machine learning. Her works have been published in top conferences and journals such as KDD, IJCAI, WWW, AAAI, TKDE, SIGIR, and IPSN.
+<p></p> 
+
+<br />
+
+<a style="color: rgb(0, 43, 91); text-decoration: none;" href="https://chenannie45.github.io"><font size="4"><b><p><img src="image/chen.jpg" alt="Smiley face" align="left" height="90" width="80"></p> &nbsp;Chen Chen </b></font></a></div>  is a Research Assistant Professor at the University of Virginia. She got her Ph.D. degree from Arizona State University. Her research focuses on the connectivity of complex networks and has been applied to address pressing challenges in various high-impact domains, including social media, bioinformatics, recommendation, and critical infrastructure systems. Her research has appeared in top-tier conferences (including KDD, ICDM, SIGIR, etc.), and prestigious journals (including IEEE TKDE, ACM TKDD, and SIAM SAM). Chen has received several awards, including Bests of SDM'15, Bests of KDD'16, Rising Star in EECS'19, Outstanding Reviewer of WSDM'21.
+<p></p> 
+
+<br />
+
+
+<a style="color: rgb(0, 43, 91); text-decoration: none;" href="http://www.ece.virginia.edu/~jl6qk/"><font size="4"><b><p><img src="image/jundong.jpg" alt="Smiley face" align="left" height="90" width="80"></p> &nbsp;Jundong Li </b></font></a></div>  is an Assistant Professor in the Department of Electrical and Computer Engineering, with a joint appointment in the Department of Computer Science, and the School of Data Science. He received Ph.D. degree in Computer Science at Arizona State University in 2019. His research interests are in data mining, machine learning, and causal inference. He has published over 100 articles in high-impact venues (e.g., KDD, WWW, AAAI, IJCAI, and WSDM.). He has won prestigious awards including NSF CAREER Award, JP Morgan Chase Faculty Research Award, Cisco Faculty Research Award, and being selected for the AAAI 2021 New Faculty Highlights program.
+<p></p> 
+
+
+<hr>
+
+
+
+
+<div style="text-align:center"><font size="2">Powered by Yushun Dong @UVa, 2022</font></a></div>
+
+
+
+</td>
+</tr>
+</table>
+</body>
+</div>
+
+</html>
