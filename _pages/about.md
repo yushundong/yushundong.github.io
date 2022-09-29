@@ -32,7 +32,7 @@ News
 <!-- * May 2021: One paper accepted by SIGKDD 2021. -->
 
 
-Industrial Research Experience
+Experiences
 ------
 * Research Intern, Microsoft Research. June 2022 – Sep. 2022
 * Research Intern, Turing Inc. July 2019 – Sep. 2019
