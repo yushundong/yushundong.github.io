@@ -73,7 +73,7 @@ SIGKDD, SIGIR, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKD
 
 Invited Talks
 ------
-* Invited Speaker of DEFirst Group @Université de Montreal [\[Slides\]](http://yushundong.github.io/files/Fairness_Invited_Talk.pdf).
+* **Invited Speaker** at DEFirst Group, Université de Montreal [\[Slides\]](http://yushundong.github.io/files/Fairness_Invited_Talk.pdf).
 
 
 Honors
