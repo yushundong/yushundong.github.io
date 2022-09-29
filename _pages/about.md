@@ -32,6 +32,12 @@ News
 <!-- * May 2021: One paper accepted by SIGKDD 2021. -->
 
 
+Industrial Research Experience
+------
+* Research Intern, Microsoft Research. June 2022 – Sep. 2022
+* Research Intern, Turing Inc. July 2019 – Sep. 2019
+
+
 Mentored Students
 ------
 * Pranav Bangarbale (Undergrad in CS @UVa)
@@ -63,6 +69,10 @@ SIGKDD, SIGIR, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKD
 <!-- * CIKM 2021. -->
 <!-- * **Reviewer & External Reviewer**: TKDE, TKDD, SIGKDD'21, SIGIR'21, ICML'21, PAKDD'21, WWW'21, ICLR'20, WSDM'21, BigData'20, SIGKDD'20, SIGIR'20, NeurIPS'20, WWW'20, ECML-PKDD'20, CIKM'20. -->
 
+
+Invited Talks
+------
+* Invited Speaker of DEFirst Group @Université de Montreal [\[Slides\]](http://yushundong.github.io/files/Fairness_Invited_Talk.pdf).
 
 
 Honors
