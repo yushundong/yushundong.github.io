@@ -48,9 +48,9 @@ Mentored Students
 * Mike Song (Quantitative researcher @J.P. Morgan)
 * Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa)
 * Deepaloke Chattopadhyay (M.S. @UVa, now Data Scientist @2nd Order Solutions)
-* Edward Wei (Undergrad in CS @UVa)
-* Kerui Huang (Undergrad in CS @UVa)
 * Zheng Huang (M.S. @UVa, now Software Development Engineer @Amazon)
+<!-- * * Edward Wei (Undergrad in CS @UVa) -->
+<!-- * Kerui Huang (Undergrad in CS @UVa) -->
 <!-- * Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa) -->
 <!-- * Srimanth Tangedipalli (Undergrad in CS @UVa) -->
 <!-- * Mike Song (Quantitative researcher @J.P. Morgan) -->
