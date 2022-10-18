@@ -18,6 +18,7 @@ I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, *
 
 News
 ------
+* Oct. 2022: One paper accepted by WSDM.
 * Sept. 2022: One paper accepted by SIGKDD Explorations.
 * Sept. 2022: One paper accepted as spotlight by FedGraph 2022.
 * Aug. 2022: One tutorial accepted by ICDM 2022 [\[Webpage\]](https://yushundong.github.io/ICDM_2022_tutorial.html).
