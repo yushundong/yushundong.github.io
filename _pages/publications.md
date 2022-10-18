@@ -29,6 +29,12 @@ SIGKDD Explorations.
 
 ## Conference Publications
 
+### 2023
+
+1. Few-shot Node Classification with Extremely Weak Supervision [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Song Wang, **Yushun Dong**, Kaize Ding, Chen Chen, Jundong Li <br>
+International Conference on Web Search and Data Mining (**WSDM 20223**). 
+
 ### 2022
 
 1. Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications (Spotlight) [\[PDF\]](http://yushundong.github.io/files/FedGraph2022.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
