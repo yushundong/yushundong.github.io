@@ -45,7 +45,7 @@ Mentored Students
 * Pranav Bangarbale (Undergrad in CS @UVa)
 * Yiling Yuan (Undergrad in CS @BUPT)
 * Srimanth Tangedipalli (Undergrad in CS @UVa)
-* Mike Song (Quantitative researcher @J.P. Morgan)
+* [Mike Song (Quantitative researcher @J.P. Morgan)](https://weihaosong.github.io)
 * Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa)
 * Deepaloke Chattopadhyay (M.S. @UVa, now Data Scientist @2nd Order Solutions)
 * Zheng Huang (M.S. @UVa, now Software Development Engineer @Amazon)
