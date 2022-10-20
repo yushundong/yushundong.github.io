@@ -42,13 +42,13 @@ Experiences
 
 Mentored Students
 ------
-* Pranav Bangarbale (Undergrad in CS @UVa)
-* Yiling Yuan (Undergrad in CS @BUPT)
-* Srimanth Tangedipalli (Undergrad in CS @UVa)
+* [Pranav Bangarbale (Undergrad in CS @UVa)](https://www.linkedin.com/in/pranav-bangarbale-42091721b/)
+* [Srimanth Tangedipalli (Undergrad in CS @UVa)](https://www.linkedin.com/in/srimanth-tangedipalli/)
 * [Mike Song (Quantitative researcher @J.P. Morgan)](https://weihaosong.github.io)
-* Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa)
-* Deepaloke Chattopadhyay (M.S. @UVa, now Data Scientist @2nd Order Solutions)
-* Zheng Huang (M.S. @UVa, now Software Development Engineer @Amazon)
+* [Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa)](https://www.linkedin.com/in/xuanjia-bi/)
+* [Deepaloke Chattopadhyay (M.S. @UVa, now Data Scientist @2nd Order Solutions)](https://www.linkedin.com/in/deepaloke-chattopadhyay/)
+* [Zheng Huang (M.S. @UVa, now Software Development Engineer @Amazon)](https://www.linkedin.com/in/zheng-huang-39822a1a2/)
+* Yiling Yuan (Undergrad in CS @BUPT)
 <!-- * * Edward Wei (Undergrad in CS @UVa) -->
 <!-- * Kerui Huang (Undergrad in CS @UVa) -->
 <!-- * Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa) -->
