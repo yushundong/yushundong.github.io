@@ -79,12 +79,13 @@ Invited Talks
 
 Honors
 ------
+* Endowed Fellowship at UVa Engineering School 2022
 * Best Poster (Runner Up) @Doctoral Forum of SIAM International Conference on Data Mining 2022 [\[Certificate\]](http://yushundong.github.io/files/BestPoster-RunnerUp.pdf)
 * SDM Student Travel Award 2022
 * WSDM Student Travel Award 2022
 * SIGKDD Student Travel Award 2020
 * The Web Conference Scholarship 2021
-* McVey Fellowship at UVa ECE Department 2021
+* McVey Fellowship at UVa Engineering School 2021
 <!-- * Ph.D. Forum Presenter @SIAM International Conference on Data Mining 2022 -->
 <!-- * SIGIR Student Travel Award 2021 -->
 <!-- * SDM Ph.D. Forum Presenter 2021 -->
