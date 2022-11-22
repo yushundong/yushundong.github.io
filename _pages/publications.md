@@ -31,9 +31,13 @@ SIGKDD Explorations.
 
 ### 2023
 
-1. Few-shot Node Classification with Extremely Weak Supervision [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+1. Interpreting Unfairness in Graph Neural Networks via Training Node Attribution [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/BIND) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+**Yushun Dong**, Song Wang, Jing Ma, Ninghao Liu, Jundong Li <br>
+AAAI Conference on Artificial Intelligence (**AAAI 2023**). 
+
+2. Few-shot Node Classification with Extremely Weak Supervision [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Song Wang, **Yushun Dong**, Kaize Ding, Chen Chen, Jundong Li <br>
-International Conference on Web Search and Data Mining (**WSDM 20223**). 
+International Conference on Web Search and Data Mining (**WSDM 2023**). 
 
 ### 2022
 
