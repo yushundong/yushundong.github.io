@@ -14,7 +14,7 @@ arXiv preprint arXiv:2204.09888 (**arXiv**).
 
 
 ## Tutorials
-1. Fairness in Graph Mining: Metrics, Algorithms, and Applications [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+1. Fairness in Graph Mining: Metrics, Algorithms, and Applications [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io/icdm_tutorial_2022.pdf)<br>
 **Yushun Dong**, Jing Ma, Chen Chen, Jundong Li <br>
 The IEEE International Conference on Data Mining (**ICDM 2022**). 
 
