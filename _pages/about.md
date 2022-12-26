@@ -18,6 +18,7 @@ I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, *
 
 News
 ------
+* Dec. 2022: One paper accepted by SDM.
 * Nov. 2022: One paper accepted by AAAI.
 * Oct. 2022: One paper accepted by WSDM.
 * Sept. 2022: One paper accepted by SIGKDD Explorations.
