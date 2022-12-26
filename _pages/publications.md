@@ -31,11 +31,15 @@ SIGKDD Explorations.
 
 ### 2023
 
-1. Interpreting Unfairness in Graph Neural Networks via Training Node Attribution [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/BIND) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+1. RELIANT: Fair Knowledge Distillation for Graph Neural Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+**Yushun Dong**, Binchi Zhang, Yiling Yuan, Na Zou, Qi Wang, Jundong Li <br>
+SIAM International Conference on Data Mining (**SDM 2023**). 
+
+2. Interpreting Unfairness in Graph Neural Networks via Training Node Attribution [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/BIND) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Song Wang, Jing Ma, Ninghao Liu, Jundong Li <br>
 AAAI Conference on Artificial Intelligence (**AAAI 2023**). 
 
-2. Few-shot Node Classification with Extremely Weak Supervision [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+3. Few-shot Node Classification with Extremely Weak Supervision [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Song Wang, **Yushun Dong**, Kaize Ding, Chen Chen, Jundong Li <br>
 International Conference on Web Search and Data Mining (**WSDM 2023**). 
 
