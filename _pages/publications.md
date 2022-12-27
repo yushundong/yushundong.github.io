@@ -31,7 +31,7 @@ SIGKDD Explorations.
 
 ### 2023
 
-1. RELIANT: Fair Knowledge Distillation for Graph Neural Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+1. RELIANT: Fair Knowledge Distillation for Graph Neural Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/RELIANT) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Binchi Zhang, Yiling Yuan, Na Zou, Qi Wang, Jundong Li <br>
 SIAM International Conference on Data Mining (**SDM 2023**). 
 
