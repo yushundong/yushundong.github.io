@@ -35,7 +35,7 @@ SIGKDD Explorations.
 **Yushun Dong**, Binchi Zhang, Yiling Yuan, Na Zou, Qi Wang, Jundong Li <br>
 SIAM International Conference on Data Mining (**SDM 2023**). 
 
-2. Interpreting Unfairness in Graph Neural Networks via Training Node Attribution [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/BIND) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+2. Interpreting Unfairness in Graph Neural Networks via Training Node Attribution [\[PDF\]](https://yushundong.github.io/files/aaai2023.pdf) [\[Code\]](https://github.com/yushundong/BIND) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Song Wang, Jing Ma, Ninghao Liu, Jundong Li <br>
 AAAI Conference on Artificial Intelligence (**AAAI 2023**). 
 
@@ -53,7 +53,7 @@ International Workshop on Federated Learning with Graph Data (**FedGraph 2022**)
 **Yushun Dong**, Song Wang, Yu Wang, Tyler Derr, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
-3. GUIDE: Group Equality Informed Individual Fairness in Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/KDD22_group_individual.pdf) [\[Code\]](https://github.com/mikesong724/GUIDE) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+3. GUIDE: Group Equality Informed Individual Fairness in Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/KDD22_group_individual.pdf) [\[Code\]](https://github.com/mikesong724/GUIDE) [\[Slides\]](https://yushundong.github.io/files/GUIDE_KDD_2022_Presentation.pdf)<br>
 Weihao Song, **Yushun Dong**, Ninghao Liu, Jundong Li <br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
