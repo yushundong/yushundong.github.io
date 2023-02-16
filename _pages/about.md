@@ -84,6 +84,7 @@ Invited Talks
 
 Honors
 ------
+* AAAI Student Fellowship 2023
 * Endowed Fellowship at UVa Engineering School 2022
 * Best Poster (Runner Up) @Doctoral Forum of SIAM International Conference on Data Mining 2022 [\[Certificate\]](http://yushundong.github.io/files/BestPoster-RunnerUp.pdf)
 * McVey Fellowship at UVa Engineering School 2021
