@@ -68,7 +68,7 @@ Mentored Students
 Services
 ------
 <!-- * **Invited Program Committee Co-Chairs**: SDM 2023. -->
-* **Invited Program Committee Member**: KDD 2023, SDM 2023, CIKM 2022, SIGKDD 2022, AAAI 2022, WSDM 2022, etc.
+* **Invited Program Committee Member**: ECMLPKDD 2023, KDD 2023, SDM 2023, CIKM 2022, SIGKDD 2022, AAAI 2022, WSDM 2022, etc.
 * **Invited Reviewer & External Reviewer**:
 SIGKDD, SIGIR, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKDD, BigData, etc.
 * **Volunteer**: SIGKDD 2021, IJCAI 2021, SIGKDD 2020, etc.
@@ -86,7 +86,7 @@ Invited Talks
 
 Honors
 ------
-* AAAI Student Fellowship 2023
+<!-- * AAAI Student Fellowship 2023 -->
 * Endowed Fellowship at UVa Engineering School 2022
 * Best Poster (Runner Up) @Doctoral Forum of SIAM International Conference on Data Mining 2022 [\[Certificate\]](http://yushundong.github.io/files/BestPoster-RunnerUp.pdf)
 * McVey Fellowship at UVa Engineering School 2021
