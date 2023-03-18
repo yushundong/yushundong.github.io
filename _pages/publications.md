@@ -43,6 +43,10 @@ AAAI Conference on Artificial Intelligence (**AAAI 2023**).
 Song Wang, **Yushun Dong**, Kaize Ding, Chen Chen, Jundong Li <br>
 International Conference on Web Search and Data Mining (**WSDM 2023**). 
 
+4. Spatial-Temporal Networks for Antibiogram Pattern Prediction [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Xingbo Fu, Chen Chen, **Yushun Dong**, Anil Vullikanti, Eili Klein, Gregory Madden and Jundong Li <br>
+IEEE International Conference on Healthcare Informatics (**ICHI 2023**). 
+
 ### 2022
 
 1. Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications (Spotlight) [\[PDF\]](http://yushundong.github.io/files/FedGraph2022.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
