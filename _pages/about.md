@@ -24,14 +24,16 @@ News
 * Mar. 2023: One paper accepted by ICHI.
 * Dec. 2022: One paper accepted by SDM.
 * Nov. 2022: One paper accepted by AAAI.
+* July 2022: An interesting and comprehensive survey paper "Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications" released. [\[arXiv\]](https://arxiv.org/pdf/2207.11812.pdf) [\[Blog in Chinese\]](https://mp.weixin.qq.com/s/w0_DSd-hteYGfWnwKEALNQ)
+* Apr. 2022: An interesting and comprehensive survey paper "Fairness in Graph Mining: A Survey" released. [\[arXiv\]](https://arxiv.org/abs/2204.09888) [\[Blog in Chinese\]](https://github.com/yushundong/Fairness-in-Graph-Mining-A-Survey)
+
+
 <!-- * Oct. 2022: One paper accepted by WSDM. -->
 <!-- * Sept. 2022: One paper accepted by SIGKDD Explorations. -->
 <!-- * Sept. 2022: One paper accepted as spotlight by FedGraph 2022. -->
 <!-- * Aug. 2022: One tutorial accepted by ICDM 2022 [\[Webpage\]](https://yushundong.github.io/ICDM_2022_tutorial.html). -->
-<!-- * July 2022: An interesting and comprehensive survey paper "Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications" released. [\[arXiv\]](https://arxiv.org/pdf/2207.11812.pdf) [\[Blog in Chinese\]](https://mp.weixin.qq.com/s/w0_DSd-hteYGfWnwKEALNQ) -->
 <!-- * May. 2022: Three papers accepted by SIGKDD 2022. -->
 <!-- * Apr. 2022: Best Poster (Runner-Up) @Doctoral Forum of SDM. Thanks for the efforts of organizers. -->
-<!-- * Apr. 2022: An interesting and comprehensive survey paper "Fairness in Graph Mining: A Survey" released. [\[arXiv\]](https://arxiv.org/abs/2204.09888) [\[Blog in Chinese\]](https://github.com/yushundong/Fairness-in-Graph-Mining-A-Survey) -->
 <!-- * Apr. 2022: One paper accepted by IJCAI 2022. -->
 <!-- * Apr. 2022: One paper accepted by SIGIR 2022. -->
 <!-- * Jan. 2022: Two papers accepted by WWW 2022. -->
