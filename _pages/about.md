@@ -21,6 +21,7 @@ I always envision the Graph Neural Networks (GNNs) deployed in real-world applic
 
 News
 ------
+* Mar. 2023: One paper accepted by ICHI.
 * Dec. 2022: One paper accepted by SDM.
 * Nov. 2022: One paper accepted by AAAI.
 * Oct. 2022: One paper accepted by WSDM.
