@@ -23,7 +23,7 @@ The IEEE International Conference on Data Mining (**ICDM 2022**).
 ## Journal Publications
 
 1. Fairness in Graph Mining: A Survey [\[PDF\]](http://yushundong.github.io/files/fairness_survey.pdf) [\[Code\]](https://github.com/yushundong/Graph-Mining-Fairness-Data) [\[Slides\]](https://yushundong.github.io//publications/)<br>
-**Yushun Dong**, Jing Ma, Chen Chen, Jundong Li <br>
+**Yushun Dong**, Jing Ma, Song Wang, Chen Chen, Jundong Li <br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE). 
 
 2. Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications [\[PDF\]](http://yushundong.github.io/files/fedgraph.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
