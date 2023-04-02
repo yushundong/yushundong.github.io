@@ -52,6 +52,7 @@ Experiences
 Mentored Students
 ------
 * [Pranav Bangarbale (Undergrad in CS @UVa)](https://www.linkedin.com/in/pranav-bangarbale-42091721b/)
+* [Alex Jing Huang (Undergrad in CS @UVa)](https://www.linkedin.com/in/alex-huang-1171ab211/)
 * [Srimanth Tangedipalli (Undergrad in CS @UVa)](https://www.linkedin.com/in/srimanth-tangedipalli/)
 * [Mike Song (Quantitative researcher @J.P. Morgan)](https://weihaosong.github.io)
 * [Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa)](https://www.linkedin.com/in/xuanjia-bi/)
