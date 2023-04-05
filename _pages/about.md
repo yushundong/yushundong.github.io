@@ -46,8 +46,10 @@ News
 
 Experiences
 ------
-* Research Intern, Microsoft Research. June 2022 – Sep. 2022
-* Research Intern, Turing Inc. July 2019 – Sep. 2019
+* June 2022 – Sep. 2022, Research Intern, Microsoft Research. Mentor: xx.
+
+One paper accepted by SIGIR 2023.
+
 
 
 Mentored Students
