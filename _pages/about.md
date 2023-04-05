@@ -46,7 +46,7 @@ News
 
 Experiences
 ------
-* June 2022 – Sep. 2022, Research Intern, Microsoft Research. Mentor: xx.
+* June 2022 – Sep. 2022, Research Intern, Microsoft Research. Mentor: Tobias Schnabel.
 
 One paper accepted by SIGIR 2023.
 
