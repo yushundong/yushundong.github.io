@@ -14,7 +14,7 @@ author_profile: true
 
 
 ## Tutorials
-1. Fairness in Graph Mining: Metrics, Algorithms, and Applications [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io/icdm_tutorial_2022.pdf)<br>
+1. Fairness in Graph Mining: Metrics, Algorithms, and Applications [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io/icdm_tutorial_2022.pdf)[\[Website\]](https://yushundong.github.io/ICDM_2022_tutorial.html)<br>
 **Yushun Dong**, Jing Ma, Chen Chen, Jundong Li <br>
 The IEEE International Conference on Data Mining (**ICDM 2022**). 
 
