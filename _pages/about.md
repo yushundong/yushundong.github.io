@@ -21,6 +21,7 @@ I always envision the Graph Neural Networks (GNNs) deployed in real-world applic
 
 News
 ------
+* May. 2023: One paper accepted by i3CE.
 * Apr. 2023: One paper accepted by SIGIR.
 * Apr. 2023: One paper accepted by TKDE.
 * Mar. 2023: One paper accepted by ICHI.
