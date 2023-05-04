@@ -35,6 +35,10 @@ SIGKDD Explorations.
 
 ### 2023
 
+1. Post Disaster Private Well Water Contamination with Geosocial Network: A Case Study of Post Hurricane Harvey [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Rong Ding, **Yushun Dong**, Daniel Aldrich, Jundong Li, Kelsey Pieper, Qi Wang <br>
+ASCE International Conference on Computing in Civil Engineering (**i3CE 2023**). 
+
 1. When Newer is Not Better: Does Deep Learning Really Benefit Recommendation From Implicit Feedback? [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Jundong Li, Tobias Schnabel <br>
 SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**). 
