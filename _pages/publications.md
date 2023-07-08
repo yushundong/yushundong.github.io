@@ -16,8 +16,11 @@ author_profile: true
 ## Tutorials
 1. Fairness in Graph Mining: Metrics, Algorithms, and Applications [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io/icdm_tutorial_2022.pdf)[\[Website\]](https://yushundong.github.io/ICDM_2022_tutorial.html)<br>
 **Yushun Dong**, Jing Ma, Chen Chen, Jundong Li <br>
-The IEEE International Conference on Data Mining (**ICDM 2022**). 
+The IEEE International Conference on Data Mining (**ICDM 2022**).
 
+2. Fairness in Graph Machine Learning: Recent Advances and Future Prospectives [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io//publications/)[\[Website\]](https://yushundong.github.io/KDD_2023_tutorial.html)<br>
+**Yushun Dong**, Oyku Deniz Kose, Yanning Shen, Jundong Li  <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**).
 
 
 ## Journal Publications
@@ -35,27 +38,31 @@ SIGKDD Explorations.
 
 ### 2023
 
-1. Post Disaster Private Well Water Contamination with Geosocial Network: A Case Study of Post Hurricane Harvey [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+1. Empower Post-hoc Graph Explanations with Information Bottleneck: A Pre-training and Fine-tuning Perspective  [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Jihong Wang, Minnan Luo, Jundong Li, Yun Lin, **Yushun Dong**, Jin Song Dong, Qinghua Zheng  <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**).
+
+2. Post Disaster Private Well Water Contamination with Geosocial Network: A Case Study of Post Hurricane Harvey [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Rong Ding, **Yushun Dong**, Daniel Aldrich, Jundong Li, Kelsey Pieper, Qi Wang <br>
 ASCE International Conference on Computing in Civil Engineering (**i3CE 2023**). 
 
-2. When Newer is Not Better: Does Deep Learning Really Benefit Recommendation From Implicit Feedback? [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+3. When Newer is Not Better: Does Deep Learning Really Benefit Recommendation From Implicit Feedback? [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Jundong Li, Tobias Schnabel <br>
 SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**). 
 
-3. RELIANT: Fair Knowledge Distillation for Graph Neural Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/RELIANT) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+4. RELIANT: Fair Knowledge Distillation for Graph Neural Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/RELIANT) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Binchi Zhang, Yiling Yuan, Na Zou, Qi Wang, Jundong Li <br>
 SIAM International Conference on Data Mining (**SDM 2023**). 
 
-4. Interpreting Unfairness in Graph Neural Networks via Training Node Attribution [\[PDF\]](https://yushundong.github.io/files/aaai2023.pdf) [\[Code\]](https://github.com/yushundong/BIND) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+5. Interpreting Unfairness in Graph Neural Networks via Training Node Attribution [\[PDF\]](https://yushundong.github.io/files/aaai2023.pdf) [\[Code\]](https://github.com/yushundong/BIND) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Song Wang, Jing Ma, Ninghao Liu, Jundong Li <br>
 AAAI Conference on Artificial Intelligence (**AAAI 2023**). 
 
-5. Few-shot Node Classification with Extremely Weak Supervision [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+6. Few-shot Node Classification with Extremely Weak Supervision [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Song Wang, **Yushun Dong**, Kaize Ding, Chen Chen, Jundong Li <br>
 International Conference on Web Search and Data Mining (**WSDM 2023**). 
 
-6. Spatial-Temporal Networks for Antibiogram Pattern Prediction [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+7. Spatial-Temporal Networks for Antibiogram Pattern Prediction [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Xingbo Fu, Chen Chen, **Yushun Dong**, Anil Vullikanti, Eili Klein, Gregory Madden and Jundong Li <br>
 IEEE International Conference on Healthcare Informatics (**ICHI 2023**). 
 
@@ -67,15 +74,15 @@ International Workshop on Federated Learning with Graph Data (**FedGraph 2022**)
 
 2. On Structural Explanation of Bias in Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/kdd2022.pdf) [\[Code\]](https://github.com/yushundong/REFEREE) [\[Slides\]](http://yushundong.github.io/files/REFEREE_Slides.pdf)<br>
 **Yushun Dong**, Song Wang, Yu Wang, Tyler Derr, Jundong Li <br>
-SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
 3. GUIDE: Group Equality Informed Individual Fairness in Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/KDD22_group_individual.pdf) [\[Code\]](https://github.com/mikesong724/GUIDE) [\[Slides\]](https://yushundong.github.io/files/GUIDE_KDD_2022_Presentation.pdf)<br>
 Weihao Song, **Yushun Dong**, Ninghao Liu, Jundong Li <br>
-SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
 4. Fair View Graph Neural Network for Fair Node Representation Learning [\[PDF\]](http://yushundong.github.io/files/kdd2022_yuwang.pdf) [\[Code\]](https://github.com/YuWVandy/FairVGNN) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Yu Wang, Yuying Zhao, **Yushun Dong**, Huiyuan Chen, Jundong Li, Tyler Derr <br>
-SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
 5. FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs [\[PDF\]](http://yushundong.github.io/files/faith.pdf) [\[Code\]](https://github.com/SongW-SW/FAITH) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Song Wang, **Yushun Dong**, Xiao Huang, Chen Chen, Jundong Li <br>
@@ -105,7 +112,7 @@ International Conference on Information and Knowledge Management (**CIKM 2021**)
 
 2. Individual Fairness for Graph Neural Networks: A Ranking based Approach [\[PDF\]](http://yushundong.github.io/files/kdd2021.pdf) [\[Code\]](https://github.com/yushundong/REDRESS) [\[Slides\]](http://yushundong.github.io/files/slides_kdd2021.pdf)<br>
 **Yushun Dong**, Jian Kang, Hanghang Tong, Jundong Li <br>
-SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**). 
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**). 
 
 ### Earlier
 1. Forecasting Pavement Performance with a Feature Fusion LSTM-BPNN Model [\[PDF\]](http://yushundong.github.io/files/cikm2019.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
