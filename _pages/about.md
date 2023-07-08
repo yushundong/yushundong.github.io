@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at the [University of Virginia](http://www.virginia.edu/), now working with [Prof. Jundong Li](http://www.ece.virginia.edu/~jl6qk/). Prior to joining in UVa, I obtained my bachelor's degree from the School of Information and Communication Engineering at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) (BUPT), where I worked with [Prof. Yingxia Shao](https://shaoyx.github.io/) and [Prof. Wensheng Sun](https://bkso.baidu.com/item/%E5%AD%99%E6%96%87%E7%94%9F/23658543). (Last updated Aug. 2021)
+I am a fourth-year Ph.D. student at the [University of Virginia](http://www.virginia.edu/), now working with [Prof. Jundong Li](http://www.ece.virginia.edu/~jl6qk/). Prior to joining in UVa, I obtained my bachelor's degree from the School of Information and Communication Engineering at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) (BUPT), where I worked with [Prof. Yingxia Shao](https://shaoyx.github.io/) and [Prof. Wensheng Sun](https://bkso.baidu.com/item/%E5%AD%99%E6%96%87%E7%94%9F/23658543). (Last updated Jul. 2023)
 
 Research Interests
 ---
@@ -21,6 +21,8 @@ I always envision the Graph Neural Networks (GNNs) deployed in real-world applic
 
 News
 ------
+* May. 2023: One paper accepted by SIGKDD.
+* Apr. 2023: One tutorial accepted by SIGKDD.
 * May. 2023: One paper accepted by i3CE.
 * Apr. 2023: One paper accepted by SIGIR.
 * Apr. 2023: One paper accepted by TKDE.
@@ -75,9 +77,9 @@ Mentored Students
 Services
 ------
 <!-- * **Invited Program Committee Co-Chairs**: SDM 2023. -->
-* **Invited Program Committee Member**: ECMLPKDD 2023, KDD 2023, SDM 2023, CIKM 2022, SIGKDD 2022, AAAI 2022, WSDM 2022, etc.
+* **Invited Program Committee Member**: AAAI 2024, CIKM 2023, ECMLPKDD 2023, KDD 2023, SDM 2023, CIKM 2022, SIGKDD 2022, AAAI 2022, WSDM 2022, etc.
 * **Invited Reviewer & External Reviewer**:
-SIGKDD, SIGIR, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKDD, BigData, etc.
+SIGKDD, SIGIR, AAAI, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKDD, BigData, etc.
 * **Volunteer**: SIGKDD 2021, IJCAI 2021, SIGKDD 2020, etc.
 
 <!-- * CIKM 2021. -->
@@ -88,13 +90,14 @@ Invited Talks
 ------
 * Feb. 2023, "Artificial Intelligence: What Do We Have and Where We Are Heading?" at the University of Virginia.
 * Feb. 2023, "Unlocking Ethical Graph Neural Networks" at the University of Texas Rio Grande Valley.
-* Sept. 2022, "Fairness in Graph Mining: Metrics and Algorithms" at [DEFirst Group](https://noon-cobbler-caa.notion.site/DEFirst-Reading-Group-23c288b0cdc540aea53bf7960754ba21), Université de Montreal [\[Slides\]](http://yushundong.github.io/files/Fairness_Invited_Talk.pdf).
+* Sept. 2022, "Fairness in Graph Mining: Metrics and Algorithms" at Mila, Université de Montreal [\[Slides\]](http://yushundong.github.io/files/Fairness_Invited_Talk.pdf).
 <!-- * Sept. 2022, "Learning Causal Effects on Hypergraphs" at Microsoft Research.  -->
 
 Honors
 ------
 <!-- * AAAI Student Fellowship 2023 -->
-* Endowed Fellowship at UVa Engineering School 2022
+* Louis T. Rader Graduate Research Award @ UVa Engineering School 2023
+* Endowed Fellowship @ UVa Engineering School 2022
 * Best Poster (Runner Up) @Doctoral Forum of SIAM International Conference on Data Mining 2022 [\[Certificate\]](http://yushundong.github.io/files/BestPoster-RunnerUp.pdf)
 * McVey Fellowship at UVa Engineering School 2021
 * Student Scholarship/Travel Award of AAAI 2023, SDM 2022, WSDM 2022, TheWebConf 2021, SIGKDD 2020, etc.
