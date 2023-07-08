@@ -14,13 +14,15 @@ author_profile: true
 
 
 ## Tutorials
-1. Fairness in Graph Mining: Metrics, Algorithms, and Applications [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io/icdm_tutorial_2022.pdf)[\[Website\]](https://yushundong.github.io/ICDM_2022_tutorial.html)<br>
+
+1. Fairness in Graph Machine Learning: Recent Advances and Future Prospectives [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io//publications/)[\[Website\]](https://yushundong.github.io/KDD_2023_tutorial.html)<br>
+**Yushun Dong**, Oyku Deniz Kose, Yanning Shen, Jundong Li  <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**).
+
+2. Fairness in Graph Mining: Metrics, Algorithms, and Applications [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io/icdm_tutorial_2022.pdf)[\[Website\]](https://yushundong.github.io/ICDM_2022_tutorial.html)<br>
 **Yushun Dong**, Jing Ma, Chen Chen, Jundong Li <br>
 The IEEE International Conference on Data Mining (**ICDM 2022**).
 
-2. Fairness in Graph Machine Learning: Recent Advances and Future Prospectives [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io//publications/)[\[Website\]](https://yushundong.github.io/KDD_2023_tutorial.html)<br>
-**Yushun Dong**, Oyku Deniz Kose, Yanning Shen, Jundong Li  <br>
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**).
 
 
 ## Journal Publications
