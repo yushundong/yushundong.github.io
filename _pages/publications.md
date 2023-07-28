@@ -15,7 +15,7 @@ author_profile: true
 
 ## Tutorials
 
-1. Fairness in Graph Machine Learning: Recent Advances and Future Prospectives [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io//publications/)[\[Website\]](https://yushundong.github.io/KDD_2023_tutorial.html)<br>
+1. Fairness in Graph Machine Learning: Recent Advances and Future Prospectives [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io/files/SIGKDD_2023_tutorial.pdf)[\[Website\]](https://yushundong.github.io/KDD_2023_tutorial.html)<br>
 **Yushun Dong**, Oyku Deniz Kose, Yanning Shen, Jundong Li  <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**).
 
