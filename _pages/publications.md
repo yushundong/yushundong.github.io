@@ -40,31 +40,35 @@ SIGKDD Explorations.
 
 ### 2023
 
-1. Empower Post-hoc Graph Explanations with Information Bottleneck: A Pre-training and Fine-tuning Perspective  [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+1. GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction   [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Yucheng Shi, **Yushun Dong**, Qiaoyu Tan, Jundong Li, Ninghao Liu  <br>
+The Conference on Information and Knowledge Management (**CIKM 2023**).
+
+2. Empower Post-hoc Graph Explanations with Information Bottleneck: A Pre-training and Fine-tuning Perspective  [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Jihong Wang, Minnan Luo, Jundong Li, Yun Lin, **Yushun Dong**, Jin Song Dong, Qinghua Zheng  <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**).
 
-2. Post Disaster Private Well Water Contamination with Geosocial Network: A Case Study of Post Hurricane Harvey [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+3. Post Disaster Private Well Water Contamination with Geosocial Network: A Case Study of Post Hurricane Harvey [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Rong Ding, **Yushun Dong**, Daniel Aldrich, Jundong Li, Kelsey Pieper, Qi Wang <br>
 ASCE International Conference on Computing in Civil Engineering (**i3CE 2023**). 
 
-3. When Newer is Not Better: Does Deep Learning Really Benefit Recommendation From Implicit Feedback? [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+4. When Newer is Not Better: Does Deep Learning Really Benefit Recommendation From Implicit Feedback? [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Jundong Li, Tobias Schnabel <br>
 SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**). 
 
-4. RELIANT: Fair Knowledge Distillation for Graph Neural Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/RELIANT) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+5. RELIANT: Fair Knowledge Distillation for Graph Neural Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/RELIANT) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Binchi Zhang, Yiling Yuan, Na Zou, Qi Wang, Jundong Li <br>
 SIAM International Conference on Data Mining (**SDM 2023**). 
 
-5. Interpreting Unfairness in Graph Neural Networks via Training Node Attribution [\[PDF\]](https://yushundong.github.io/files/aaai2023.pdf) [\[Code\]](https://github.com/yushundong/BIND) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+6. Interpreting Unfairness in Graph Neural Networks via Training Node Attribution [\[PDF\]](https://yushundong.github.io/files/aaai2023.pdf) [\[Code\]](https://github.com/yushundong/BIND) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Song Wang, Jing Ma, Ninghao Liu, Jundong Li <br>
 AAAI Conference on Artificial Intelligence (**AAAI 2023**). 
 
-6. Few-shot Node Classification with Extremely Weak Supervision [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+7. Few-shot Node Classification with Extremely Weak Supervision [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Song Wang, **Yushun Dong**, Kaize Ding, Chen Chen, Jundong Li <br>
 International Conference on Web Search and Data Mining (**WSDM 2023**). 
 
-7. Spatial-Temporal Networks for Antibiogram Pattern Prediction [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+8. Spatial-Temporal Networks for Antibiogram Pattern Prediction [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Xingbo Fu, Chen Chen, **Yushun Dong**, Anil Vullikanti, Eili Klein, Gregory Madden and Jundong Li <br>
 IEEE International Conference on Healthcare Informatics (**ICHI 2023**). 
 
