@@ -55,7 +55,7 @@ Industry Experiences
 
 
 
-Mentored Students
+Mentored Students (Partial List)
 ------
 * [Pranav Bangarbale (Undergrad in CS @UVa)](https://www.linkedin.com/in/pranav-bangarbale-42091721b/)
 * [Alex Jing Huang (Undergrad in CS @UVa)](https://www.linkedin.com/in/alex-huang-1171ab211/)
