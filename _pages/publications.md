@@ -40,7 +40,7 @@ SIGKDD Explorations.
 
 ### 2023
 
-1. GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction   [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+1. GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction   [\[PDF\]](https://arxiv.org/pdf/2308.09663.pdf) [\[Code\]](https://github.com/sycny/GiGaMAE) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Yucheng Shi, **Yushun Dong**, Qiaoyu Tan, Jundong Li, Ninghao Liu  <br>
 The Conference on Information and Knowledge Management (**CIKM 2023**).
 
