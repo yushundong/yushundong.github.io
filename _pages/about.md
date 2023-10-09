@@ -64,7 +64,7 @@ Mentored Students
 * [Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa)](https://www.linkedin.com/in/xuanjia-bi/)
 * [Deepaloke Chattopadhyay (M.S. @UVa, now Data Scientist @2nd Order Solutions)](https://www.linkedin.com/in/deepaloke-chattopadhyay/)
 * [Zheng Huang (M.S. @UVa, now Software Development Engineer @Amazon)](https://www.linkedin.com/in/zheng-huang-39822a1a2/)
-* Yiling Yuan (Undergrad in CS @BUPT)
+* [Yiling Yuan (Undergrad in CS @BUPT, now grad student @CMU)](https://www.linkedin.com/in/yilingyuan/?locale=en_US)
 <!-- * * Edward Wei (Undergrad in CS @UVa) -->
 <!-- * Kerui Huang (Undergrad in CS @UVa) -->
 <!-- * Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa) -->
