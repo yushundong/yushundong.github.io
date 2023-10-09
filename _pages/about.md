@@ -48,7 +48,7 @@ News
 <!-- * May 2021: One paper accepted by SIGKDD 2021. -->
 
 
-Experiences
+Industry Experiences
 ------
 * June 2023 – Sep. 2023, Research Intern, Snap. Mentor: [Tong Zhao](https://tzhao.io), [Yozen Liu](https://scholar.google.com/citations?user=i3U2JjEAAAAJ&hl=en), and [Neil Shah](https://nshah.net). One paper submitted to ICLR 2024.
 * June 2022 – Sep. 2022, Research Intern, Microsoft Research. Mentor: [Tobias Schnabel](https://www.microsoft.com/en-us/research/people/toschnab/). One paper accepted by SIGIR 2023.
@@ -88,14 +88,14 @@ SIGKDD, SIGIR, AAAI, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD
 <!-- * **Reviewer & External Reviewer**: TKDE, TKDD, SIGKDD'21, SIGIR'21, ICML'21, PAKDD'21, WWW'21, ICLR'20, WSDM'21, BigData'20, SIGKDD'20, SIGIR'20, NeurIPS'20, WWW'20, ECML-PKDD'20, CIKM'20. -->
 
 
-Invited Talks
+Invited Talks (Selected)
 ------
 * Feb. 2023, "Artificial Intelligence: What Do We Have and Where We Are Heading?" at the University of Virginia.
 * Feb. 2023, "Unlocking Ethical Graph Neural Networks" at the University of Texas Rio Grande Valley.
-* Sept. 2022, "Fairness in Graph Mining: Metrics and Algorithms" at Mila, Université de Montreal [\[Slides\]](http://yushundong.github.io/files/Fairness_Invited_Talk.pdf).
+* Sept. 2022, "Fairness in Graph Mining: Metrics and Algorithms" at Mila - Quebec AI Institute [\[Slides\]](http://yushundong.github.io/files/Fairness_Invited_Talk.pdf).
 <!-- * Sept. 2022, "Learning Causal Effects on Hypergraphs" at Microsoft Research.  -->
 
-Honors
+Honors (Selected)
 ------
 <!-- * AAAI Student Fellowship 2023 -->
 * Louis T. Rader Graduate Research Award @ UVa Engineering School 2023
