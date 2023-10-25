@@ -15,6 +15,8 @@ Research Interests
 
 I always envision the Graph Neural Networks (GNNs) deployed in real-world applications to be socially beneficial, accountable, and reliable to people. Correspondingly, my research interests are mainly in the trustworthiness of GNNs, e.g., algorithmic fairness and interpretability. 
 
+<span style="color:red">**I am currently on the job market considering both industrial and academic positions! You are more than welcome to [email](yd6eb@virginia.edu) me for any potential positions!**</span>
+
 <!-- I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, **Graph Neural Networks** and corresponding interdisciplinary topics. -->
 
 <!-- My previous research experiences mainly lie in graph mining and feature fusion. -->
