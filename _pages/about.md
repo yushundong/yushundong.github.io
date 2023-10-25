@@ -15,7 +15,7 @@ Research Interests
 
 I always envision the Graph Neural Networks (GNNs) deployed in real-world applications to be socially beneficial, accountable, and reliable to people. Correspondingly, my research interests are mainly in the trustworthiness of GNNs, e.g., algorithmic fairness and interpretability. 
 
-<span style="color:red">**I am currently on the job market considering both industrial and academic positions! You are more than welcome to <a href="mailto:yd6eb@virginia.edu">email</a> me for any potential positions!**</span>
+<span style="color:red">**I am currently on the job market considering both industrial and academic positions! You are more than welcome to [email](mailto:yd6eb@virginia.edu) me for any potential positions!**</span>
 
 
 
