@@ -21,7 +21,7 @@ Experience
   * Research assistant, 06/2020 - 12/2020
   * Teaching assistant, 01/2020 - 05/2020
   * Ph.D. student, 01/2020 - 11/2023
-  * Ph.D. Candidate, 11/2023 - Present
+  * Ph.D. candidate, 11/2023 - Present
 
 * @ Beijing University of Posts and Telecommunications
   * Research assistant, 09/2019 - 10/2019
