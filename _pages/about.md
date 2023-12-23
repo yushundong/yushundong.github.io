@@ -13,16 +13,16 @@ redirect_from:
 
 I am a final-year Ph.D. candidate at the [University of Virginia](http://www.virginia.edu/) working with [Prof. Jundong Li](http://www.ece.virginia.edu/~jl6qk/).
 
-**Research Summary:** My research interest mainly lies in achieving responsible AI to further advance social good such as facilitating inclusive decision-making. I have abundant research works under related topics with a particular focus on relational data. There are **27 published research papers (nine first-author ones)** in the following areas [[see full list]](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ):
+**(i) Research Summary:** My research interest mainly lies in achieving responsible AI to further advance social good such as facilitating inclusive decision-making. I have abundant research works under related topics with a particular focus on relational data. There are **27 published research papers (nine first-author ones)** in the following areas [[see full list]](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ):
 
 * **Explainability:** Model Interpretability; Prediction Justification  
 * **Algorithmic Fairness:** Fairness Measurement; Algorithm Debiasing  
 * **Safety:** Attack and Defense
 * **AI/ML+X (Applications):** Healthcare; Recommendation  
 
-**Highlighted Honors:** I also received [**Louis T. Rader Graduate Research Award**](https://www.linkedin.com/posts/jundong-li-09151b5b_uva-research-phd-activity-7057847052566683648-0NzM?utm_source=share&utm_medium=member_desktop), [**Endowed Fellowship**](https://engineering.virginia.edu/yushun-dong-earns-endowed-graduate-fellowship), and [**Best Poster @Doctoral Forum of SDM 2022**](https://www.siam.org/conferences/cm/conference/sdm22). I am truly grateful for the generous efforts from the associated institutions and organizers.
+**(ii) Highlighted Honors:** I also received [**Louis T. Rader Graduate Research Award**](https://www.linkedin.com/posts/jundong-li-09151b5b_uva-research-phd-activity-7057847052566683648-0NzM?utm_source=share&utm_medium=member_desktop), [**Endowed Fellowship**](https://engineering.virginia.edu/yushun-dong-earns-endowed-graduate-fellowship), and [**Best Poster @Doctoral Forum of SDM 2022**](https://www.siam.org/conferences/cm/conference/sdm22). I am truly grateful for the generous efforts from the associated institutions and organizers.
 
-**Highlighted Project:** I initiated and have been managing the open-source tool [PyGDebias <img src="../files/pygdebias.png" alt="" style="float:right;" width="400"/>](https://github.com/yushundong/PyGDebias) — a Python library featured for 20+ built-in datasets and 10+ implementations of popular fairness-aware graph learning algorithms. 
+**(iii) Highlighted Project:** I initiated and have been managing the open-source tool [PyGDebias <img src="../files/pygdebias.png" alt="" style="float:right;" width="400"/>](https://github.com/yushundong/PyGDebias) — a Python library featured for 20+ built-in datasets and 10+ implementations of popular fairness-aware graph learning algorithms. 
 
 
 
