@@ -18,7 +18,7 @@ My research interest mainly lies in how to achieve responsible AI to further adv
 * **Explainability:** Model Interpretability; Prediction Justification  
 * **Algorithmic Fairness:** Fairness measurement; Algorithm Debiasing  
 * **Safety:** Attacks and Defenses  
-* **Applications:** Healthcare; Recommendation  
+* **AI/ML+X (Applications):** Healthcare; Recommendation  
 
 I also received **Louis T. Rader Graduate Research Award**, **Endowed Fellowship**, and **Best Poster (Runner Up) @Doctoral Forum of SDM 2022**. I am truly grateful for the generuous efforts from the associated institutions and organizers.
 
