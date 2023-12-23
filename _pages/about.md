@@ -13,7 +13,7 @@ redirect_from:
 
 I am a final-year Ph.D. candidate at the [University of Virginia](http://www.virginia.edu/) working with [Prof. Jundong Li](http://www.ece.virginia.edu/~jl6qk/).
 
-**Research Summary:** My research interest mainly lies in achieving responsible AI to further advance social good such as facilitating inclusive decision-making. I perform abundant research in related areas with a particular focus on relational data, such as advancing the explainability, algorithmic fairness, and safety of deep learning. There are **27 published research papers (nine first author ones)** in the following areas [[see full list]](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ):
+**Research Summary:** My research interest mainly lies in achieving responsible AI to further advance social good such as facilitating inclusive decision-making. I have abundant research works under related topics focusing on relational data. There are **27 published research papers (nine first-author ones)** in the following areas [[see full list]](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ):
 
 * **Explainability:** Model Interpretability; Prediction Justification  
 * **Algorithmic Fairness:** Fairness measurement; Algorithm Debiasing  
