@@ -13,12 +13,12 @@ I am a fourth-year Ph.D. candidate at the [University of Virginia](http://www.vi
 Research Interests
 ---
 
-I am broadly interested in graph machine learning to advance the frontiers of graph data analysis, including deep graph neural networks, graph representation learning, and their real-world applications (e.g., recommendation and epidemic prediction). I am particularly interested in how to achieve responsible graph mining algorithms to benefit social good, and I perform abundant research in related areas, such as advancing the explainability, algorithmic fairness, and robustness of deep learning on graphs.
+I am broadly interested in graph machine learning to advance the frontiers of graph data analysis, including deep graph neural networks, graph representation learning, and their real-world applications (e.g., recommendation and epidemic prediction). I am particularly interested in how to achieve responsible graph mining algorithms to benefit social good, and I perform abundant research in related areas, such as advancing the explainability, algorithmic fairness, and robustness of deep learning on graphs. <span style="color:red">**I am currently on the academia job market.**</span>
 
 
+{% include figure.html path="files/overview.pdf" class="img-fluid" %}
 
 
-<span style="color:red">**I am currently on the job market considering both academic and industrial positions! Please kindly [reach out to](mailto:yd6eb@virginia.edu) me if your department or team is hiring!**</span>
 
 
 
