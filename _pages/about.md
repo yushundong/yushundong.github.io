@@ -60,8 +60,8 @@ News
 
 Industry Experiences
 ------
-* June 2023 – Sep. 2023, Research Intern, Snap. Mentor: [Tong Zhao](https://tzhao.io), [Yozen Liu](https://scholar.google.com/citations?user=i3U2JjEAAAAJ&hl=en), and [Neil Shah](https://nshah.net). One paper submitted to ICLR 2024.
-* June 2022 – Sep. 2022, Research Intern, Microsoft Research. Mentor: [Tobias Schnabel](https://www.microsoft.com/en-us/research/people/toschnab/). One paper accepted by SIGIR 2023.
+* June 2023 – Sept. 2023, Research Intern, Snap. Mentor: [Tong Zhao](https://tzhao.io), [Yozen Liu](https://scholar.google.com/citations?user=i3U2JjEAAAAJ&hl=en), and [Neil Shah](https://nshah.net). One paper submitted to ICLR 2024.
+* June 2022 – Sept. 2022, Research Intern, Microsoft Research. Mentor: [Tobias Schnabel](https://www.microsoft.com/en-us/research/people/toschnab/). One paper accepted by SIGIR 2023.
 
 
 
