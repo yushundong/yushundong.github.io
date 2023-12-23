@@ -24,7 +24,7 @@ I am a final-year Ph.D. candidate at the [University of Virginia](http://www.vir
 
 <p>
   <span>**Highlighted Project:** I initiated and have been managing the open-source tool [PyGDebias](https://github.com/yushundong/PyGDebias) — a Python library featured for 20+ built-in datasets and 10+ implementations of popular fairness-aware graph learning algorithms.</span>
-  <img src="../files/pygdebias.png" alt="" style="float:right;" width="100"/>
+  <img src="../files/pygdebias.png" alt="" style="float:right;" width="10"/>
 </p>
 
 
