@@ -24,6 +24,23 @@ I am a final-year Ph.D. candidate at the [University of Virginia](http://www.vir
 
 **Highlighted Project:** I initiated and have been managing the open-source tool [PyGDebias](https://github.com/yushundong/PyGDebias) — a Python library featured for 20+ built-in datasets and 10+ implementations of popular fairness-aware graph learning algorithms. <img src="../files/pygdebias.png" alt="" style="float:right;" width="80"/>
 
+<style>
+    .no-border-table table {
+        border-collapse: collapse;
+    }
+    .no-border-table td {
+        border: none;
+    }
+</style>
+
+<div class="no-border-table">
+
+| **Highlighted Project:** I initiated and have been managing the open-source tool [PyGDebias](https://github.com/yushundong/PyGDebias) — a Python library featured for 20+ built-in datasets and 10+ implementations of popular fairness-aware graph learning algorithms. | <img src="../files/pygdebias.png" alt="" style="float:right;" width="80"/> |
+| --- | --- |
+
+</div>
+
+
 
 
 <!-- I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, **Graph Neural Networks** and corresponding interdisciplinary topics. -->
