@@ -22,7 +22,7 @@ I am a final-year Ph.D. candidate at the [University of Virginia](http://www.vir
 
 **Highlighted Honors:** I also received [**Louis T. Rader Graduate Research Award**](https://www.linkedin.com/posts/jundong-li-09151b5b_uva-research-phd-activity-7057847052566683648-0NzM?utm_source=share&utm_medium=member_desktop), [**Endowed Fellowship**](https://engineering.virginia.edu/yushun-dong-earns-endowed-graduate-fellowship), and [**Best Poster @Doctoral Forum of SDM 2022**](https://www.siam.org/conferences/cm/conference/sdm22). I am truly grateful for the generous efforts from the associated institutions and organizers.
 
-**Highlighted Projects:** I initiated and have been managing the open-source tool [PyGDebias](https://github.com/yushundong/PyGDebias) — a Python library featured for 20+ built-in datasets and 10+ implementations of popular fairness-aware graph learning algorithms.
+**Highlighted Project:** I initiated and have been managing the open-source tool [PyGDebias](https://github.com/yushundong/PyGDebias) — a Python library featured for 20+ built-in datasets and 10+ implementations of popular fairness-aware graph learning algorithms.
 
 
 <!-- I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, **Graph Neural Networks** and corresponding interdisciplinary topics. -->
