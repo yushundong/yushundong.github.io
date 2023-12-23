@@ -38,7 +38,7 @@ News
 * Apr. 2023: One paper accepted by TKDE.
 * Mar. 2023: One paper accepted by ICHI.
 * Dec. 2022: One paper accepted by SDM.
-* Nov. 2022: One paper accepted by AAAI. 
+* Nov. 2022: One paper accepted by AAAI.  
 ...
 <!-- * July 2022: An interesting and comprehensive survey paper "Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications" released. [\[arXiv\]](https://arxiv.org/pdf/2207.11812.pdf) [\[Blog in Chinese\]](https://mp.weixin.qq.com/s/w0_DSd-hteYGfWnwKEALNQ) -->
 <!-- * Apr. 2022: An interesting and comprehensive survey paper "Fairness in Graph Mining: A Survey" released. [\[arXiv\]](https://arxiv.org/abs/2204.09888) [\[Blog in Chinese\]](https://github.com/yushundong/Fairness-in-Graph-Mining-A-Survey) -->
