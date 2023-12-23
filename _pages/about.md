@@ -19,7 +19,7 @@ My research interest mainly lies in achieving responsible AI to further advance 
 * **Safety:** Attacks and Defenses  
 * **AI/ML+X (Applications):** Healthcare; Recommendation  
 
-I also received **Louis T. Rader Graduate Research Award**, **Endowed Fellowship**, and **Best Poster (Runner Up) @Doctoral Forum of SDM 2022**. I am truly grateful for the generuous efforts from the associated institutions and organizers.
+I also received **Louis T. Rader Graduate Research Award**, [**Endowed Fellowship**](https://engineering.virginia.edu/yushun-dong-earns-endowed-graduate-fellowship), and **Best Poster (Runner Up) @Doctoral Forum of SDM 2022**. I am truly grateful for the generuous efforts from the associated institutions and organizers.
 
 
 
