@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. candidate at the [University of Virginia](http://www.virginia.edu/), now working with [Prof. Jundong Li](http://www.ece.virginia.edu/~jl6qk/). Prior to joining in UVa, I obtained my bachelor's degree from the School of Information and Communication Engineering at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) (BUPT), where I worked with [Prof. Yingxia Shao](https://shaoyx.github.io/) and [Prof. Wensheng Sun](https://bkso.baidu.com/item/%E5%AD%99%E6%96%87%E7%94%9F/23658543). (Last updated Jul. 2023)
+I am a fourth-year Ph.D. candidate at the [University of Virginia](http://www.virginia.edu/), now working with [Prof. Jundong Li](http://www.ece.virginia.edu/~jl6qk/).
+
+<span style="color:red">**I am currently on the academic job market. Please kindly reach out for any opportunities.**</span>
 
 Research Interests
 ---
 
-I am broadly interested in graph machine learning to advance the frontiers of graph data analysis, including deep graph neural networks, graph representation learning, and their real-world applications (e.g., recommendation and epidemic prediction). I am particularly interested in how to achieve responsible graph mining algorithms to benefit social good, and I perform abundant research in related areas, such as advancing the explainability, algorithmic fairness, and robustness of deep learning on graphs. <span style="color:red">**I am currently on the academia job market.**</span>
+I am broadly interested in graph machine learning to advance the frontiers of graph data analysis, including deep graph neural networks, graph representation learning, and their real-world applications (e.g., recommendation and epidemic prediction). I am particularly interested in how to achieve responsible graph mining algorithms to benefit social good, and I perform abundant research in related areas, such as advancing the explainability, algorithmic fairness, and robustness of deep learning on graphs. 
 
 
 {% include figure.html path="files/overview.pdf" class="img-fluid" %}
