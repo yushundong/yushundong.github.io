@@ -12,15 +12,15 @@ I am a fourth-year Ph.D. candidate at the [University of Virginia](http://www.vi
 
 <span style="color:red">**I am currently on the academic job market. Please kindly reach out for any opportunities.**</span>
 
-Research Interests
----
 
-I am broadly interested in graph machine learning to advance the frontiers of graph data analysis, including deep graph neural networks, graph representation learning, and their real-world applications (e.g., recommendation and epidemic prediction). I am particularly interested in how to achieve responsible graph mining algorithms to benefit social good, and I perform abundant research in related areas, such as advancing the explainability, algorithmic fairness, and robustness of deep learning on graphs. 
+My research interest mainly lies in how to achieve responsible AI to further advance social good, and I perform abundant research in related areas focusing on relational data, such as advancing the explainability, algorithmic fairness, and safety of deep learning. There are 27 published research papers (nine first author ones) focusing on the following areas:
 
+* **Explainability:** Model Interpretability; Prediction Justification  
+* **Algorithmic Fairness:** Fairness measurement; Algorithm Debiasing  
+* **Safety:** Attacks and Defenses  
+* **Applications:** Healthcare; Recommendation  
 
-{% include figure.html path="files/overview.pdf" class="img-fluid" %}
-
-
+I also received **Louis T. Rader Graduate Research Award**, **Endowed Fellowship**, and **Best Poster (Runner Up) @Doctoral Forum of SDM 2022**. I am truly grateful for the generuous efforts from the associated institutions and organizers.
 
 
 
@@ -105,27 +105,4 @@ Invited Talks (Selected)
 * Sept. 2022, "Fairness in Graph Mining: Metrics and Algorithms" at Mila - Quebec AI Institute [\[Slides\]](http://yushundong.github.io/files/Fairness_Invited_Talk.pdf).
 <!-- * Sept. 2022, "Learning Causal Effects on Hypergraphs" at Microsoft Research.  -->
 
-Honors (Selected)
-------
-<!-- * AAAI Student Fellowship 2023 -->
-* Louis T. Rader Graduate Research Award @ UVa Engineering School 2023
-* Endowed Fellowship @ UVa Engineering School 2022
-* Best Poster (Runner Up) @Doctoral Forum of SIAM International Conference on Data Mining 2022 [\[Certificate\]](http://yushundong.github.io/files/BestPoster-RunnerUp.pdf)
-* McVey Fellowship at UVa Engineering School 2021
-* Student Scholarship/Travel Award of AAAI 2023, SDM 2022, WSDM 2022, TheWebConf 2021, SIGKDD 2020, etc.
-<!-- * AAAI Student Scholarship 2023 -->
-<!-- * SDM Student Travel Award 2022 -->
-<!-- * WSDM Student Travel Award 2022 -->
-<!-- * The Web Conference Scholarship 2021 -->
-<!-- * SIGKDD Student Travel Award 2020 -->
-<!-- * Ph.D. Forum Presenter @SIAM International Conference on Data Mining 2022 -->
-<!-- * SIGIR Student Travel Award 2021 -->
-<!-- * SDM Ph.D. Forum Presenter 2021 -->
-<!-- * SDM Student Travel Award 2021 -->
-<!-- * Excellent Bachelor Thesis of BUPT **(Top 0.5%)**, 2019 -->
-<!-- * First-class Scholarship of BUPT **(Top 5%)**, 2018 -->
-<!-- * Nokia Venture Scholarships of BUPT **(Top 1%)**, 2018 -->
-<!-- * The 2<sup>nd</sup> Prize of *Beijing Internet+ innovation entrepreneurship competition* **(Top 3%)**, 2018 -->
-<!-- * National Scholarship of BUPT **(Top 0.5%)**, 2017 -->
-<!-- * Founder & Chief lecturer in *Star of the Clubs* of BUPT **(Top 3%)**, 2016 -->
 
