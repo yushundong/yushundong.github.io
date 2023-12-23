@@ -13,7 +13,7 @@ I am a fourth-year Ph.D. candidate at the [University of Virginia](http://www.vi
 <span style="color:red">**I am currently on the academic job market. Please kindly reach out for any opportunities.**</span>
 
 
-My research interest mainly lies in how to achieve responsible AI to further advance social good, and I perform abundant research in related areas focusing on relational data, such as advancing the explainability, algorithmic fairness, and safety of deep learning. There are 27 published research papers (nine first author ones) focusing on the following areas:
+My research interest mainly lies in how to achieve responsible AI to further advance social good. I perform abundant research in related areas focusing on relational data, such as advancing the explainability, algorithmic fairness, and safety of deep learning. There are 27 published research papers (nine first author ones) focusing on the following areas:
 
 * **Explainability:** Model Interpretability; Prediction Justification  
 * **Algorithmic Fairness:** Fairness measurement; Algorithm Debiasing  
