@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. candidate at the [University of Virginia](http://www.virginia.edu/) working with [Prof. Jundong Li](http://www.ece.virginia.edu/~jl6qk/).
-
 <span style="color:red">**I am currently on the academic job market. Please kindly reach out for any opportunities.**</span>
 
-My research interest mainly lies in achieving responsible AI to further advance social good such as facilitating inclusive decision-making. I perform abundant research in related areas focusing on relational data, such as advancing the explainability, algorithmic fairness, and safety of deep learning. There are **27 published research papers (nine first author ones)** focusing on the following areas [[see full list]](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ):
+
+I am a final-year Ph.D. candidate at the [University of Virginia](http://www.virginia.edu/) working with [Prof. Jundong Li](http://www.ece.virginia.edu/~jl6qk/).
+
+**Research Summary:** My research interest mainly lies in achieving responsible AI to further advance social good such as facilitating inclusive decision-making. I perform abundant research in related areas focusing on relational data, such as advancing the explainability, algorithmic fairness, and safety of deep learning. There are **27 published research papers (nine first author ones)** focusing on the following areas [[see full list]](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ):
 
 * **Explainability:** Model Interpretability; Prediction Justification  
 * **Algorithmic Fairness:** Fairness measurement; Algorithm Debiasing  
 * **Safety:** Attacks and Defenses  
 * **AI/ML+X (Applications):** Healthcare; Recommendation  
 
-I also received [**Louis T. Rader Graduate Research Award**](https://www.linkedin.com/posts/jundong-li-09151b5b_uva-research-phd-activity-7057847052566683648-0NzM?utm_source=share&utm_medium=member_desktop), [**Endowed Fellowship**](https://engineering.virginia.edu/yushun-dong-earns-endowed-graduate-fellowship), and [**Best Poster @Doctoral Forum of SDM 2022**](https://www.siam.org/conferences/cm/conference/sdm22). I am truly grateful for the generous efforts from the associated institutions and organizers.
+**Highlighted Honors:** I also received [**Louis T. Rader Graduate Research Award**](https://www.linkedin.com/posts/jundong-li-09151b5b_uva-research-phd-activity-7057847052566683648-0NzM?utm_source=share&utm_medium=member_desktop), [**Endowed Fellowship**](https://engineering.virginia.edu/yushun-dong-earns-endowed-graduate-fellowship), and [**Best Poster @Doctoral Forum of SDM 2022**](https://www.siam.org/conferences/cm/conference/sdm22). I am truly grateful for the generous efforts from the associated institutions and organizers.
 
+**Highlighted Projects:** I initiated and have been managing the open-source tool [PyGDebias](https://github.com/yushundong/PyGDebias) — a Python library featured for 20+ built-in datasets and 10+ implementations of popular fairness-aware graph learning algorithms.
 
 
 <!-- I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, **Graph Neural Networks** and corresponding interdisciplinary topics. -->
