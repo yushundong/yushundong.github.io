@@ -16,8 +16,8 @@ I am a final-year Ph.D. candidate at the [University of Virginia](http://www.vir
 **Research Summary:** My research interest mainly lies in achieving responsible AI to further advance social good such as facilitating inclusive decision-making. I have abundant research works under related topics with a particular focus on relational data. There are **27 published research papers (nine first-author ones)** in the following areas [[see full list]](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ):
 
 * **Explainability:** Model Interpretability; Prediction Justification  
-* **Algorithmic Fairness:** Fairness measurement; Algorithm Debiasing  
-* **Safety:** Attacks and Defenses  
+* **Algorithmic Fairness:** Fairness Measurement; Algorithm Debiasing  
+* **Safety:** Attack and Defense
 * **AI/ML+X (Applications):** Healthcare; Recommendation  
 
 **Highlighted Honors:** I also received [**Louis T. Rader Graduate Research Award**](https://www.linkedin.com/posts/jundong-li-09151b5b_uva-research-phd-activity-7057847052566683648-0NzM?utm_source=share&utm_medium=member_desktop), [**Endowed Fellowship**](https://engineering.virginia.edu/yushun-dong-earns-endowed-graduate-fellowship), and [**Best Poster @Doctoral Forum of SDM 2022**](https://www.siam.org/conferences/cm/conference/sdm22). I am truly grateful for the generous efforts from the associated institutions and organizers.
