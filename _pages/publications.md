@@ -38,6 +38,12 @@ SIGKDD Explorations.
 
 ## Conference Publications
 
+### 2024
+
+1. Adversarial Attacks on Fairness of Graph Neural Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Binchi Zhang, **Yushun Dong**, Chen Chen, Yada Zhu, Minnan Luo, Jundong Li  <br>
+International Conference on Learning Representations (**ICLR 2024**).
+
 ### 2023
 
 1. GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction   [\[PDF\]](https://arxiv.org/pdf/2308.09663.pdf) [\[Code\]](https://github.com/sycny/GiGaMAE) [\[Slides\]](https://yushundong.github.io//publications/)<br>
