@@ -44,6 +44,10 @@ SIGKDD Explorations.
 Binchi Zhang, **Yushun Dong**, Chen Chen, Yada Zhu, Minnan Luo, Jundong Li  <br>
 International Conference on Learning Representations (**ICLR 2024**).
 
+2. SD-Attack: Targeted Spectral Attacks on Graphs [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Xianren Zhang, Jing Ma, **Yushun Dong**, Chen Chen, Min Gao, Jundong Li  <br>
+Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2024**).
+
 ### 2023
 
 1. GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction   [\[PDF\]](https://arxiv.org/pdf/2308.09663.pdf) [\[Code\]](https://github.com/sycny/GiGaMAE) [\[Slides\]](https://yushundong.github.io//publications/)<br>
