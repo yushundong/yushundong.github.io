@@ -35,6 +35,7 @@ I am a final-year Ph.D. candidate at the [University of Virginia](http://www.vir
 
 News
 ------
+* Jan. 2024: One paper accepted by PAKDD.
 * Jan. 2024: One paper accepted by ICLR.
 * Nov. 2023: Passed dissertation proposal defense.
 * Aug. 2023: One paper accepted by CIKM.
