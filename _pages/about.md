@@ -25,7 +25,6 @@ I am a final-year Ph.D. candidate at the [University of Virginia](http://www.vir
 
 
 <!-- I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, **Graph Neural Networks** and corresponding interdisciplinary topics. -->
-
 <!-- My previous research experiences mainly lie in graph mining and feature fusion. -->
 
 News
