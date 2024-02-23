@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-See my up-to-date CV [\[here\]](http://yushundong.github.io/files/CV_2024_Yushun.pdf)
+See my up-to-date CV [\[here\]](http://yushundong.github.io/files/CV_2024_Yushun.pdf).
 
 
