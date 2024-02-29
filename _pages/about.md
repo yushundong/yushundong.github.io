@@ -102,8 +102,8 @@ SIGKDD, SIGIR, AAAI, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD
 
 Invited Talks (Selected)
 ------
-* Feb. 2023, "Artificial Intelligence: What Do We Have and Where We Are Heading?" at the University of Virginia.
-* Feb. 2023, "Unlocking Ethical Graph Neural Networks" at the University of Texas Rio Grande Valley.
+* Feb. 2024, "Artificial Intelligence: What Do We Have and Where We Are Heading?" at the University of Virginia. Host: [Prof. Xu Yi](https://engineering.virginia.edu/faculty/xu-yi).
+* Feb. 2023, "Unlocking Ethical Graph Neural Networks" at the University of Texas Rio Grande Valley.  Host: [Prof. Yifeng Gao](https://www.utrgv.edu/csci/faculty/yifeng-gao/index.htm).
 * Sept. 2022, "Fairness in Graph Mining: Metrics and Algorithms" at Mila - Quebec AI Institute [\[Slides\]](http://yushundong.github.io/files/Fairness_Invited_Talk.pdf).
 <!-- * Sept. 2022, "Learning Causal Effects on Hypergraphs" at Microsoft Research.  -->
 
