@@ -48,6 +48,10 @@ International Conference on Learning Representations (**ICLR 2024**).
 Xianren Zhang, Jing Ma, **Yushun Dong**, Chen Chen, Min Gao, Jundong Li  <br>
 Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2024**).
 
+3. PyGDebias: A Python Library for Debiasing in Graph Learning [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+**Yushun Dong**, Zhenyu Lei, Zaiyi Zheng, Song Wang, Jing Ma, Alex Jing Huang, Chen Chen, Jundong Li  <br>
+International Conference on World Wide Web (**WWW 2024**).
+
 ### 2023
 
 1. GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction   [\[PDF\]](https://arxiv.org/pdf/2308.09663.pdf) [\[Code\]](https://github.com/sycny/GiGaMAE) [\[Slides\]](https://yushundong.github.io//publications/)<br>
