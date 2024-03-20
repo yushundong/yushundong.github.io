@@ -9,7 +9,7 @@ redirect_from:
 
 <span style="color:red">**I will join the [Department of Computer Science at Florida State University](https://www.cs.fsu.edu) as a tenure-track Assistant Professor in Fall 2024.**</span>
 
-<span style="color:red">**\[Recruting PhDs & Interns\]:**</span> I'm actively seeking ambitious students for Ph.D. or research intern roles. Please [email me](mailto:yd6eb@virginia.edu) with your CV, transcripts, and brief descriptions about your preferred research topics. Please mark the subject with "[PhD/Research Intern Application]" to ensure attention.
+<span style="color:red">**\[Recruiting PhDs & Interns\]:**</span> I'm actively seeking ambitious students for Ph.D. or research intern roles. Please [email me](mailto:yd6eb@virginia.edu) with your CV, transcripts, and brief descriptions about your preferred research topics. Please mark the subject with "[PhD/Research Intern Application]" to ensure attention.
 
 
 I am a final-year Ph.D. candidate at the [University of Virginia](http://www.virginia.edu/) working with [Prof. Jundong Li](https://jundongli.github.io).
