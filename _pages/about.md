@@ -34,6 +34,7 @@ News
 * Mar. 2024: One paper accepted by TheWebConf.
 * Jan. 2024: One paper accepted by PAKDD.
 * Jan. 2024: One paper accepted by ICLR.
+* Nov. 2023: One paper accepted by TKDD.
 * Nov. 2023: Passed dissertation proposal defense.
 * Aug. 2023: One paper accepted by CIKM.
 * May. 2023: One paper accepted by SIGKDD.
