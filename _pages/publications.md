@@ -31,9 +31,16 @@ The IEEE International Conference on Data Mining (**ICDM 2022**).
 **Yushun Dong**, Jing Ma, Song Wang, Chen Chen, Jundong Li <br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE). 
 
-2. Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications [\[PDF\]](http://yushundong.github.io/files/fedgraph.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+2. Learning Hierarchical Task Structures for Few-shot Graph Classification [\[PDF\]](https://dl.acm.org/doi/full/10.1145/3635473) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Song Wang, **Yushun Dong**, Xiao Huang, Chen Chen, Jundong Li <br>
+IEEE Transactions on Knowledge Discovery from Data (TKDD).
+
+4. Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications [\[PDF\]](http://yushundong.github.io/files/fedgraph.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Xingbo Fu, Binchi Zhang, **Yushun Dong**, Chen Chen, Jundong Li <br>
 SIGKDD Explorations.
+
+
+
 
 
 ## Conference Publications
