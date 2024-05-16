@@ -63,6 +63,11 @@ International Conference on World Wide Web (**WWW 2024**).
 Binchi Zhang, **Yushun Dong**, Tianhao Wang, Jundong Li  <br>
 International Conference on Machine Learning (**ICML 2024**).
 
+5. Knowledge Graph-Enhanced Large Language Models via Path Selection [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Haochen Liu, Song Wang, Yaochen Zhu, **Yushun Dong**, Jundong Li <br>
+Annual Meeting of the Association for Computational Linguistics Findings (**ACL 2024**).
+
+
 ### 2023
 
 1. GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction   [\[PDF\]](https://arxiv.org/pdf/2308.09663.pdf) [\[Code\]](https://github.com/sycny/GiGaMAE) [\[Slides\]](https://yushundong.github.io//publications/)<br>
