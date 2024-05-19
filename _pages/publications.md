@@ -67,6 +67,15 @@ International Conference on Machine Learning (**ICML 2024**).
 Haochen Liu, Song Wang, Yaochen Zhu, **Yushun Dong**, Jundong Li <br>
 Annual Meeting of the Association for Computational Linguistics Findings (**ACL 2024**).
 
+6. IDEA: A Flexible Framework of Certified Unlearning for Graph Neural Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+**Yushun Dong**, Binchi Zhang, Zhenyu Lei, Na Zou, Jundong Li <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**).
+
+7. Rethinking Fair Graph Neural Networks from Re-balancing [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Zhixun Li, **Yushun Dong**, Qiang Liu, Jeffrey Xu Yu <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**).
+
+
 
 ### 2023
 
