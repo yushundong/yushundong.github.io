@@ -31,6 +31,7 @@ I am a final-year Ph.D. candidate at the [University of Virginia](http://www.vir
 
 News
 ------
+* May 2024: Two papers accepted by SIGKDD.
 * May 2024: One paper accepted by ACL.
 * May 2024: One paper accepted by ICML.
 * Mar. 2024: One paper accepted by TheWebConf.
