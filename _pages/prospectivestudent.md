@@ -1,14 +1,10 @@
 ---
 layout: archive
-title: "Prospective student"
+title: "A Guide for Prospective Students"
 permalink: /prospectivestudent/
 author_profile: true
 
 ---
-
-# A Guide for Prospective Students
-
-
 
 ## PhD Application (<span style="color:red">2024 fall admission is still open</span>)
 
