@@ -21,7 +21,7 @@ I am actively seeking ambitious students for Ph.D. positions in my team. If you 
 
 When emailing your application, kindly mark the subject with **[PhD Application]** to ensure it receives prompt attention.
 
-**<span style="color:red">Update</span>**: Due to the delay of [BoG review process](https://compliance.fsu.edu/foreign-influence/agreements-foreign-principals), only students who are currently not residing in countries of concern are qualified for 2024 fall admission. For example, students currently in the US are qualified for 2024 fall admission.
+**<span style="color:red">Update</span>**: Due to the delay of [BoG review process](https://compliance.fsu.edu/foreign-influence/agreements-foreign-principals), only students currently not residing in countries of concern are qualified for 2024 fall admission. For example, students currently in the US are qualified for 2024 fall admission.
 
 ## Research Intern Application
 
