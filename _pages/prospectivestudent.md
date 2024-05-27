@@ -19,6 +19,8 @@ When emailing your application, kindly mark the subject with **[PhD Application]
 
 **<span style="color:red">Update</span>**: Due to the delay of [BoG review process](https://compliance.fsu.edu/foreign-influence/agreements-foreign-principals), only students currently not residing in countries of concern are qualified for 2024 fall admission. For example, students currently in the US are qualified for 2024 fall admission.
 
+Other materials: [1point3acres Recruiting Post](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=1055284)
+
 ## Research Intern Application
 
 I have been working with multiple outstanding research interns and am always looking for enthusiastic and talented ones. If you are interested in a research intern position, please [email me](mailto:yd6eb@virginia.edu) with the following materials:
