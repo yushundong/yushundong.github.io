@@ -9,12 +9,12 @@ author_profile: true
 I am truly fortunate to work with such talented and enthusiastic PhD students and research interns.
 
 -------------------
-# PhD Students
+## PhD Students
 
 Recruiting...
 
 -------------------
-# 2024 Summer Research Interns
+## 2024 Summer Research Interns
 
 - Zebin Wang, Ph.D. student from the Department of Biostatistics at Harvard Univeristy
 - Chenxi Zhao, Master's student from the Department of Computer Science at Northeastern Univeristy
