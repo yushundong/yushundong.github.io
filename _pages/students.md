@@ -23,5 +23,3 @@ Recruiting...
 - Jiaojiao Zhao, Master's student from the School of Information Technology at Iowa State University
 - Zixuan Peng, Master's student from the Department of Computer Science at University of Wisconsin-Madison
 - Yuxiang Sun, Undergraduate student from the Department of Statistics at University of Wisconsin-Madison
-
--------------------
