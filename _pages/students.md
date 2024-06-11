@@ -21,6 +21,4 @@ Recruiting...
 - Chenxi Zhao, Master's student from the Department of Computer Science at Northeastern Univeristy
 - Kaixiang Zhao, Master's student from the Department of Computer Science at the University of Notre Dame
 - Haihao Sun, Master's student from the Department of Computer Science at Yale University
-- Jiaojiao Zhao, Master's student from the School of Information Technology at Iowa State University
-- Zixuan Peng, Master's student from the Department of Computer Science at University of Wisconsin-Madison
 - Yuxiang Sun, Undergraduate student from the Department of Statistics at University of Wisconsin-Madison
