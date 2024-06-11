@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:red">**I will be joining the [Department of Computer Science at Florida State University](https://www.cs.fsu.edu) as a tenure-track Assistant Professor in Fall 2024.**</span>
+
 
 <span style="color:red">**\[Recruiting PhDs & Interns\]:**</span> I am actively seeking ambitious students for Ph.D. or research intern roles. Please [email me](mailto:yd6eb@virginia.edu) with your CV, transcripts, and brief descriptions of your preferred research topics. Kindly mark the subject with *[PhD/Research Intern Application]* to ensure attention.
 
