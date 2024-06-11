@@ -8,7 +8,7 @@ author_profile: true
 
 Other language versions: **[中文版](https://yushundong.github.io/prospectivestudentcn/)**
 
-## PhD Application (<span style="color:red">2024 fall admission is still open</span>)
+## PhD Application (<span style="color:red">2025 spring admission is open</span>)
 
 I am actively seeking ambitious students for Ph.D. positions in my team. If you are interested in applying, please [submit your application here](https://www.cs.fsu.edu/admissions/graduate-admissions/) and [email me](mailto:yd6eb@virginia.edu) with the following materials:
 
