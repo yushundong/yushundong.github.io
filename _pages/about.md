@@ -43,9 +43,9 @@ News
 * Nov. 2023: One paper accepted by TKDD.
 * Nov. 2023: Passed dissertation proposal defense.
 * Aug. 2023: One paper accepted by CIKM.
-* May. 2023: One paper accepted by SIGKDD.
+* May 2023: One paper accepted by SIGKDD.
 * Apr. 2023: One tutorial accepted by SIGKDD.
-* May. 2023: One paper accepted by i3CE.
+* May 2023: One paper accepted by i3CE.
 * Apr. 2023: One paper accepted by SIGIR.
 * Apr. 2023: One paper accepted by TKDE.
 * Mar. 2023: One paper accepted by ICHI.
