@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-I am an incoming tenure-track Assistant Professor in the [Department of Computer Science](https://www.cs.fsu.edu) at [Florida State University](https://www.fsu.edu/). Prior to that, I obtained my Ph.D. degree from the [University of Virginia](http://www.virginia.edu/), where I was fortunate to work with [Prof. Jundong Li](https://jundongli.github.io).
+I am an Assistant Professor in the [Department of Computer Science](https://www.cs.fsu.edu) at [Florida State University](https://www.fsu.edu/). Prior to that, I obtained my Ph.D. degree from the [University of Virginia](http://www.virginia.edu/), where I was fortunate to work with [Prof. Jundong Li](https://jundongli.github.io).
 
 
 **(i) Research Summary:** My research interest mainly lies in achieving responsible AI to further advance social good such as facilitating inclusive decision-making. I have abundant research works under related topics with a particular focus on relational data, including **30+ published research papers (12 first-author ones)** in the following areas [[see full list]](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ):
