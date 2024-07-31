@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yushun Dong, Ph.D."
+  name             : "Yushun Dong"
   avatar           : "Profile-2.JPG"
-  bio              : "Assistant Professor @FSU"
-  location         : "Tallahassee, FL"
+  bio              : "Assistant Professor, Department of Computer Science, Florida State University"
+  location         : "1017 Academic Way, 207 Bldg. LOV, Tallahassee, FL"
   employer         :
   pubmed           :
   googlescholar    : https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ
-  email            : yd6eb@virginia.edu
+  email            : yd24f@fsu.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
