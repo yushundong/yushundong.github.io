@@ -33,7 +33,8 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 News
 ------
-* June 2024: Dissertation defense passed.
+* Aug. 2024: New position started at [Florida State University](https://www.fsu.edu/).
+* Jun. 2024: Dissertation defense passed.
 * May 2024: Two papers accepted by SIGKDD.
 * May 2024: One paper accepted by ACL.
 * May 2024: One paper accepted by ICML.
