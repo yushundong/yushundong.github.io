@@ -17,6 +17,33 @@
     <script src="js/respond.min.js"></script>
     <![endif]-->       
     <link rel="shortcut icon" href="images/ico/fsu.ico"> 
+    <script>
+        function downloadCalendarEvent() {
+            var eventDetails = 
+                "BEGIN:VCALENDAR\n" +
+                "VERSION:2.0\n" +
+                "BEGIN:VEVENT\n" +
+                "SUMMARY:AI & ML Colloquium at Florida State University\n" +
+                "DTSTART:20240903T140000Z\n" + // 10:00 AM ET on first Tuesday of September 2024
+                "DTEND:20240903T160000Z\n" +   // 12:00 PM ET
+                "RRULE:FREQ=WEEKLY;BYDAY=TU\n" + // Repeats every Tuesday
+                "LOCATION:Room xxx, LOV Building, Tallahassee, FL\n" +
+                "DESCRIPTION:AI & ML Colloquium at Florida State University\n" +
+                "END:VEVENT\n" +
+                "END:VCALENDAR";
+
+            var element = document.createElement('a');
+            element.setAttribute('href', 'data:text/calendar;charset=utf-8,' + encodeURIComponent(eventDetails));
+            element.setAttribute('download', 'AI_ML_Colloquium.ics');
+
+            element.style.display = 'none';
+            document.body.appendChild(element);
+
+            element.click();
+
+            document.body.removeChild(element);
+        }
+    </script>
 </head> 
 
 <body id="home">
@@ -57,14 +84,13 @@
                                  
                                     <h2><b>AI & ML </b> Colloquium at Florida State University</h2>
                                     <p>  <br/> <b>Time</b>: 10:00 AM - 12:00 PM (ET), Every Tuesday <br/> <b>Location</b>: Room xxx, LOV Building, Tallahassee, FL</p>
-                                    <a class="btn btn-primary btn-lg" style="width: 200px;" href="https://yushundong.github.io/aiml_colloquium_at_FSU.html">Add To My Calendar</a>
-                                
+                                    <!-- <a class="btn btn-primary btn-lg" style="width: 200px;" href="https://">Add To My Calendar</a> -->
+                                    <a class="btn btn-primary btn-lg" style="width: 200px;" href="#" onclick="downloadCalendarEvent(); return false;">Add To My Calendar</a>
                             </div>
                         </div>
                     </div>
                 </div>
-    </section><!--/#main-slider-->
-     
+    </section>
 
      <section id="features">
 	 <div class="container">
