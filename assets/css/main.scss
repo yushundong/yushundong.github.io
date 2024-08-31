@@ -40,48 +40,53 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-
 .rai-container {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
+  display: table;
+  width: 100%;
   background-color: #f0f0f0;
   padding: 20px;
   border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.rai-image-container {
+  display: table-cell;
+  vertical-align: middle;
+  width: 200px;
+  padding-right: 20px;
 }
 
 .rai-image {
-  margin-right: 20px;
-  width: 200px;
-  height: auto; 
-  flex-shrink: 0;
-  align-self: center; 
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 
 .rai-text {
-  flex: 1;
+  display: table-cell;
+  vertical-align: middle;
 }
 
 @media (max-width: 768px) {
   .rai-container {
-    flex-direction: column;
-    align-items: center;
+    display: block;
+  }
+  
+  .rai-image-container {
+    display: block;
+    width: 100%;
+    padding-right: 0;
+    padding-bottom: 20px;
+    text-align: center;
   }
   
   .rai-image {
-    margin-right: 0;
-    margin-bottom: 20px;
-    width: 100%;
     max-width: 200px;
+    margin: 0 auto;
   }
-}
-
-
-@media not all and (min-resolution:.001dpcm) { 
-  @supports (-webkit-appearance:none) {
-    .rai-image {
-      align-self: flex-start; 
-    }
+  
+  .rai-text {
+    display: block;
   }
 }
 
