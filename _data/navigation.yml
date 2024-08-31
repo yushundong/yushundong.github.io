@@ -1,17 +1,18 @@
 # main links links
 main:
-  - title: "Prospective Students"
-    url: "/prospectivestudent/"
 
   - title: "Publications"
     url: /publications/  
+    
+  - title: "Lab & Students"
+    url: /students/   
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Lab & Students"
-    url: /students/   
-    
   - title: "CV"
     url: /cv/
 
+  - title: "Prospective Students"
+    url: "/prospectivestudent/"
+    
