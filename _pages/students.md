@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: ""
+title: "Research Lab"
 permalink: /students/
 author_profile: true
 
 ---
 
-## Research Lab
--------------------
 <div style="display: flex; align-items: flex-start; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
   <img src="../files/rai_logo.png" alt="RAI Logo" style="margin-right: 20px; width: 200px;">
   <div style="flex: 1;">
