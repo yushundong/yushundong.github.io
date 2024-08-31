@@ -40,54 +40,60 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+
 .rai-container {
-  display: table;
-  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
   background-color: #f0f0f0;
   padding: 20px;
   border-radius: 10px;
   box-sizing: border-box;
+  transition: all 0.3s ease;
 }
 
 .rai-image-container {
-  display: table-cell;
-  vertical-align: middle;
+  flex: 0 0 auto;
   width: 200px;
   padding-right: 20px;
+  transition: all 0.3s ease;
 }
 
 .rai-image {
   display: block;
   max-width: 100%;
   height: auto;
+  transition: all 0.3s ease;
 }
 
 .rai-text {
-  display: table-cell;
-  vertical-align: middle;
+  flex: 1;
+  transition: all 0.3s ease;
+}
+
+@media (max-width: 1024px) {
+  .rai-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .rai-image-container {
+    width: 50%;
+    max-width: 200px;
+    padding-right: 0;
+    padding-bottom: 20px;
+  }
 }
 
 @media (max-width: 768px) {
-  .rai-container {
-    display: block;
-  }
-  
   .rai-image-container {
-    display: block;
     width: 100%;
-    padding-right: 0;
-    padding-bottom: 20px;
-    text-align: center;
-  }
-  
-  .rai-image {
     max-width: 200px;
-    margin: 0 auto;
-  }
-  
-  .rai-text {
-    display: block;
   }
 }
 
-
+@media (max-width: 480px) {
+  .rai-image-container {
+    width: 80%;
+  }
+}
