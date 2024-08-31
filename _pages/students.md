@@ -6,9 +6,12 @@ author_profile: true
 
 ---
 
-[<img src="../files/rai_logo.png" alt="" style="float:left;" width="200"/>]()
-
-I lead the Responsible AI (RAI) lab at Florida State University, Tallahassee, FL. I am truly fortunate to work with such talented and enthusiastic PhD students and research interns.
+<div style="display: flex; align-items: flex-start;">
+  <img src="../files/rai_logo.png" alt="RAI Logo" style="float: left; margin-right: 20px; width: 200px;">
+  <div>
+    I lead the Responsible AI (RAI) lab at Florida State University, Tallahassee, FL. I am truly fortunate to work with such talented and enthusiastic PhD students and research interns.
+  </div>
+</div>
 
 -------------------
 ## PhD Students
