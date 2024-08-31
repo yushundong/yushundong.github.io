@@ -6,9 +6,9 @@ author_profile: true
 
 ---
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="../files/rai_logo.png" alt="RAI Logo" style="float: left; margin-right: 20px; width: 200px;">
-  <div>
+<div style="display: flex; align-items: flex-start; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+  <img src="../files/rai_logo.png" alt="RAI Logo" style="margin-right: 20px; width: 200px;">
+  <div style="flex: 1;">
     I lead the Responsible AI (RAI) lab at Florida State University, Tallahassee, FL. I am truly fortunate to work with such talented and enthusiastic PhD students and research interns.
   </div>
 </div>
