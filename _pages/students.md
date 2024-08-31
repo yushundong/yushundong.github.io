@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Lab"
+title: "Research Lab and Students"
 permalink: /students/
 author_profile: true
 
