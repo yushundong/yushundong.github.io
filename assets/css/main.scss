@@ -40,10 +40,11 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+
 .rai-container {
   display: flex;
   flex-direction: row;
-  align-items: center; 
+  align-items: center;
   background-color: #f0f0f0;
   padding: 20px;
   border-radius: 10px;
@@ -52,7 +53,9 @@
 .rai-image {
   margin-right: 20px;
   width: 200px;
+  height: auto; 
   flex-shrink: 0;
+  align-self: center; 
 }
 
 .rai-text {
@@ -72,3 +75,14 @@
     max-width: 200px;
   }
 }
+
+
+@media not all and (min-resolution:.001dpcm) { 
+  @supports (-webkit-appearance:none) {
+    .rai-image {
+      align-self: flex-start; 
+    }
+  }
+}
+
+
