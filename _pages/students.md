@@ -6,7 +6,9 @@ author_profile: true
 
 ---
 
-I am truly fortunate to work with such talented and enthusiastic PhD students and research interns.
+[<img src="../files/rai_logo.png" alt="" style="float:left;" width="200"/>]()
+
+I lead the Responsible AI (RAI) lab at Florida State University, Tallahassee, FL. I am truly fortunate to work with such talented and enthusiastic PhD students and research interns.
 
 -------------------
 ## PhD Students
