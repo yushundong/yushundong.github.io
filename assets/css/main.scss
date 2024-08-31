@@ -39,3 +39,36 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+.rai-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.rai-image {
+  margin-right: 20px;
+  width: 200px;
+  flex-shrink: 0;
+}
+
+.rai-text {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .rai-container {
+    flex-direction: column;
+  }
+  
+  .rai-image {
+    margin-right: 0;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 200px;
+  }
+}
