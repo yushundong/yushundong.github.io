@@ -7,11 +7,15 @@ author_profile: true
 ---
 
 <div class="rai-container">
-  <img src="../files/rai_logo.png" alt="RAI Logo" class="rai-image">
+  <div class="rai-image-container">
+    <img src="../files/rai_logo.png" alt="RAI Logo" class="rai-image">
+  </div>
   <div class="rai-text">
     I lead the Responsible AI (RAI) Lab at Florida State University, Tallahassee, FL. I am truly fortunate to work with such talented and enthusiastic PhD students and research interns. This logo, where the "R" is placed in front of "AI", was conceptualized to emphasize that making AI responsible is even more important than developing AI technology itself.
   </div>
 </div>
+
+
 
 -------------------
 ## PhD Students
