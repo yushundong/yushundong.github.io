@@ -13,7 +13,7 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 <span style="color:red">**\[Recruiting PhDs & Interns\]:**</span> I am actively seeking ambitious students for Ph.D. or research intern roles. Please [email me](mailto:yd24f@fsu.edu) with your CV, transcripts, and brief descriptions of your preferred research topics. Kindly mark the subject with `[PhD Application]` or `[Research Intern Application]`. <span style="color:red">**Magic Word**</span>: Please add `appoggiatura` in the email subject to ensure attention and to show that you have read this carefully.  
 
-**(i) Research Summary:** My research interest mainly lies in achieving responsible AI to further advance social good such as facilitating inclusive decision-making. I have abundant research works under related topics with a particular focus on relational data, including **30+ published research papers (12 first-author ones)** in the following areas [[see full list]](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ):
+**(i) Research Summary:** My research interest mainly lies in achieving responsible AI to further advance social good such as facilitating inclusive decision-making. I have abundant research works under related topics with a particular focus on relational data, including **30+ published research papers (13 first-author ones)** in the following areas [[see full list]](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ):
 
 * **Explainability:** Model Interpretability; Prediction Justification  
 * **Algorithmic Fairness:** Fairness Measurement; Algorithm Debiasing  
