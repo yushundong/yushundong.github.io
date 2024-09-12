@@ -30,7 +30,7 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 News
 ------
-* Aug. 2024: We are recruiting the organizers for [AIML Colloquium @FSU](https://yushundong.github.io/aiml_colloquium_at_FSU.html). Contact us!
+* Aug. 2024: We are recruiting the organizers for seminar series [Computational Frontiers @FSU](https://cs-fsu.github.io/seminars.html). Contact us!
 * Aug. 2024: New position started at [Florida State University](https://www.fsu.edu/).
 * Jun. 2024: Dissertation defense passed.
 * May 2024: Two papers accepted by SIGKDD.
