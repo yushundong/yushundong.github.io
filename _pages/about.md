@@ -18,7 +18,7 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 * **Explainability:** Model Interpretability; Prediction Justification  
 * **Algorithmic Fairness:** Fairness Measurement; Algorithm Debiasing  
 * **AI Security:** Attack and Defense
-* **AI/ML+X (Applications):** Healthcare; Recommendation  
+* **AI/ML+X (Applications):** Healthcare; Criminal Justice; Finance
 
 **(ii) Highlighted Honors:** I received [**Louis T. Rader Graduate Research Award**](https://www.linkedin.com/posts/jundong-li-09151b5b_uva-research-phd-activity-7057847052566683648-0NzM?utm_source=share&utm_medium=member_desktop), [**Endowed Fellowship**](https://engineering.virginia.edu/yushun-dong-earns-endowed-graduate-fellowship), and [**Best Poster @Doctoral Forum of SDM 2022**](https://www.siam.org/conferences/cm/conference/sdm22). I am truly grateful for the generous efforts from the associated institutions and organizers.
 
