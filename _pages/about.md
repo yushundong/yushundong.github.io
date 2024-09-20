@@ -30,6 +30,7 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 News
 ------
+* Sept. 2024: Received Arts and Sciences Dean’s Faculty Award. I appreciate the generous support from the Dean's office.
 * Sept. 2024: One papers accepted by EMNLP.
 * Aug. 2024: We are preparing for seminar series [Computational Frontiers @FSU](https://cs-fsu.github.io/seminars.html). Contact us to present!
 * Aug. 2024: New position started at [Florida State University](https://www.fsu.edu/).
