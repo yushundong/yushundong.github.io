@@ -30,7 +30,8 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 News
 ------
-* Aug. 2024: We are recruiting the organizers for seminar series [Computational Frontiers @FSU](https://cs-fsu.github.io/seminars.html). Contact us!
+* Sept. 2024: One papers accepted by EMNLP.
+* Aug. 2024: We are preparing for seminar series [Computational Frontiers @FSU](https://cs-fsu.github.io/seminars.html). Contact us to present!
 * Aug. 2024: New position started at [Florida State University](https://www.fsu.edu/).
 * Jun. 2024: Dissertation defense passed.
 * May 2024: Two papers accepted by SIGKDD.
