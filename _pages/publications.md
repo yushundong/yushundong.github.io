@@ -75,6 +75,9 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**).
 Zhixun Li, **Yushun Dong**, Qiang Liu, Jeffrey Xu Yu <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**).
 
+8. Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective on Molecule Graphs [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Yinhan He, Zaiyi Zheng, Patrick Soga, Yaochen Zhu, **Yushun Dong**, Jundong Li <br>
+Empirical Methods in Natural Language Processing (**EMNLP 2024**).
 
 
 ### 2023
