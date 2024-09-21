@@ -10,9 +10,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
-
   - title: "Prospective Students"
     url: "/prospectivestudent/"
+
+  - title: "Grants & Awards"
+    url: /grants/
     
+  - title: "CV"
+    url: /cv/
