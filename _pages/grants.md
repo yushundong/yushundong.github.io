@@ -7,7 +7,7 @@ author_profile: true
 
 The grants and awards listed below have been instrumental in advancing my research and contributing to the scientific community. I extend my heartfelt thanks to all the organizations and institutions that have believed in my work and provided the necessary resources to pursue groundbreaking research.
 
-* Arts and Sciences Dean’s Faculty Award, Florida State University, Sept. 2024
+* The College of Arts and Sciences Dean’s Faculty Award, Florida State University, Sept. 2024
 
 * Louis T. Rader Graduate Research Award, University of Virginia, Apr. 2023
 
