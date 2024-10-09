@@ -20,6 +20,11 @@ author_profile: true
 -------------------
 ## PhD Students
 
+Lincan Li, Spring 2025 - 
+
+Bolin Shen, Spring 2025 - 
+
+
 Recruiting...
 
 -------------------
