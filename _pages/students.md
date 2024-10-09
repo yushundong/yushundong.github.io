@@ -46,9 +46,12 @@ Recruiting...
 -------------------
 ## 2024 Summer Research Interns
 
-- Zebin Wang, Ph.D. student from the Department of Biostatistics at Harvard Univeristy
+- Yuxiang Sun, Undergraduate student from the Department of Statistics at University of Wisconsin-Madison
 - Bolin Shen, Master's student from the Department of Electrical and Computer Engineering at the University of Michigan—Ann Arbor 
 - Chenxi Zhao, Master's student from the Department of Computer Science at Northeastern Univeristy
 - Kaixiang Zhao, Master's student from the Department of Computer Science at the University of Notre Dame
 - Haihao Sun, Master's student from the Department of Computer Science at Yale University
-- Yuxiang Sun, Undergraduate student from the Department of Statistics at University of Wisconsin-Madison
+- Zebin Wang, Ph.D. student from the Department of Biostatistics at Harvard Univeristy
+- Lincan Li, researcher at the University of New South Wales (AU)
+
+
