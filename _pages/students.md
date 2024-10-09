@@ -28,6 +28,21 @@ Bolin Shen, Spring 2025 -
 Recruiting...
 
 -------------------
+## 2024 Fall Research Interns
+
+- Ammiel Bowen, Undergraduate student from the Department of Computer Science at Florida State Univeristy
+- Kien Le, Undergraduate student from the Department of Computer Science at Florida State Univeristy
+- Ken Anderson, Undergraduate student from the Department of Mathematics at Florida State Univeristy
+- Zhan Cheng, Undergraduate student at University of Wisconsin–Madison
+- Yujing Ju, Undergraduate student at Heriot-Watt University (UK)
+- Xiaoyang Ming, Master's student from the Department of Computer Science at Florida State Univeristy
+- Mohit Bhat, Master's student from the Department of Computer Science at Florida State Univeristy
+- Tyler Blalock, Master's student from the Department of Computer Science at the University of Central Florida
+- Menghan Lin, Ph.D. student from the Department of Statistics at Florida State Univeristy
+- Unique Karki, researcher and instructor at Kathmandu University (Nepal)
+
+
+-------------------
 ## 2024 Summer Research Interns
 
 - Zebin Wang, Ph.D. student from the Department of Biostatistics at Harvard Univeristy
