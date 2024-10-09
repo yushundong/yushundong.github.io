@@ -79,6 +79,14 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**).
 Yinhan He, Zaiyi Zheng, Patrick Soga, Yaochen Zhu, **Yushun Dong**, Jundong Li <br>
 Empirical Methods in Natural Language Processing (**EMNLP 2024**).
 
+9. On Demonstration Selection for Improving Fairness in Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Song Wang, Peng Wang, **Yushun Dong**, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li <br>
+Annual Conference on Neural Information Processing Systems, SoLaR Workshop (**NeurIPS 2024**).
+
+10. CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Song Wang, Peng Wang, Tong Zhou, **Yushun Dong**, Zhen Tan, Jundong Li <br>
+Annual Conference on Neural Information Processing Systems, SoLaR Workshop (**NeurIPS 2024**).
+
 
 ### 2023
 
