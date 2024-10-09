@@ -35,6 +35,7 @@ Recruiting...
 - Ken Anderson, Undergraduate student from the Department of Mathematics at Florida State Univeristy
 - Zhan Cheng, Undergraduate student at University of Wisconsin–Madison
 - Yujing Ju, Undergraduate student at Heriot-Watt University (UK)
+- Zhongkai Xue, Undergraduate student at Oxford University (UK)
 - Xiaoyang Ming, Master's student from the Department of Computer Science at Florida State Univeristy
 - Mohit Bhat, Master's student from the Department of Computer Science at Florida State Univeristy
 - Tyler Blalock, Master's student from the Department of Computer Science at the University of Central Florida
