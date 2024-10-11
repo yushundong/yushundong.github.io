@@ -4,7 +4,7 @@ main:
   - title: "Publications"
     url: /publications/  
     
-  - title: "Lab & Students"
+  - title: "RAI Lab"
     url: /students/   
 
   - title: "Teaching"
@@ -16,5 +16,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Prospective Students"
+  - title: "Recruiting"
     url: "/prospectivestudent/"
