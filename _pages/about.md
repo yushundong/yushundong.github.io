@@ -33,7 +33,7 @@ News
 * Oct. 2024: Two papers accepted by NeurIPS.
 * Sept. 2024: Received The College of Arts and Sciences Dean’s Faculty Award. I appreciate the generous support from the Dean's office.
 * Sept. 2024: One papers accepted by EMNLP.
-* Aug. 2024: We are preparing for seminar series [Computational Frontiers @FSU](https://cs-fsu.github.io/seminars.html). Contact us to present!
+* Aug. 2024: We are preparing for seminar series [Student Seminars @FSU](https://cs-fsu.github.io/seminars.html). Contact us to present!
 * Aug. 2024: New position started at [Florida State University](https://www.fsu.edu/).
 * Jun. 2024: Dissertation defense passed.
 * May 2024: Two papers accepted by SIGKDD.
