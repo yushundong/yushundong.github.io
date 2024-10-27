@@ -87,6 +87,10 @@ Annual Conference on Neural Information Processing Systems, SoLaR Workshop (**Ne
 Song Wang, Peng Wang, Tong Zhou, **Yushun Dong**, Zhen Tan, Jundong Li <br>
 Annual Conference on Neural Information Processing Systems, SoLaR Workshop (**NeurIPS 2024**).
 
+11. KG-CF: Knowledge Graph Completion with Context Filtering under the Guidance of Large Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Zaiyi Zheng, **Yushun Dong**, Song Wang, Haochen Liu, Qi Wang, Jundong Li <br>
+IEEE International Conference on Big Data (**BigData 2024**).
+
 
 ### 2023
 
