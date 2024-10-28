@@ -30,6 +30,7 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 News
 ------
+* Oct. 2024: One papers accepted by TMLR.
 * Oct. 2024: One papers accepted by BigData.
 * Oct. 2024: Two papers accepted by NeurIPS.
 * Sept. 2024: Received The College of Arts and Sciences Dean’s Faculty Award. I appreciate the generous support from the Dean's office.
