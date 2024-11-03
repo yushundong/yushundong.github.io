@@ -12,7 +12,7 @@ location: "Tallahassee, FL"
 
 ## **Administrivia**
 * 📢 **Instructor**: [**Dr. Yushun Dong**](https://yushundong.github.io) (yd24f[at]fsu[dot]edu)
-* 💡 **Teaching Assistants**: Lincan Li (ll24dd[at]fsu[dot]edu)
+* 💡 **Teaching Assistants**: Lincan Li (ll24bb[at]fsu[dot]edu)
 * 📅 **Time**: Tuesday & Thursday, 4:50 pm-6:05 pm (ET)
 * 🏫 **Location**: [Love Building 301](https://map.concept3d.com/?id=1235#!m/345138?share)
 * 🔍 **Instructor Office Hours**: Tuesday & Thursday, 6:05 to 7:05 PM at LOV 301.
