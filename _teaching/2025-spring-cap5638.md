@@ -70,9 +70,9 @@ Please see a detailed introduction of **Project Proposal** and **Final Project R
 |   2.11 (Tuesday)   |                               |              |                  |
 |   2.13 (Thursday)  |                               |              |                  |
 |   2.17 (Monday)    | 🚨 Proposal DDL at 23:59 PM (ET) |     N/A      | Not a class day. |
-|   2.18 (Tuesday)   |                               |              |                  |
-|   2.20 (Thursday)  |                               |              |                  |
-|   2.25 (Tuesday)   |                               |              |                  |
+|   2.18 (Tuesday)   |  **Project presentation.**    |              | Start advertising your project!  |
+|   2.20 (Thursday)  |  **Project presentation.**    |              | Start advertising your project!  |
+|   2.25 (Tuesday)   |  **Project presentation.**    |              | Start advertising your project!  |
 |   2.27 (Thursday)  |                               |              |                  |
 |   3.04 (Tuesday)   |                               |              |                  |
 |   3.06 (Thursday)  |                               |              |                  |
