@@ -84,15 +84,15 @@ Please see a detailed introduction of **Project Proposal** and **Final Project R
 |   3.27 (Thursday)  |                               |              |                  |
 |   4.01 (Tuesday)   |                               |              |                  |
 |   4.03 (Thursday)  |                               |              |                  |
-|   4.08 (Tuesday)   |                               |              |                  |
-|   4.10 (Thursday)  |                               |              |                  |
-|   4.11 (Friday)    | 🚨 Final Report DDL at 23:59 PM (ET) |     N/A      | Not a class day. |
+|   4.07 (Monday)    | 🚨 Final Report DDL at 23:59 PM (ET) |     N/A      | Not a class day. |
+|   4.08 (Tuesday)   | **Project presentation.**    |              | Start advertising your project!  |
+|   4.10 (Thursday)  | **Project presentation.**    |              | Start advertising your project!  |
 |   4.15 (Tuesday)   |  **Project presentation.**    |              | Start advertising your project!  |
 |   4.17 (Thursday)  |  **Project presentation.**    |              | Start advertising your project!  |
 |   4.22 (Tuesday)   |  **Project presentation.**    |              | Start advertising your project!  |
 |   4.24 (Thursday)  |   **Project presentation.**    |              | Start advertising your project!  |
-|   4.29 (Tuesday)   |    Final Exam Week: no exam and no class.   |              |   |
-|   5.01 (Thursday)  |    Final Exam Week: no exam and no class.    |              |  |
+|   4.29 (Tuesday)   |    Final Exam Week: no exam and no class.   |              |  🏖️ No class.   |
+|   5.01 (Thursday)  |    Final Exam Week: no exam and no class.    |              | 🏖️ No class.   |
 
 
 
