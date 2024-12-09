@@ -91,8 +91,8 @@ Please see a detailed introduction of **Project Proposal** and **Final Project R
 |   4.17 (Thursday)  |  **Project presentation.**    |              | Start advertising your project!  |
 |   4.22 (Tuesday)   |  **Project presentation.**    |              | Start advertising your project!  |
 |   4.24 (Thursday)  |   **Project presentation.**    |              | Start advertising your project!  |
-|   4.29 (Tuesday)   |    **Project presentation.**    |              | Start advertising your project!  |
-|   5.01 (Thursday)  |    **Project presentation.**    |              | Start advertising your project!  |
+|   4.29 (Tuesday)   |    Final Exam Week: no exam and no class.   |              |   |
+|   5.01 (Thursday)  |    Final Exam Week: no exam and no class.    |              |  |
 
 
 
