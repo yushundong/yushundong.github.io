@@ -50,6 +50,17 @@ SIGKDD Explorations 2022.
 
 ## Conference Publications
 
+
+### 2025
+
+1. ST-FiT: Inductive Spatial-Temporal Forecasting with Limited Training Data [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Zhenyu Lei, **Yushun Dong**, Jundong Li, Chen Chen <br>
+AAAI Conference on Artificial Intelligence (**AAAI 2025**).
+
+2. BrainMAP: Learning Multiple Activation Pathways in Brain Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Song Wang, Zhenyu Lei, Zhen Tan, Jiaqi Ding, Xinyu Zhao, **Yushun Dong**, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li <br>
+AAAI Conference on Artificial Intelligence (**AAAI 2025**). 
+
 ### 2024
 
 1. Adversarial Attacks on Fairness of Graph Neural Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
@@ -95,6 +106,9 @@ Annual Conference on Neural Information Processing Systems, SoLaR Workshop (**Ne
 11. KG-CF: Knowledge Graph Completion with Context Filtering under the Guidance of Large Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Zaiyi Zheng, **Yushun Dong**, Song Wang, Haochen Liu, Qi Wang, Jundong Li <br>
 IEEE International Conference on Big Data (**BigData 2024**).
+
+
+
 
 
 ### 2023
