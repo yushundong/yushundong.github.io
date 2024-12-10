@@ -30,6 +30,7 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 News
 ------
+* Dec. 2024: Two papers accepted by AAAI.
 * Oct. 2024: One papers accepted by TMLR.
 * Oct. 2024: One papers accepted by BigData.
 * Oct. 2024: Two papers accepted by NeurIPS.
