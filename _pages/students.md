@@ -36,7 +36,7 @@ Recruiting...
     <img src="../files/political_llm.png" alt="RAI Logo" class="rai-image">
   </div>
   <div class="rai-text">
-    **[Political-LLM](https://arxiv.org/abs/2412.06864)** is a comprehensive guidebook based on the collaboration of 40+ researchers across AI and political science field exploring how LLMs are revolutionizing political science research. Click to read [paper](https://arxiv.org/abs/2412.06864) and [online resources](http://political-llm.org).
+    [Political-LLM](https://arxiv.org/abs/2412.06864) is a comprehensive guidebook based on the collaboration of 40+ researchers across AI and political science field exploring how LLMs are revolutionizing political science research. Click to read [paper](https://arxiv.org/abs/2412.06864) and [online resources](http://political-llm.org).
   </div>
 </div>
 
