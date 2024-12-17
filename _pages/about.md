@@ -32,6 +32,7 @@ News
 ------
 * Dec. 2024: We released `Political-LLM`, a comprehensive guidebook outlining the recent advances in the interdisciplinary area of political science and LLMs. Check our [paper](https://arxiv.org/abs/2412.06864) and [online resources](http://political-llm.org)!
 * Dec. 2024: Two papers accepted by AAAI.
+* Nov. 2024: Received The Collaborative Grant between Computer Science and Psychology. I appreciate the generous support from the Department of Computer Science and Department of Psychology at FSU.
 * Oct. 2024: One papers accepted by TMLR.
 * Oct. 2024: One papers accepted by BigData.
 * Oct. 2024: Two papers accepted by NeurIPS.
