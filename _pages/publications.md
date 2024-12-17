@@ -44,8 +44,18 @@ IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023.
 Xingbo Fu, Binchi Zhang, **Yushun Dong**, Chen Chen, Jundong Li <br>
 SIGKDD Explorations 2022.
 
+## Preprint
 
+1. ELEGANT: Certified Defense on the Fairness of Graph Neural Networks [\[PDF\]](https://arxiv.org/pdf/2311.02757) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+**Yushun Dong**, Binchi Zhang, Hanghang Tong, Jundong Li
 
+2. Federated Graph Learning with Graphless Clients
+
+3. Political-LLM: Large Language Models in Political Science [\[PDF\]](https://arxiv.org/abs/2412.06864) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Lincan Li, Jiaqi Li, Catherine Chen, Fred Gui, [see full author list here](https://arxiv.org/abs/2412.06864), Yue Zhao, **Yushun Dong**
+
+5. Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking from A Spectral Perspective [\[PDF\]](https://arxiv.org/abs/2412.07188) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+**Yushun Dong**, Patrick Soga, Yinhan He, Song Wang, Jundong Li
 
 
 ## Conference Publications
