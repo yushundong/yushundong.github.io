@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am an Assistant Professor in the [Department of Computer Science](https://www.cs.fsu.edu) at [Florida State University](https://www.fsu.edu/). Prior to that, I obtained my Ph.D. degree from the [University of Virginia](http://www.virginia.edu/), where I was fortunate to work with [Prof. Jundong Li](https://jundongli.github.io).
+I am an Assistant Professor in the [Department of Computer Science](https://www.cs.fsu.edu) at [Florida State University](https://www.fsu.edu/), where I serve as the founder and director of [RAI (Responsible AI) Lab](https://yushundong.github.io//students/). Prior to that, I obtained my Ph.D. degree from the [University of Virginia](http://www.virginia.edu/), where I was fortunate to work with [Prof. Jundong Li](https://jundongli.github.io).
 
 <span style="color:red">**\[Recruiting PhDs & Interns\]:**</span> I am actively seeking ambitious students for Ph.D. or research intern roles. Please [email me](mailto:yd24f@fsu.edu) with your CV, transcripts, and brief descriptions of your preferred research topics. Kindly mark the subject with `[PhD Application]` or `[Research Intern Application]`. <span style="color:red">**Magic Word**</span>: Please add `appoggiatura` in the email subject to ensure attention and to show that you have read this carefully.  
 
@@ -57,22 +57,7 @@ News
 <!-- * Dec. 2022: One paper accepted by SDM. -->
 <!-- * Nov. 2022: One paper accepted by AAAI. -->
 ...
-<!-- * July 2022: An interesting and comprehensive survey paper "Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications" released. [\[arXiv\]](https://arxiv.org/pdf/2207.11812.pdf) [\[Blog in Chinese\]](https://mp.weixin.qq.com/s/w0_DSd-hteYGfWnwKEALNQ) -->
-<!-- * Apr. 2022: An interesting and comprehensive survey paper "Fairness in Graph Mining: A Survey" released. [\[arXiv\]](https://arxiv.org/abs/2204.09888) [\[Blog in Chinese\]](https://github.com/yushundong/Fairness-in-Graph-Mining-A-Survey) -->
 
-
-<!-- * Oct. 2022: One paper accepted by WSDM. -->
-<!-- * Sept. 2022: One paper accepted by SIGKDD Explorations. -->
-<!-- * Sept. 2022: One paper accepted as spotlight by FedGraph 2022. -->
-<!-- * Aug. 2022: One tutorial accepted by ICDM 2022 [\[Webpage\]](https://yushundong.github.io/ICDM_2022_tutorial.html). -->
-<!-- * May. 2022: Three papers accepted by SIGKDD 2022. -->
-<!-- * Apr. 2022: Best Poster (Runner-Up) @Doctoral Forum of SDM. Thanks for the efforts of organizers. -->
-<!-- * Apr. 2022: One paper accepted by IJCAI 2022. -->
-<!-- * Apr. 2022: One paper accepted by SIGIR 2022. -->
-<!-- * Jan. 2022: Two papers accepted by WWW 2022. -->
-<!-- * Jan. 2022: One paper accepted by PAKDD 2022. -->
-<!-- * Aug. 2021: One paper accepted by CIKM 2021. -->
-<!-- * May 2021: One paper accepted by SIGKDD 2021. -->
 
 
 Industry Experiences
@@ -82,37 +67,14 @@ Industry Experiences
 
 
 
-Mentored Students (Partial List)
-------
-* [Pranav Bangarbale (Undergrad in CS @UVa)](https://www.linkedin.com/in/pranav-bangarbale-42091721b/)
-* [Alex Jing Huang (Undergrad in CS @UVa)](https://www.linkedin.com/in/alex-huang-1171ab211/)
-* [Srimanth Tangedipalli (Undergrad in CS @UVa)](https://www.linkedin.com/in/srimanth-tangedipalli/)
-* [Mike Song (Quantitative researcher @J.P. Morgan)](https://weihaosong.github.io)
-* [Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa)](https://www.linkedin.com/in/xuanjia-bi/)
-* [Deepaloke Chattopadhyay (M.S. @UVa, now Data Scientist @2nd Order Solutions)](https://www.linkedin.com/in/deepaloke-chattopadhyay/)
-* [Zheng Huang (M.S. @UVa, now Software Development Engineer @Amazon)](https://www.linkedin.com/in/zheng-huang-39822a1a2/)
-* [Yiling Yuan (Undergrad in CS @BUPT, now grad student @CMU)](https://www.linkedin.com/in/yilingyuan/?locale=en_US)
-<!-- * * Edward Wei (Undergrad in CS @UVa) -->
-<!-- * Kerui Huang (Undergrad in CS @UVa) -->
-<!-- * Eric, Xuanjia Bi (Undergrad in EE & CPE @UVa) -->
-<!-- * Srimanth Tangedipalli (Undergrad in CS @UVa) -->
-<!-- * Mike Song (Quantitative researcher @J.P. Morgan) -->
-<!-- * Deepaloke Chattopadhyay (M.S. @UVa, now Data Scientist @2nd Order Solutions) -->
-<!-- * Chen Fan (M.S. @UMass) -->
-<!-- * Srimanth Tangedipalli (B.S. in Computer Science @UVa) -->
-<!-- * Nitin Maddi (B.S. in Computer Science @UVa) -->
-
 
 Services
 ------
-<!-- * **Invited Program Committee Co-Chairs**: SDM 2023. -->
-* **Invited Program Committee Member**: AAAI 2024, CIKM 2023, ECMLPKDD 2023, KDD 2023, SDM 2023, CIKM 2022, SIGKDD 2022, AAAI 2022, WSDM 2022, etc.
-* **Invited Reviewer & External Reviewer**:
-SIGKDD, SIGIR, AAAI, ICML, WWW, ICLR, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKDD, BigData, etc.
+
+* **Invited Program Committee Member**: NeurIPS, ICLR, ICML, ACL, AAAI, KDD, CIKM, ECMLPKDD, SDM, etc.
+* **Invited Reviewer & External Reviewer**: SIGKDD, SIGIR, AAAI, ICML, WWW, ICLR, ICML, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKDD, BigData, etc.
 * **Volunteer**: SIGKDD 2021, IJCAI 2021, SIGKDD 2020, etc.
 
-<!-- * CIKM 2021. -->
-<!-- * **Reviewer & External Reviewer**: TKDE, TKDD, SIGKDD'21, SIGIR'21, ICML'21, PAKDD'21, WWW'21, ICLR'20, WSDM'21, BigData'20, SIGKDD'20, SIGIR'20, NeurIPS'20, WWW'20, ECML-PKDD'20, CIKM'20. -->
 
 
 Invited Talks (Selected)
