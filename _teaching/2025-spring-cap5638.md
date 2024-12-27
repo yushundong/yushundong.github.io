@@ -76,8 +76,8 @@ Please see a detailed introduction of **Project Proposal** and **Final Project R
 |   2.27 (Thursday)  |  **Proposal presentation.**    |              | Start advertising your project!  |
 |   3.04 (Tuesday)   |                               |              |                  |
 |   3.06 (Thursday)  |                               |              |                  |
-|   3.11 (Tuesday)   |                               |              |                  |
-|   3.13 (Thursday)  |                               |              |                  |
+|   3.11 (Tuesday)   |     Spring Break.        |              | 🏖️ No class.  |
+|   3.13 (Thursday)  |     Spring Break.        |              | 🏖️ No class.  |
 |   3.18 (Tuesday)   |                               |              |                  |
 |   3.20 (Thursday)  |                               |              |                  |
 |   3.25 (Tuesday)   |                               |              |                  |
