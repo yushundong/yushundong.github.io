@@ -69,13 +69,13 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 |   2.06 (Thursday)  |                               |              |                  |
 |   2.11 (Tuesday)   |                               |              |                  |
 |   2.13 (Thursday)  |                               |              |                  |
-|   2.17 (Monday)    | 🚨 Proposal DDL at 23:59 PM (ET) |     N/A      | Not a class day. |
-|   2.18 (Tuesday)   |  **Proposal presentation.**    |              | Start advertising your project!  |
-|   2.20 (Thursday)  |  **Proposal presentation.**    |              | Start advertising your project!  |
+|   2.18 (Tuesday)   |                             |              |                  |
+|   2.20 (Thursday)  |                             |              |                  |
+|   2.24 (Monday)    | 🚨 Proposal DDL at 23:59 PM (ET) |     N/A      | Not a class day. |
 |   2.25 (Tuesday)   |  **Proposal presentation.**    |              | Start advertising your project!  |
 |   2.27 (Thursday)  |  **Proposal presentation.**    |              | Start advertising your project!  |
-|   3.04 (Tuesday)   |                               |              |                  |
-|   3.06 (Thursday)  |                               |              |                  |
+|   3.04 (Tuesday)   |  **Proposal presentation.**    |              | Start advertising your project!  |
+|   3.06 (Thursday)  |  **Proposal presentation.**    |              | Start advertising your project!  |
 |   3.11 (Tuesday)   |     Spring Break.        |              | 🏖️ No class.  |
 |   3.13 (Thursday)  |     Spring Break.        |              | 🏖️ No class.  |
 |   3.18 (Tuesday)   |                               |              |                  |
