@@ -60,7 +60,7 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 |   1.07 (Tuesday)   |       Course Overview         |   [Course Overview](https://drive.google.com/file/d/1UIbrifLwTaw5nrWWm4LrCL1OT9_5uVqZ/view?usp=share_link)    |                  |
 |   1.09 (Thursday)  |  Pattern Recognition Systems and Applications    |[Pattern Recognition Systems and Applications](https://drive.google.com/file/d/1YthEf8z9zVBG3McYzGICEQPDAYUTTFMj/view?usp=share_link) |                  |
 |   1.14 (Tuesday)   | Bayesian Decision Theory | [Bayesian Decision Theory](https://drive.google.com/file/d/1pk1REDAMjXrfNvJ0p2dIQIVBveJHdIFj/view?usp=share_link) |                  |
-|   1.16 (Thursday)  |                               |              |                  |
+|   1.16 (Thursday)  |  Classification & Evaluation  | [Classification & Evaluation](https://drive.google.com/file/d/16t_yyu1VLS1FvdZJtZ-VNplsglTbk8ld/view?usp=share_link) |                  |
 |   1.21 (Tuesday)   |                               |              |                  |
 |   1.23 (Thursday)  |                               |              |                  |
 |   1.28 (Tuesday)   |                               |              |                  |
