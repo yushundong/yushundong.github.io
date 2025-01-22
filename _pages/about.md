@@ -30,14 +30,15 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 News
 ------
+* Jan. 2025: Two papers accepted by ICLR.
 * Dec. 2024: We released `Political-LLM`, a comprehensive guidebook outlining the recent advances in the interdisciplinary area of political science and LLMs. Check our [paper](https://arxiv.org/abs/2412.06864) and [online resources](http://political-llm.org)!
 * Dec. 2024: Two papers accepted by AAAI.
 * Nov. 2024: Received The Collaborative Grant between Computer Science and Psychology. I appreciate the generous support from the Department of Computer Science and Department of Psychology at FSU.
-* Oct. 2024: One papers accepted by TMLR.
-* Oct. 2024: One papers accepted by BigData.
+* Oct. 2024: One paper accepted by TMLR.
+* Oct. 2024: One paper accepted by BigData.
 * Oct. 2024: Two papers accepted by NeurIPS.
 * Sept. 2024: Received The College of Arts and Sciences Dean’s Faculty Award. I appreciate the generous support from the Dean's office.
-* Sept. 2024: One papers accepted by EMNLP.
+* Sept. 2024: One paper accepted by EMNLP.
 * Aug. 2024: We are preparing for seminar series [Student Seminars @FSU](https://cs-fsu.github.io/seminars.html). Contact us to present!
 * Aug. 2024: New position started  in the [Department of Computer Science at Florida State University](https://www.cs.fsu.edu/department/faculty/).
 * Jun. 2024: Dissertation defense passed.
@@ -47,7 +48,7 @@ News
 * Mar. 2024: One paper accepted by TheWebConf.
 * Jan. 2024: One paper accepted by PAKDD.
 * Jan. 2024: One paper accepted by ICLR.
-* Nov. 2023: One paper accepted by TKDD.
+<!-- * Nov. 2023: One paper accepted by TKDD. -->
 <!-- * Nov. 2023: Passed dissertation proposal defense. -->
 <!-- * Aug. 2023: One paper accepted by CIKM. -->
 <!-- * May 2023: One paper accepted by SIGKDD. -->
