@@ -12,11 +12,11 @@ location: "Tallahassee, FL"
 
 ## **Administrivia**
 * 📢 **Instructor**: [**Dr. Yushun Dong**](https://yushundong.github.io) (yd24f[at]fsu[dot]edu)
-* 💡 **Teaching Assistant**: Lincan Li (ll24bb[at]fsu[dot]edu)
+* 💡 **Teaching Assistant**: N/A
 * 📅 **Time**: Tuesday & Thursday, 4:50 pm-6:05 pm (ET)
 * 🏫 **Location**: [Love Building 301](https://map.concept3d.com/?id=1235#!m/345138?share)
 * 🔍 **Instructor Office Hours**: Tuesday & Thursday, 6:05 to 7:05 PM at LOV 301.
-* 🔍 **TA Office Hours**: to be determined.
+* 🔍 **TA Office Hours**: N/A
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
 
 ## Course Overview
@@ -62,7 +62,7 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 |   1.14 (Tuesday)   | Bayesian Decision Theory | [Bayesian Decision Theory](https://drive.google.com/file/d/1pk1REDAMjXrfNvJ0p2dIQIVBveJHdIFj/view?usp=share_link) |                  |
 |   1.16 (Thursday)  |  Classification & Evaluation  | [Classification & Evaluation](https://drive.google.com/file/d/16t_yyu1VLS1FvdZJtZ-VNplsglTbk8ld/view?usp=share_link) |                  |
 |   1.21 (Tuesday)   |   Lecture Canceled  |              |  Wintry precipitation and ice. Take care! |
-|   1.23 (Thursday)  |                               |              |                  |
+|   1.23 (Thursday)  |   Lecture Canceled  |              |  Wintry precipitation and ice. Take care! |
 |   1.28 (Tuesday)   |                               |              |                  |
 |   1.30 (Thursday)  |                               |              |                  |
 |   2.04 (Tuesday)   |                               |              |                  |
