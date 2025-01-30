@@ -64,7 +64,7 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 |   1.21 (Tuesday)   |   Lecture Canceled  |              |  Wintry precipitation and ice. Take care! |
 |   1.23 (Thursday)  |   Lecture Canceled  |              |  Wintry precipitation and ice. Take care! |
 |   1.28 (Tuesday)   |  Discriminant Functions   |  [Discriminant Functions](https://drive.google.com/file/d/1RTsKSAe0tdwAGP37OGOgLHT9_Zjy-Ac_/view?usp=share_link)   |                  |
-|   1.30 (Thursday)  |                               |              |                  |
+|   1.30 (Thursday)  |    Basian Classifiers & Basian Belief Network     |  [Basian Classifiers & Basian Belief Network](https://drive.google.com/file/d/171ESP5fyWAiVajpkSisqA-dDr3xVrhar/view?usp=share_link)  |                  |
 |   2.04 (Tuesday)   |                               |              |                  |
 |   2.06 (Thursday)  |                               |              |                  |
 |   2.11 (Tuesday)   |                               |              |                  |
