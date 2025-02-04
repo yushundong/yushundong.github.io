@@ -47,7 +47,7 @@ If you have not taken any of the prerequisite above, you are recommended to comp
 
 * **Project Proposal & Presentation (30%)**: There will be a semester-long project where the goal is to solve a challenging real-world pattern recognition problem. Students will work in groups for this term project. Students will need to submit a project proposal outlining the project idea with <u>a hard deadline of 23:59 PM (ET) on 2.24th</u> (**20% of final grades**). This project proposal is strictly <u>two-page</u> maximum for the main content, with unlimited pages of references and appendices, together with any type of supplementary materials under 50 MB. Students will also be required to present their proposed ideas (**10% of final grades**) after the submission of the proposal. Several slots will be assigned for each class in a random order among all groups. Each group will be given <u>22 minutes for presentation</u> and <u>3 minutes for Q&A</u> (25 minutes in total, 3 presentations per class).
 
-* **Final Project Report & Presentation (50%)**: Students will need to submit a final report (**20% of final grades**) and the code with <u>a hard deadline of 23:59 PM (ET) on 4.07</u>. This project report is strictly <u>eight-page</u> maximum for the main content, with unlimited pages of references and appendices, together with any type of supplementary materials under 50 MB. Only Python or MATLAB will be allowed for the implementations. Students will also be required to present their projects (**30% of final grades**) at the end of this semester. Several slots will be assigned for each class in a random order among all groups. Each group will be given <u>32 minutes for presentation</u> and <u>3 minutes for Q&A</u> (35 minutes in total, 2 presentations per class).
+* **Final Project Report & Presentation (50%)**: Students will need to submit a final report (**20% of final grades**) and the code with <u>a hard deadline of 23:59 PM (ET) on 4.09</u>. This project report is strictly <u>eight-page</u> maximum for the main content, with unlimited pages of references and appendices, together with any type of supplementary materials under 50 MB. Only Python or MATLAB will be allowed for the implementations. Students will also be required to present their projects (**30% of final grades**) at the end of this semester. Several slots will be assigned for each class in a random order among all groups. Each group will be given <u>32 minutes for presentation</u> and <u>3 minutes for Q&A</u> (35 minutes in total, 2 presentations per class).
 
 Please see a detailed introduction of **Project Proposal & Presentation** and **Final Project Report & Presentation** [here](https://yushundong.github.io/files/guidelines_5638_update1.pdf).
 
@@ -84,8 +84,8 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 |   3.27 (Thursday)  |                               |              |                  |
 |   4.01 (Tuesday)   |                               |              |                  |
 |   4.03 (Thursday)  |                               |              |                  |
-|   4.07 (Monday)    | 🚨 Final Report DDL at 23:59 PM (ET) |     N/A      | Not a class day. |
-|   4.08 (Tuesday)   | **Project presentation.**    |              | Start advertising your project!  |
+|   4.08 (Tuesday)   |                               |              |                  |
+|   4.09 (Wednesday)    | 🚨 Final Report DDL at 23:59 PM (ET) |     N/A      | Not a class day. |
 |   4.10 (Thursday)  | **Project presentation.**    |              | Start advertising your project!  |
 |   4.15 (Tuesday)   |  **Project presentation.**    |              | Start advertising your project!  |
 |   4.17 (Thursday)  |  **Project presentation.**    |              | Start advertising your project!  |
