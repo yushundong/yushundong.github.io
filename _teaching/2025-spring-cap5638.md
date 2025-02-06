@@ -66,7 +66,7 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 |   1.28 (Tuesday)   |  Discriminant Functions   |  [Discriminant Functions](https://drive.google.com/file/d/1RTsKSAe0tdwAGP37OGOgLHT9_Zjy-Ac_/view?usp=share_link)   |                  |
 |   1.30 (Thursday)  |    Basian Classifiers & Basian Belief Network     |  [Basian Classifiers & Basian Belief Network](https://drive.google.com/file/d/171ESP5fyWAiVajpkSisqA-dDr3xVrhar/view?usp=share_link)  |                  |
 |   2.04 (Tuesday)   |  Parametric Methods  |   [Parametric Methods](https://drive.google.com/file/d/1A9UWklnpNlPWM5Vb6o6SLWTQKAA4Yq06/view?usp=share_link)  |                  |
-|   2.06 (Thursday)  |                               |              |                  |
+|   2.06 (Thursday)  |   Artificial Neural Networks    |  [Artificial Neural Networks](https://drive.google.com/file/d/1IIytD-z9WVq7f7uXd4yOnWbCYmbXK_zB/view?usp=share_link)  |                  |
 |   2.11 (Tuesday)   |                               |              |                  |
 |   2.13 (Thursday)  |                               |              |                  |
 |   2.18 (Tuesday)   |                             |              |                  |
