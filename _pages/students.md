@@ -22,7 +22,7 @@ author_profile: true
 
 [Lincan Li](https://lincanli98.github.io), Spring 2025 - 
 
-Bolin Shen, Spring 2025 - 
+[Bolin Shen](https://blshen.org), Spring 2025 - 
 
 
 Recruiting...
