@@ -68,7 +68,7 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 |   2.04 (Tuesday)   |  Parametric Methods  |   [Parametric Methods](https://drive.google.com/file/d/1A9UWklnpNlPWM5Vb6o6SLWTQKAA4Yq06/view?usp=share_link)  |                  |
 |   2.06 (Thursday)  |   Artificial Neural Networks    |  [Artificial Neural Networks](https://drive.google.com/file/d/1IIytD-z9WVq7f7uXd4yOnWbCYmbXK_zB/view?usp=share_link)  |  Let's sign up for presentation!   |
 |   2.11 (Tuesday)   |  Backpropagation & Gradient Descent | [Backpropagation & Gradient Descent](https://drive.google.com/file/d/1udpqyXed0HI2YWkMqBLL5ed_NGW-Xgqt/view?usp=share_link) |                  |
-|   2.13 (Thursday)  |                               |              |                  |
+|   2.13 (Thursday)  |  Neural Network Practice   |  [Neural Network Practice](https://drive.google.com/file/d/1AJrfQhlQVqNNTP7G_CibXP5ExxzLV17T/view?usp=share_link)   |                  |
 |   2.18 (Tuesday)   |                             |              |                  |
 |   2.20 (Thursday)  |                             |              |                  |
 |   2.24 (Monday)    | 🚨 Proposal DDL at 23:59 PM (ET) |     N/A      | Not a class day. |
