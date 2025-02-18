@@ -69,7 +69,7 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 |   2.06 (Thursday)  |   Artificial Neural Networks    |  [Artificial Neural Networks](https://drive.google.com/file/d/1IIytD-z9WVq7f7uXd4yOnWbCYmbXK_zB/view?usp=share_link)  |  Let's sign up for presentation!   |
 |   2.11 (Tuesday)   |  Backpropagation & Gradient Descent | [Backpropagation & Gradient Descent](https://drive.google.com/file/d/1udpqyXed0HI2YWkMqBLL5ed_NGW-Xgqt/view?usp=share_link) |                  |
 |   2.13 (Thursday)  |  Neural Network Practice   |  [Neural Network Practice](https://drive.google.com/file/d/1AJrfQhlQVqNNTP7G_CibXP5ExxzLV17T/view?usp=share_link)   |                  |
-|   2.18 (Tuesday)   |                             |              |                  |
+|   2.18 (Tuesday)   |  Neural Network Applications  | [Neural Network Applications](https://drive.google.com/file/d/1HntT7JhKLuHLK9YhDfTnEog__OuQs2IV/view?usp=share_link)  |                  |
 |   2.20 (Thursday)  |                             |              |                  |
 |   2.24 (Monday)    | 🚨 Proposal DDL at 23:59 PM (ET) |     N/A      | Not a class day. |
 |   2.25 (Tuesday)   |  **Proposal presentation.**    |              | Start advertising your project!  |
