@@ -70,7 +70,7 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 |   2.11 (Tuesday)   |  Backpropagation & Gradient Descent | [Backpropagation & Gradient Descent](https://drive.google.com/file/d/1udpqyXed0HI2YWkMqBLL5ed_NGW-Xgqt/view?usp=share_link) |                  |
 |   2.13 (Thursday)  |  Neural Network Practice   |  [Neural Network Practice](https://drive.google.com/file/d/1AJrfQhlQVqNNTP7G_CibXP5ExxzLV17T/view?usp=share_link)   |                  |
 |   2.18 (Tuesday)   |  Neural Network Applications  | [Neural Network Applications](https://drive.google.com/file/d/1HntT7JhKLuHLK9YhDfTnEog__OuQs2IV/view?usp=share_link)  |                  |
-|   2.20 (Thursday)  |                             |              |                  |
+|   2.20 (Thursday)  |      Decision Trees     |   [Decision Trees](https://drive.google.com/file/d/1O7poz0Dxijz-jrv-avidX_FaTxEXvCkE/view?usp=share_link) |                  |
 |   2.24 (Monday)    | 🚨 Proposal DDL at 23:59 PM (ET) |     N/A      | Not a class day. |
 |   2.25 (Tuesday)   |  **Proposal presentation.**    |              | Start advertising your project!  |
 |   2.27 (Thursday)  |  Recorded Lecture on Canvas    |  Please access slides on Canvas | Accessible with FSU organizational account  |
