@@ -41,25 +41,8 @@ News
 * Mar. 2024: One paper accepted by TheWebConf.
 * Jan. 2024: One paper accepted by PAKDD.
 * Jan. 2024: One paper accepted by ICLR.
-<!-- * Nov. 2023: One paper accepted by TKDD. -->
-<!-- * Nov. 2023: Passed dissertation proposal defense. -->
-<!-- * Aug. 2023: One paper accepted by CIKM. -->
-<!-- * May 2023: One paper accepted by SIGKDD. -->
-<!-- * Apr. 2023: One tutorial accepted by SIGKDD. -->
-<!-- * May 2023: One paper accepted by i3CE. -->
-<!-- * Apr. 2023: One paper accepted by SIGIR. -->
-<!-- * Apr. 2023: One paper accepted by TKDE. -->
-<!-- * Mar. 2023: One paper accepted by ICHI. -->
-<!-- * Dec. 2022: One paper accepted by SDM. -->
-<!-- * Nov. 2022: One paper accepted by AAAI. -->
-...
 
 
-
-Industry Experiences
-------
-* June 2023 – Sept. 2023, Research Intern, Snap. Mentor: Dr. [Tong Zhao](https://tzhao.io), [Yozen Liu](https://scholar.google.com/citations?user=i3U2JjEAAAAJ&hl=en), and Dr. [Neil Shah](https://nshah.net).
-* June 2022 – Sept. 2022, Research Intern, Microsoft Research. Mentor: Dr. [Tobias Schnabel](https://www.microsoft.com/en-us/research/people/toschnab/). 
 
 
 
