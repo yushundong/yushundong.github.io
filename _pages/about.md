@@ -45,7 +45,14 @@ News
 
 
 
+Invited Talks (Selected)
+------
+* 03/2025 (tentative), UIIC Summit, AI in Utility Imagery & Inspection Consortium
+* 02/2025, Harvard University, Model Extraction Attacks
+* 10/2024, INFORMS, Responsible Graph Machine Learning
+* 10/2024, Case Western University, Algorithmic Fairness
 
+  
 
 Services
 ------
@@ -56,12 +63,6 @@ Services
 
 
 
-Invited Talks (Selected)
-------
-* 03/2025 (tentative), UIIC Summit, AI in Utility Imagery & Inspection Consortium
-* 02/2025, Harvard University, Model Extraction Attacks
-* 10/2024, INFORMS, Responsible Graph Machine Learning
-* 10/2024, Case Western University, Algorithmic Fairness
 
 
 
