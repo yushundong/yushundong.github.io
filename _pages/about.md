@@ -13,20 +13,12 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 <span style="color:red">**\[Recruiting PhDs & Interns\]:**</span> I am actively seeking ambitious students for Ph.D. or research intern roles. Please [email me](mailto:yd24f@fsu.edu) with your CV, transcripts, and brief descriptions of your preferred research topics. Kindly mark the subject with `[PhD Application]` or `[Research Intern Application]`. <span style="color:red">**Magic Word**</span>: Please add `appoggiatura` in the email subject to ensure attention and to show that you have read this carefully.  
 
-**(i) Research Summary:** My research interest mainly lies in achieving responsible AI that directly contributes to critical AI infrastructures and enhances collaborative innovations for the industry. I have abundant research works under related topics with a particular focus on relational data, including **30+ published research papers (14 first-author ones)** in the following areas [[see full list]](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ):
+**Research Summary:** My research interest mainly lies in achieving responsible AI that directly contributes to critical AI infrastructures and enhances collaborative innovations for the industry. I have abundant research works under related topics with a particular focus on relational data, including **30+ published research papers (14 first-author ones)** in the following areas [[see full list]](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ):
 
 * **AI Explainability:** Model Interpretability; Prediction Justification
 * **AI Security:** Attack and Defense
 * **AI Integrity:** Economic and industry benefits
 * **AI/ML+X (Applications):** Healthcare; Criminal Justice; Finance
-
-**(ii) Highlighted Honors:** I received [**Louis T. Rader Graduate Research Award**](https://www.linkedin.com/posts/jundong-li-09151b5b_uva-research-phd-activity-7057847052566683648-0NzM?utm_source=share&utm_medium=member_desktop), [**Endowed Fellowship**](https://engineering.virginia.edu/yushun-dong-earns-endowed-graduate-fellowship), and [**Best Poster @Doctoral Forum of SDM 2022**](https://www.siam.org/conferences/cm/conference/sdm22). I am truly grateful for the generous efforts from the associated institutions and organizers.
-
-**(iii) Highlighted Project:** I initiated and have been managing the open-source tool [PyGDebias <img src="../files/pygdebias.png" alt="" style="float:right;" width="400"/>](https://github.com/yushundong/PyGDebias) — a Python library featured for 20+ built-in datasets and 10+ implementations of popular fairness-aware graph learning algorithms. 
-
-
-<!-- I have abundant interest in **Graph Mining**, e.g., **Spectral Graph Theory**, **Graph Neural Networks** and corresponding interdisciplinary topics. -->
-<!-- My previous research experiences mainly lie in graph mining and feature fusion. -->
 
 News
 ------
