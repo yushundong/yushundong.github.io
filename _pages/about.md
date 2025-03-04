@@ -15,9 +15,10 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 **Research Summary:** My research interest mainly lies in achieving responsible AI that directly contributes to critical AI infrastructures and enhances collaborative innovations for the industry. I have abundant research works under related topics with a particular focus on relational data, including **40+ published research papers (14 first-author ones)** in the following areas [[see full list]](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ):
 
-* **AI Explainability:** Model Interpretability; Prediction Justification
+
 * **AI Security:** Attack and Defense
 * **AI Integrity:** Value Alignment; Knowledge Editing
+* **AI Explainability:** Model Interpretability; Prediction Justification
 * **AI/ML+X (Applications):** Healthcare; Criminal Justice; Finance
 
 News
