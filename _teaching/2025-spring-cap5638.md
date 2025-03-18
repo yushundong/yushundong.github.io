@@ -78,7 +78,7 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 |   3.06 (Thursday)  |  **Proposal presentation.**    |              | Start advertising your project!  |
 |   3.11 (Tuesday)   |     Spring Break.        |              | 🏖️ No class.  |
 |   3.13 (Thursday)  |     Spring Break.        |              | 🏖️ No class.  |
-|   3.18 (Tuesday)   |                               |              |                  |
+|   3.18 (Tuesday)   |   Algorithm-Independent Machine Learning   |   [Algorithm-Independent Machine Learning](https://drive.google.com/file/d/1FojT-k4ZX7QFRxIRkMzM9U-4tjWKWrg5/view?usp=share_link)   |                  |
 |   3.20 (Thursday)  |                               |              |                  |
 |   3.25 (Tuesday)   |                               |              |                  |
 |   3.27 (Thursday)  |                               |              |                  |
