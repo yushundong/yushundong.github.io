@@ -80,7 +80,7 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 |   3.13 (Thursday)  |     Spring Break.        |              | 🏖️ No class.  |
 |   3.18 (Tuesday)   |   Algorithm-Independent Machine Learning   |   [Algorithm-Independent Machine Learning](https://drive.google.com/file/d/1FojT-k4ZX7QFRxIRkMzM9U-4tjWKWrg5/view?usp=share_link)   |                  |
 |   3.20 (Thursday)  |  Instance-based learning  |  [Instance-based learning](https://drive.google.com/file/d/1zWHJFNCsYyBH8wHfRnFLoZ-PNGFjIEWl/view?usp=share_link)   |                  |
-|   3.25 (Tuesday)   |                               |              |                  |
+|   3.25 (Tuesday)   |  Learning Discriminate functions   |  [Learning Discriminate functions](https://drive.google.com/file/d/14DZxQKbzu5vKTUZ6crpKHewKgyt_HXqi/view?usp=share_link)  |                  |
 |   3.27 (Thursday)  |                               |              |                  |
 |   4.01 (Tuesday)   |                               |              |                  |
 |   4.03 (Thursday)  |                               |              |                  |
