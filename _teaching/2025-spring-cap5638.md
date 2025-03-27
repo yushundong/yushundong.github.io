@@ -86,7 +86,7 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 |   4.03 (Thursday)  |                               |              |                  |
 |   4.08 (Tuesday)   |                               |              |                  |
 |   4.10 (Thursday)  | Final Project Presentation & Report QA Session   |              |  |
-|   4.10 (Thursday)    | 🚨 Final Report DDL at 23:59 PM (ET) |     N/A      | Not a class day. |
+|   4.10 (Thursday)    | 🚨 Final Report DDL at 23:59 PM (ET) |     N/A      | N/A |
 |   4.15 (Tuesday)   |  **Project presentation.**    |              | Start advertising your project!  |
 |   4.17 (Thursday)  |  **Project presentation.**    |              | Start advertising your project!  |
 |   4.22 (Tuesday)   |  **Project presentation.**    |              | Start advertising your project!  |
