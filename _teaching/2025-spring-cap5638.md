@@ -84,7 +84,7 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 |   3.27 (Thursday)  |   Kernel Trick and SVM   |   [Kernel Trick and SVM](https://drive.google.com/file/d/19S4siYIGmOSjUhD3BZJdpCDthFBVecJk/view?usp=share_link)  |                  |
 |   4.01 (Tuesday)   |     Component Analysis     | [Component Analysis](https://drive.google.com/file/d/1OXw60m_8aF0nViiUalPurg_WZ_vAQVxE/view?usp=share_link)  |                  |
 |   4.03 (Thursday)  |  Unsupervised Learning     | [Unsupervised Learning](https://drive.google.com/file/d/1YZFxegqw4Ysg46RhvSTxlM3HtnK--wxt/view?usp=share_link) |                  |
-|   4.08 (Tuesday)   |                               |              |                  |
+|   4.08 (Tuesday)   |  Wrap-up & Applications    |   [Wrap-up & Applications](https://drive.google.com/file/d/1WmaoVtHYi7vxEeuA2lS6r4ep-vo-C0Sx/view?usp=share_link)  |                  |
 |   4.10 (Thursday)  | Final Project Presentation & Report QA Session   |              |  |
 |   4.10 (Thursday)    | 🚨 Final Report DDL at 23:59 PM (ET) |     N/A      | N/A |
 |   4.15 (Tuesday)   |  **Project presentation.**    |              | Start advertising your project!  |
