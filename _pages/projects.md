@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-<!-- CSS container for layout -->
+
 <div class="rai-container">
 
   <!-- Political-LLM -->
@@ -19,11 +19,12 @@ author_profile: true
     What if large language models (LLMs) could transform how we understand politics? This project introduces Political-LLM, the first comprehensive framework to systematically integrate LLMs into political science research. It bridges computer science and political science by providing a taxonomy, technical insights, and ethical considerations to guide impactful LLM applications in the political domain.
   </div>
 
+</div>
 
 
 
-
-
+<div class="rai-container">
+  
   <!-- PyOD -->
   <div class="rai-image-container">
     <a href="https://pyod.readthedocs.io/en/latest/">
@@ -35,11 +36,11 @@ author_profile: true
     PyOD includes more than 50 detection algorithms, from classical LOF (SIGMOD 2000) to the cutting-edge ECOD and DIF (TKDE 2022 and 2023). Since 2017, PyOD has been successfully used in numerous academic research projects and commercial products with more than **26 million downloads**.
   </div>
 
+</div>
 
 
 
-
-
+<div class="rai-container">
   <!-- PyGDebias -->
   <div class="rai-image-container">
     <a href="https://github.com/yushundong/PyGDebias">
@@ -51,12 +52,12 @@ author_profile: true
     PyGDebias aims to provide a systematic schema to load datasets and compare different debiasing techniques for graph learning algorithms. Specifically, 26 graph datasets (including 24 commonly used ones and two newly constructed ones, AMiner-L and AMiner-S) are collected, and 13 algorithms are implemented in this library.
   </div>
 
+</div>
 
 
 
 
-
-
+<div class="rai-container">
   <!-- PyGIP -->
   <div class="rai-image-container">
     <a href="https://labrai.github.io/pygip/index.html">
