@@ -6,9 +6,7 @@ author_profile: true
 
 ---
 
-Other language versions: **[中文版](https://yushundong.github.io/prospectivestudentcn/)**
-
-## PhD Application (<span style="color:red">2025 spring admission is open</span>)
+## PhD Application (<span style="color:red">2025 fall/2026 spring admission is open</span>)
 
 I am actively seeking ambitious students for Ph.D. positions in my team. If you are interested in applying, please [submit your application here](https://www.cs.fsu.edu/admissions/graduate-admissions/) and [email me](mailto:yd6eb@virginia.edu) with the following materials:
 
@@ -19,9 +17,6 @@ I am actively seeking ambitious students for Ph.D. positions in my team. If you 
 
 When emailing your application, kindly mark the subject with **[PhD Application]** to ensure it receives prompt attention.
 
-**<span style="color:red">Update</span>**: Due to the delay of [BoG review process](https://compliance.fsu.edu/foreign-influence/agreements-foreign-principals), only students currently not residing in countries of concern are qualified for 2024 fall admission. For example, students currently in the US are qualified for 2024 fall admission.
-
-Other materials: [1point3acres Recruiting Post](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=1055284)
 
 ## Research Intern Application
 
