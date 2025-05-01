@@ -23,6 +23,7 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 News
 ------
+* May 2025: Two papers accepted by ICML.
 * Jan. 2025: FYAP grant awarded. I appreciate the generous support from FSU.
 * Jan. 2025: Two papers accepted by ICLR.
 * Dec. 2024: We released `Political-LLM`, a comprehensive guidebook outlining the recent advances in the interdisciplinary area of political science and LLMs. Check our [paper](https://arxiv.org/abs/2412.06864) and [online resources](http://political-llm.org)!
