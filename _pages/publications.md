@@ -61,21 +61,28 @@ Kaixiang Zhao, Lincan Li, Kaize Ding, Neil Zhenqiang Gong, Yue Zhao, **Yushun Do
 
 ### 2025
 
+1. CEGA: A Cost-Effective Approach for Graph-Based Model Extraction Attacks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Zebin Wang, Menghan Lin, Bolin Shen, Ken Anderson, Molei Liu, Tianxi Cai, **Yushun Dong** <br>
+International Conference on Machine Learning (**ICML 2025**).
 
-1. Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking from A Spectral Perspective [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+2. Towards Global-level Mechanistic Interpretability: A Perspective of Modular Circuits of Large Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Yinhan He, Wendy Zheng, **Yushun Dong**, Yaochen Zhu, Chen Chen, Jundong Li <br>
+International Conference on Machine Learning (**ICML 2025**).
+
+3. Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking from A Spectral Perspective [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Yinhan He, Patrick Soga, Song Wang, Jundong Li <br>
 International Conference on Learning Representations (**ICLR 2025**).
 
-2. CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+4. CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Song Wang, Peng Wang, Tong Zhou, **Yushun Dong**, Zhen Tan, Jundong Li <br>
 International Conference on Learning Representations (**ICLR 2025**).
 
 
-3. ST-FiT: Inductive Spatial-Temporal Forecasting with Limited Training Data [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+5. ST-FiT: Inductive Spatial-Temporal Forecasting with Limited Training Data [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Zhenyu Lei, **Yushun Dong**, Jundong Li, Chen Chen <br>
 AAAI Conference on Artificial Intelligence (**AAAI 2025**).
 
-4. BrainMAP: Learning Multiple Activation Pathways in Brain Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+6. BrainMAP: Learning Multiple Activation Pathways in Brain Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Song Wang, Zhenyu Lei, Zhen Tan, Jiaqi Ding, Xinyu Zhao, **Yushun Dong**, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li <br>
 AAAI Conference on Artificial Intelligence (**AAAI 2025**). 
 
