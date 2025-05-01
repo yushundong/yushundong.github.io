@@ -15,7 +15,7 @@ I am actively seeking ambitious students for Ph.D. positions in my team. If you 
 - **TOEFL & GRE Scores** (necessary)
 - **Additional Materials Supporting Your Application**
 
-When emailing your application, kindly mark the subject with **[PhD Application]** to ensure it receives prompt attention.
+When emailing your application, kindly mark the subject with **[PhD Application]** with magic word ``appoggiatura`` to ensure it receives prompt attention.
 
 
 ## Research Intern Application
@@ -26,6 +26,6 @@ I have been working with multiple outstanding research interns and am always loo
 - **Transcript**
 - **Preferred Research Topics**
 
-When emailing your application, kindly mark the subject with **[Research Intern Application]** to ensure it receives prompt attention.
+When emailing your application, kindly mark the subject with **[Research Intern Application]** with magic word ``appoggiatura`` to ensure it receives prompt attention.
 
 
