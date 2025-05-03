@@ -24,14 +24,14 @@ author_profile: false
 -------------------
 ## Faculty
 
-[Yushun Dong](https://yushundong.github.io)
+[**Yushun Dong**](https://yushundong.github.io)
 
 -------------------
 ## PhD Students
 
-[Lincan Li](https://lincanli98.github.io), Spring 2025 - 
+[**Lincan Li**](https://lincanli98.github.io), Spring 2025 - 
 
-[Bolin Shen](https://blshen.org), Spring 2025 - 
+[**Bolin Shen**](https://blshen.org), Spring 2025 - 
 
 
 Recruiting...
