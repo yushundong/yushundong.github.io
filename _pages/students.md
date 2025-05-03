@@ -4,7 +4,7 @@ title: "RAI (Responsible AI) Lab"
 permalink: /students/
 header:
   overlay_image: ../files/campus.jpg
-  overlay_filter: 1.0
+  overlay_filter: 0.5
 author_profile: false
 
 ---
