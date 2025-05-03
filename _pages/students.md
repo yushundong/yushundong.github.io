@@ -4,10 +4,15 @@ title: "RAI (Responsible AI) Lab"
 permalink: /students/
 header:
   overlay_image: ../files/campus.jpg
-  overlay_filter: 0.5
+  overlay_filter: 1.0
 author_profile: false
 
 ---
+<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-top: -1.5rem;">
+  <img src="../files/campus.jpg" style="width: 100%; height: auto; display: block;" alt="RAI Lab Banner">
+</div>
+
+
 
 <div class="rai-container">
   <div class="rai-image-container">
