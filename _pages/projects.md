@@ -5,6 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
+# AI + Social Science
+
 
 <div class="rai-container">
 
@@ -20,7 +22,12 @@ author_profile: true
 
 </div>
 
-<br><br>
+<br>
+
+# AI + Security
+
+
+<br>
 
 
 <div class="rai-container">
@@ -37,7 +44,12 @@ author_profile: true
 
 </div>
 
-<br><br>
+<br>
+
+# AI + Social Good
+
+
+<br>
 
 
 <div class="rai-container">
@@ -54,7 +66,11 @@ author_profile: true
 </div>
 
 
-<br><br>
+<br>
+
+# AI + Privacy
+
+<br>
 
 
 <div class="rai-container">
