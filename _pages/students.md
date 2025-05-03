@@ -9,7 +9,7 @@ author_profile: false
 
 ---
 <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-top: -1.5rem;">
-  <img src="../files/campus.jpg" style="width: 100%; height: auto; display: block;" alt="RAI Lab Banner">
+  <img src="../files/campus2.jpg" style="width: 100%; height: auto; display: block;" alt="RAI Lab Banner">
 </div>
 
 
