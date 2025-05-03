@@ -44,7 +44,7 @@ Recruiting...
 
 
 -------------------
-## Alumni
+## Alumni Highlights
 
 **Zebin Wang**  
 **Achievements**: ICML 2025 publication * 1.  
