@@ -46,13 +46,13 @@ Recruiting...
 -------------------
 ## Alumni
 
-**Zebin Wang** 
-**Achievements**: ICML 2025 publication * 1.
-**Last Known Position**: PhD student at Harvard University.  
+**Zebin Wang**  
+**Achievements**: ICML 2025 publication * 1.  
+**Last Known Position**: PhD student at Harvard University.    
 
-**Menghan Lin** 
-**Achievements**: ICML 2025 publication * 1.
-**Last Known Position**: Data Scientist at Meta.
+**Menghan Lin**   
+**Achievements**: ICML 2025 publication * 1.   
+**Last Known Position**: Data Scientist at Meta.   
 
 
 
