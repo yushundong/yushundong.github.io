@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: ""
 permalink: /projects/
 author_profile: true
 ---
@@ -27,9 +27,6 @@ author_profile: true
 # AI + Security
 
 
-<br>
-
-
 <div class="rai-container">
   
   <!-- PyOD -->
@@ -48,8 +45,6 @@ author_profile: true
 
 # AI + Social Good
 
-
-<br>
 
 
 <div class="rai-container">
@@ -70,7 +65,6 @@ author_profile: true
 
 # AI + Privacy
 
-<br>
 
 
 <div class="rai-container">
