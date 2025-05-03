@@ -13,11 +13,8 @@ main:
   - title: "Open Projects"
     url: /projects/
 
-  - title: "Awards"
+  - title: "Grants & Awards"
     url: /grants/
-    
-  - title: "CV"
-    url: /cv/
     
   - title: "Recruiting"
     url: "/prospectivestudent/"
