@@ -9,6 +9,9 @@ author_profile: false
 
 ---
 
+
+<img src="../files/campus.jpg" style="width:100%; height:auto; display:block; margin: 0 auto;" alt="RAI Lab Banner">
+
 <div class="rai-container">
   <div class="rai-image-container">
     <img src="../files/rai_logo.png" alt="RAI Logo" class="rai-image">
@@ -18,7 +21,10 @@ author_profile: false
   </div>
 </div>
 
+-------------------
+## Faculty
 
+[Yushun Dong](https://yushundong.github.io)
 
 -------------------
 ## PhD Students
@@ -29,6 +35,24 @@ author_profile: false
 
 
 Recruiting...
+
+
+
+-------------------
+## Master and Undergrad Students
+
+
+
+-------------------
+## Alumni
+
+**Zebin Wang** 
+**Achievements**: ICML 2025 publication * 1.
+**Last Known Position**: PhD student at Harvard University.  
+
+**Menghan Lin** 
+**Achievements**: ICML 2025 publication * 1.
+**Last Known Position**: Data Scientist at Meta.
 
 
 
