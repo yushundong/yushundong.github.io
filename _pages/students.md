@@ -1,8 +1,11 @@
 ---
-layout: archive
+layout: splash
 title: "RAI (Responsible AI) Lab"
 permalink: /students/
-author_profile: true
+header:
+  overlay_image: /files/campus.jpg
+  overlay_filter: 1.0
+author_profile: false
 
 ---
 
