@@ -49,15 +49,15 @@ Recruiting...
 ## Alumni Highlights
 
 **Zebin Wang**  
-**Achievements**: ICML 2025 publication.  
+**Achievement at RAI Lab**: ICML 2025 publication.  
 **Last Known Position**: PhD student at Harvard University.    
 
 **Menghan Lin**   
-**Achievements**: ICML 2025 publication.  
+**Achievement at RAI Lab**: ICML 2025 publication.  
 **Last Known Position**: Data Scientist at Meta.   
 
 **Ken Anderson**   
-**Achievements**: ICML 2025 publication.  
+**Achievement at RAI Lab**: ICML 2025 publication.  
 **Last Known Position**: Undergrad student at FSU.
 
 
