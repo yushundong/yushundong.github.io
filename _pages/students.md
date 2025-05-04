@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "RAI (Responsible AI) Lab"
+title: "RAI (Responsible AI) Lab @FSU"
 permalink: /students/
 header:
   overlay_image: ../files/campus.jpg
