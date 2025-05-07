@@ -24,6 +24,7 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 News
 ------
 * May 2025: One tutorial and one survey paper accepted by KDD 2025.
+* May 2025: Received ISO Graduate Academic Excellence Honors. I appreciate the honor from University of Virginia.
 * May 2025: Two papers accepted by ICML 2025.
 * Jan. 2025: FYAP grant awarded. I appreciate the generous support from FSU.
 * Jan. 2025: Two papers accepted by ICLR 2025.
