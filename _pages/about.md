@@ -18,8 +18,8 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 * **AI Security:** Attack and Defense
 * **AI Integrity:** Value Alignment; Knowledge Editing
-* **AI Explainability:** Model Interpretability; Prediction Justification
-* **AI/ML+X (Applications):** Healthcare; Criminal Justice; Finance
+* **AI Explainability:** Mechanistic Interpretability; Outcome Attribution
+* **AI/ML+X (Applications):** Healthcare; Disaster Resilience; Political Science; Criminal Justice; Finance
 
 News
 ------
