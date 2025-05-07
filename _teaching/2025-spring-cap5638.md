@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-spring-cap5638
 venue: "Florida State University"
-date: 2024-11-01
+date: 2025-01-07
 location: "Tallahassee, FL"
 ---
 
