@@ -23,11 +23,12 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 News
 ------
-* May 2025: Two papers accepted by ICML.
+* May 2025: One tutorial and one survey paper accepted by KDD 2025.
+* May 2025: Two papers accepted by ICML 2025.
 * Jan. 2025: FYAP grant awarded. I appreciate the generous support from FSU.
-* Jan. 2025: Two papers accepted by ICLR.
+* Jan. 2025: Two papers accepted by ICLR 2025.
 * Dec. 2024: We released `Political-LLM`, a comprehensive guidebook outlining the recent advances in the interdisciplinary area of political science and LLMs. Check our [paper](https://arxiv.org/abs/2412.06864) and [online resources](http://political-llm.org)!
-* Dec. 2024: Two papers accepted by AAAI.
+* Dec. 2024: Two papers accepted by AAAI 2025.
 * Nov. 2024: Received The Collaborative Grant between Computer Science and Psychology. I appreciate the generous support from the Department of Computer Science and Department of Psychology at FSU.
 * Oct. 2024: One paper accepted by TMLR.
 * Oct. 2024: One paper accepted by BigData.
