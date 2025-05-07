@@ -15,11 +15,15 @@ author_profile: true
 
 ## Tutorials
 
+1. A Survey on Model Extraction Attacks and Defenses for Large Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Website\]](https://yushundong.github.io//publications/)<br>
+Kaixiang Zhao, Lincan Li, Kaize Ding, Neil Gong, Yue Zhao, **Yushun Dong** <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD 2025**).
+
 1. Fairness in Graph Machine Learning: Recent Advances and Future Prospectives [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io/files/SIGKDD_2023_tutorial.pdf)[\[Website\]](https://yushundong.github.io/KDD_2023_tutorial.html)<br>
 **Yushun Dong**, Oyku Deniz Kose, Yanning Shen, Jundong Li  <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**).
 
-2. Fairness in Graph Mining: Metrics, Algorithms, and Applications [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io/icdm_tutorial_2022.pdf)[\[Website\]](https://yushundong.github.io/ICDM_2022_tutorial.html)<br>
+1. Fairness in Graph Mining: Metrics, Algorithms, and Applications [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io/icdm_tutorial_2022.pdf)[\[Website\]](https://yushundong.github.io/ICDM_2022_tutorial.html)<br>
 **Yushun Dong**, Jing Ma, Chen Chen, Jundong Li <br>
 The IEEE International Conference on Data Mining (**ICDM 2022**).
 
@@ -61,7 +65,9 @@ Kaixiang Zhao, Lincan Li, Kaize Ding, Neil Zhenqiang Gong, Yue Zhao, **Yushun Do
 
 ### 2025
 
-1.
+1. Model Extraction Attacks and Defenses for Large Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Kaixiang Zhao, Lincan Li, Kaize Ding, Neil Gong, Yue Zhao, **Yushun Dong** <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD 2025**).
 
 1. CEGA: A Cost-Effective Approach for Graph-Based Model Extraction Attacks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Zebin Wang, Menghan Lin, Bolin Shen, Ken Anderson, Molei Liu, Tianxi Cai, **Yushun Dong** <br>
