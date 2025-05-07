@@ -37,13 +37,7 @@ News
 * Sept. 2024: One paper accepted by EMNLP.
 * Aug. 2024: We are preparing for seminar series [Student Seminars @FSU](https://cs-fsu.github.io/seminars.html). Contact us to present!
 * Aug. 2024: New position started  in the [Department of Computer Science at Florida State University](https://www.cs.fsu.edu/department/faculty/).
-* Jun. 2024: Dissertation defense passed.
-* May 2024: Two papers accepted by SIGKDD.
-* May 2024: One paper accepted by ACL.
-* May 2024: One paper accepted by ICML.
-* Mar. 2024: One paper accepted by TheWebConf.
-* Jan. 2024: One paper accepted by PAKDD.
-* Jan. 2024: One paper accepted by ICLR.
+
 
 
 
