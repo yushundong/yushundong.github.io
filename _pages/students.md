@@ -60,6 +60,12 @@ Recruiting...
 **Achievement at RAI Lab**: ICML 2025 publication.  
 **Last Known Position**: Undergrad student at FSU.
 
+**Kaixiang Zhao**   
+**Achievement at RAI Lab**: SIGKDD 2025 publication; SIGKDD 2025 tutorial.  
+**Last Known Position**: Undergrad student at University of Notre Dame.
+
+
+
 
 
 
