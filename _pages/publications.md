@@ -65,6 +65,10 @@ Kaixiang Zhao, Lincan Li, Kaize Ding, Neil Zhenqiang Gong, Yue Zhao, **Yushun Do
 
 ### 2025
 
+1. Harnessing Large Language Models for Disaster Management: A Survey [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Zhenyu Lei, **Yushun Dong**, Weiyu Li, Rong Ding, Qi Wang, Jundong Li <br>
+Annual Meeting of the Association for Computational Linguistics Findings (**ACL 2025**).
+
 1. ATOM: A Framework of Detecting Query-Based Model Extraction Attacks for Graph Neural Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Zhan Cheng, Bolin Shen, Tianming Sha, Yuan Gao, Shibo Li, **Yushun Dong** <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD 2025**).
