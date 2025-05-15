@@ -64,6 +64,10 @@ Recruiting...
 **Achievement at RAI Lab**: SIGKDD 2025 publication; SIGKDD 2025 tutorial.  
 **Last Known Position**: Undergrad student at University of Notre Dame.
 
+**Zhan Cheng**   
+**Achievement at RAI Lab**: SIGKDD 2025 publication.  
+**Last Known Position**: Undergrad student at University of Wisconsin–Madison.
+
 
 
 
