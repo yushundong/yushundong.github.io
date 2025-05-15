@@ -23,9 +23,9 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 News
 ------
-* May 2025: One tutorial and one survey paper accepted by KDD 2025.
+* May 2025: One tutorial and two papers accepted by KDD 2025. Congrats to Zhan!
 * May 2025: Received ISO Graduate Academic Excellence Honors. I appreciate the prestigious honor from University of Virginia.
-* May 2025: Two papers accepted by ICML 2025.
+* May 2025: Two papers accepted by ICML 2025. Congrats to Zebin!
 * Jan. 2025: FYAP grant awarded. I appreciate the generous support from FSU.
 * Jan. 2025: Two papers accepted by ICLR 2025.
 * Dec. 2024: We released `Political-LLM`, a comprehensive guidebook outlining the recent advances in the interdisciplinary area of political science and LLMs. Check our [paper](https://arxiv.org/abs/2412.06864) and [online resources](http://political-llm.org)!
