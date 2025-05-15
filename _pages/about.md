@@ -23,7 +23,7 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 News
 ------
-* May 2025: One tutorial and two papers accepted by KDD 2025. Congrats to Zhan!
+* May 2025: One tutorial and two papers accepted by KDD 2025. Congrats to Kaixiang and Zhan!
 * May 2025: Received ISO Graduate Academic Excellence Honors. I appreciate the prestigious honor from University of Virginia.
 * May 2025: Two papers accepted by ICML 2025. Congrats to Zebin!
 * Jan. 2025: FYAP grant awarded. I appreciate the generous support from FSU.
