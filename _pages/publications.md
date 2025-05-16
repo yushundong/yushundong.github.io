@@ -65,6 +65,10 @@ Kaixiang Zhao, Lincan Li, Kaize Ding, Neil Zhenqiang Gong, Yue Zhao, **Yushun Do
 
 ### 2025
 
+1. Fairness-Aware Graph Learning: A Benchmark [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+**Yushun Dong**, Song Wang, Zhenyu Lei, Zaiyi Zheng, Jing Ma, Chen Chen, Jundong Li <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD 2025**).
+
 1. Harnessing Large Language Models for Disaster Management: A Survey [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Zhenyu Lei, **Yushun Dong**, Weiyu Li, Rong Ding, Qi Wang, Jundong Li <br>
 Annual Meeting of the Association for Computational Linguistics Findings (**ACL 2025**).
