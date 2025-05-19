@@ -7,7 +7,7 @@ author_profile: true
 
 The grants and awards listed below have been instrumental in advancing my research and contributing to the scientific community. I extend my heartfelt thanks to all the organizations and institutions that have believed in my work and provided the necessary resources to pursue groundbreaking research.
 
-* Outstanding Doctoral Student Award, University of Virginia, May 2025
+* Outstanding Doctoral Student Award (one out of three), University of Virginia, May 2025
 
 * ISO Graduate Academic Excellence Honors, University of Virginia, May 2025
 
