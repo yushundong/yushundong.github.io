@@ -23,6 +23,7 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 News
 ------
+* May 2025: Thrilled to receive the 2025 Outstanding Doctoral Student Award at the University of Virginia!
 * May 2025: One paper accepted by ACL 2025.
 * May 2025: One tutorial and three papers accepted by KDD 2025. Congrats to Kaixiang and Zhan!
 * May 2025: Received ISO Graduate Academic Excellence Honors. I appreciate the prestigious honor from University of Virginia.
