@@ -24,29 +24,29 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 News
 ------
 
-{% raw %}
 <div style="border:1px solid #ccc; padding:10px; height:400px; overflow:auto; background-color:#f9f9f9">
-
-* May 2025: Thrilled to receive the 2025 Outstanding Doctoral Student Award at the University of Virginia!
-* May 2025: One paper accepted by ACL 2025.
-* May 2025: One tutorial and three papers accepted by KDD 2025. Congrats to Kaixiang and Zhan!
-* May 2025: Received ISO Graduate Academic Excellence Honors. I appreciate the prestigious honor from University of Virginia.
-* May 2025: Two papers accepted by ICML 2025. Congrats to Zebin!
-* Jan. 2025: FYAP grant awarded. I appreciate the generous support from FSU.
-* Jan. 2025: Two papers accepted by ICLR 2025.
-* Dec. 2024: We released `Political-LLM`, a comprehensive guidebook outlining the recent advances in the interdisciplinary area of political science and LLMs. Check our [paper](https://arxiv.org/abs/2412.06864) and [online resources](http://political-llm.org)!
-* Dec. 2024: Two papers accepted by AAAI 2025.
-* Nov. 2024: Received The Collaborative Grant between Computer Science and Psychology. I appreciate the generous support from the Department of Computer Science and Department of Psychology at FSU.
-* Oct. 2024: One paper accepted by TMLR.
-* Oct. 2024: One paper accepted by BigData.
-* Oct. 2024: Two papers accepted by NeurIPS.
-* Sept. 2024: Received The College of Arts and Sciences Dean’s Faculty Award. I appreciate the generous support from the Dean's office.
-* Sept. 2024: One paper accepted by EMNLP.
-* Aug. 2024: We are preparing for seminar series [Student Seminars @FSU](https://cs-fsu.github.io/seminars.html). Contact us to present!
-* Aug. 2024: New position started  in the [Department of Computer Science at Florida State University](https://www.cs.fsu.edu/department/faculty/).
-
+{{"
+* **May 2025**: Thrilled to receive the 2025 Outstanding Doctoral Student Award at the University of Virginia!  
+* **May 2025**: One paper accepted by ACL 2025.  
+* **May 2025**: One tutorial and three papers accepted by KDD 2025. Congrats to Kaixiang and Zhan!  
+* **May 2025**: Received ISO Graduate Academic Excellence Honors. I appreciate the prestigious honor from University of Virginia.  
+* **May 2025**: Two papers accepted by ICML 2025. Congrats to Zebin!  
+* **Jan. 2025**: FYAP grant awarded. I appreciate the generous support from FSU.  
+* **Jan. 2025**: Two papers accepted by ICLR 2025.  
+* **Dec. 2024**: We released `Political-LLM`, a comprehensive guidebook outlining the recent advances in the interdisciplinary area of political science and LLMs. Check our [paper](https://arxiv.org/abs/2412.06864) and [online resources](http://political-llm.org)!  
+* **Dec. 2024**: Two papers accepted by AAAI 2025.  
+* **Nov. 2024**: Received The Collaborative Grant between Computer Science and Psychology. I appreciate the generous support from the Department of Computer Science and Department of Psychology at FSU.  
+* **Oct. 2024**: One paper accepted by TMLR.  
+* **Oct. 2024**: One paper accepted by BigData.  
+* **Oct. 2024**: Two papers accepted by NeurIPS.  
+* **Sept. 2024**: Received The College of Arts and Sciences Dean’s Faculty Award. I appreciate the generous support from the Dean's office.  
+* **Sept. 2024**: One paper accepted by EMNLP.  
+* **Aug. 2024**: We are preparing for seminar series [Student Seminars @FSU](https://cs-fsu.github.io/seminars.html). Contact us to present!  
+* **Aug. 2024**: New position started in the [Department of Computer Science at Florida State University](https://www.cs.fsu.edu/department/faculty/).  
+" | markdownify }}
 </div>
-{% endraw %}
+
+
 
 
 
