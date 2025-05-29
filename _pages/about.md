@@ -24,10 +24,8 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 News
 ------
 
+{% raw %}
 <div style="border:1px solid #ccc; padding:10px; height:400px; overflow:auto; background-color:#f9f9f9">
-
-
-<p>
 
 * May 2025: Thrilled to receive the 2025 Outstanding Doctoral Student Award at the University of Virginia!
 * May 2025: One paper accepted by ACL 2025.
@@ -47,11 +45,8 @@ News
 * Aug. 2024: We are preparing for seminar series [Student Seminars @FSU](https://cs-fsu.github.io/seminars.html). Contact us to present!
 * Aug. 2024: New position started  in the [Department of Computer Science at Florida State University](https://www.cs.fsu.edu/department/faculty/).
 
-
-</p>
-
 </div>
-
+{% endraw %}
 
 
 
