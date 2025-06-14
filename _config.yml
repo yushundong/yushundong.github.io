@@ -84,7 +84,9 @@ analytics:
 author:
   name             : "Yushun Dong"
   avatar           : "Profile-2.JPG"
-  bio              : "Assistant Professor @FSU"
+  bio              : |
+    Assistant Professor @FSU CS  
+    Director of Responsible AI Lab   
   location         : "207A LOV, Tallahassee, FL"
   employer         :
   pubmed           :
