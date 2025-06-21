@@ -54,6 +54,7 @@ News
 
 Invited Talks (Selected)
 ------
+* 06/2025, Harvard University: MEAs on Large Language Models
 * 04/2025, Rice University: Political-LLM
 * 03/2025, UIIC Summit @DistribuTech: AI in Utility Operations
 * 02/2025, Harvard University: Model Extraction Attacks
