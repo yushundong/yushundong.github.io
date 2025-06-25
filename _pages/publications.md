@@ -98,7 +98,7 @@ Song Wang, Peng Wang, Tong Zhou, **Yushun Dong**, Zhen Tan, Jundong Li <br>
 International Conference on Learning Representations (**ICLR 2025**).
 
 1. PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
-Sihan Chen, Zhuangzhuang Qian, Wingchun Siu, Xingcan Hu, Jiaqi Li, Shawn Li, Yuehan Qin, Tiankai Yang, Zhuo Xiao, Wanghao Ye, Yichi Zhang, **Yushun Dong**, Yue Zhao.
+Sihan Chen, Zhuangzhuang Qian, Wingchun Siu, Xingcan Hu, Jiaqi Li, Shawn Li, Yuehan Qin, Tiankai Yang, Zhuo Xiao, Wanghao Ye, Yichi Zhang, **Yushun Dong**, Yue Zhao <br>
 International Conference on World Wide Web (**WWW 2025**). 
 
 
