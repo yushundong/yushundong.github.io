@@ -54,10 +54,10 @@ News
 
 Invited Talks (Selected)
 ------
-* 06/2025, Harvard University: MEAs on Large Language Models
+* 06/2025, Harvard University: Model Extraction Attacks on Large Language Models
 * 04/2025, Rice University: Political-LLM
 * 03/2025, UIIC Summit @DistribuTech: AI in Utility Operations
-* 02/2025, Harvard University: Model Extraction Attacks
+* 02/2025, Harvard University: Model Extraction Attacks Against Graph Learning Models
 * 10/2024, INFORMS: Responsible Graph Machine Learning
 * 10/2024, Case Western University: Algorithmic Fairness
 
