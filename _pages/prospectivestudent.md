@@ -30,7 +30,7 @@ If you are interested in a research intern position, please [email me](mailto:yd
 
 When emailing your application, kindly mark the subject with **[Research Intern Application]** with magic word ``appoggiatura`` to ensure it receives prompt attention.
 
-## Fellowship Opportunities at RAI Lab
+## Fellowship Award Opportunities at RAI Lab (<span style="color:red">with funding support</span>)
 
 RAI Lab will start a tentative plan aimming to grant _RAI Fellowship Award_ to FSU students who show significant research excellence in the domain RAI Lab is currently focusing on. If you are interested in _RAI Fellowship Award_, please see details below.
 
