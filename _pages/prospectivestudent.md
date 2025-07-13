@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "A Guide for Prospective Students"
+title: "A Guide for Prospective Students, Interns, and Fellowship Award Applicants"
 permalink: /prospectivestudent/
 author_profile: true
 
