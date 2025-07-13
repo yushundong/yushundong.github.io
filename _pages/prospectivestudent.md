@@ -30,4 +30,14 @@ If you are interested in a research intern position, please [email me](mailto:yd
 
 When emailing your application, kindly mark the subject with **[Research Intern Application]** with magic word ``appoggiatura`` to ensure it receives prompt attention.
 
+## Fellowship Opportunities at RAI Lab
+
+RAI Lab will start a tentative plan aimming to grant _RAI Fellowship Award_ to FSU students who show significant research excellence in the domain RAI Lab is currently focusing on. If you are interested in _RAI Fellowship Award_, please see details below.
+
+**RAI Fellowship Award**: RAI Lab will provide a one-semester (RAI Fellowship Award) or a two-semester (RAI Fellowship Award with highest honors) funding support to the students who is selected for award.
+
+**Qualification**: Only full-time students, including undergraduate, graduate, and PhD students, at Florida State University are qualified for RAI Fellowship.
+
+**Application Submission**: Comming soon.
+
 
