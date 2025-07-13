@@ -18,3 +18,6 @@ main:
     
   - title: "Recruiting"
     url: "/prospectivestudent/"
+    
+  - title: "RAI Fellowship"
+    url: "/fellowship/"
