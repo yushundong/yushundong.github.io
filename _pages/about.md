@@ -41,7 +41,7 @@ News
 * **Oct. 2024**: Two papers accepted by NeurIPS.  
 * **Sept. 2024**: Received The College of Arts and Sciences Dean’s Faculty Award. I appreciate the generous support from the Dean's office.  
 * **Sept. 2024**: One paper accepted by EMNLP.  
-* **Aug. 2024**: We are preparing for seminar series [Student Seminars @FSU](https://cs-fsu.github.io/seminars.html). Contact us to present!  
+* **Aug. 2024**: We are preparing for seminar series [Student Seminars @FSU](https://www.cs.fsu.edu/seminars/). Contact us to present!  
 * **Aug. 2024**: New position started in the [Department of Computer Science at Florida State University](https://www.cs.fsu.edu/department/faculty/).  
 " | markdownify }}
 </div>
