@@ -34,9 +34,46 @@ When emailing your application, kindly mark the subject with **[Research Intern 
 
 RAI Lab will start a tentative plan aimming to grant _RAI Fellowship Award_ to FSU students who show significant research excellence in the domain RAI Lab is currently focusing on. If you are interested in _RAI Fellowship Award_, please see details below.
 
-**RAI Fellowship Award**: RAI Lab will provide a one-semester (RAI Fellowship Award) or a two-semester (RAI Fellowship Award with highest honors) funding support to the students who is selected for award.
+**RAI Fellowship Award**: RAI Lab will provide a one-semester (RAI Fellowship Award) or a two-semester (RAI Fellowship Award with highest honors) funding support to the winners who is selected for the award. Selection will be conducted on a rolling basis. At each round of selection, if no candidate meets the rigorous selection criteria in the pool, the award will not be conferred.
 
 **Qualification**: Only full-time students, including undergraduate, graduate, and PhD students, at Florida State University are qualified for RAI Fellowship Award.
+
+**Application Deadline**: Please refer to the dates below to determine when you can expect a decision on your application. Applications may be reviewed immediately upon submission - incomplete applications will be declined.
+
+<!-- begin custom styled table -->
+<table style="border-collapse: collapse; width: 100%; font-family: sans-serif; font-size: 15px;">
+  <thead>
+    <tr style="background-color: #f8f8f8; text-align: left;">
+      <th style="padding: 10px; border-bottom: 2px solid #ccc;">Proposal Submission Date</th>
+      <th style="padding: 10px; border-bottom: 2px solid #ccc;">Decision Date</th>
+      <th style="padding: 10px; border-bottom: 2px solid #ccc;">Estimated Hardware Ship Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #ffffff;">
+      <td style="padding: 10px;">January 1–March 31</td>
+      <td style="padding: 10px;">June</td>
+      <td style="padding: 10px;">August</td>
+    </tr>
+    <tr style="background-color: #f3f3f3;">
+      <td style="padding: 10px;">April 1–June 30</td>
+      <td style="padding: 10px;">September</td>
+      <td style="padding: 10px;">November</td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+      <td style="padding: 10px;">July 1–September 30</td>
+      <td style="padding: 10px;">December</td>
+      <td style="padding: 10px;">February</td>
+    </tr>
+    <tr style="background-color: #f3f3f3;">
+      <td style="padding: 10px;">October 1–December 31</td>
+      <td style="padding: 10px;">March</td>
+      <td style="padding: 10px;">May</td>
+    </tr>
+  </tbody>
+</table>
+<!-- end table -->
+
 
 **Application Submission**: Coming soon.
 
