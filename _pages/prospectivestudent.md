@@ -6,13 +6,13 @@ author_profile: true
 
 ---
 
-## PhD Application (<span style="color:red">2025 fall/2026 spring admission is open</span>)
+## PhD Application (<span style="color:red">2026 spring and fall admission is open</span>)
 
 I am actively seeking ambitious students for Ph.D. positions in my team. If you are interested in applying, please [submit your application here](https://www.cs.fsu.edu/admissions/graduate-admissions/) and [email me](mailto:yd24f@fsu.edu) with the following materials:
 
 - **CV**
 - **Transcripts**
-- **TOEFL & GRE Scores** (necessary)
+- **TOEFL Scores** (necessary)
 - **Additional Materials Supporting Your Application**
 
 When emailing your application, kindly mark the subject with **[PhD Application]** with magic word ``appoggiatura`` to ensure it receives prompt attention.
