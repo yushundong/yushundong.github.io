@@ -68,6 +68,6 @@ RAI Lab will initiate a tentative plan aimming to grant RAI Fellowship Award to 
 <!-- end table -->
 
 
-**Application Submission**: Coming soon.
+**Submission**: Coming soon.
 
 
