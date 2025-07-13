@@ -8,6 +8,11 @@ header:
 author_profile: false
 
 ---
+
+
+## RAI Logo
+<hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
+
 <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-top: -3.5rem;">
   <img src="../files/campus2.jpg" style="width: 100%; height: auto; display: block;" alt="RAI Lab Banner">
 </div>
@@ -23,13 +28,22 @@ author_profile: false
   </div>
 </div>
 
--------------------
+## RAI Activities
+<hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
+
+RAI Lab has been hosting [**Student Seminar at Computer Science Department**](https://www.cs.fsu.edu/seminars/) since 2024, which has been providing the students in FSU a wonderful platform to know peers who are interested in various research topics, mentors who are recruiting students (e.g., PhD students, interns, GTAs, and GRAs), and the leadership personnels sharing wonderful information about the recent achievements of the FSU Computer Science Department. We will provide **free lunch** at each of the seminars and invited speakers to share their state-of-the-art research progress and their personal journey. **Come and join us for presentation/discussion or just lunch!**
+
+
 ## Faculty
+<hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
+
 
 [**Yushun Dong**](https://yushundong.github.io)
 
--------------------
+
 ## PhD Students
+<hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
+
 
 [**Lincan Li**](https://lincanli98.github.io), Spring 2025 - 
 
@@ -40,13 +54,16 @@ Recruiting...
 
 
 
--------------------
+
 ## Master and Undergrad Students
+<hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
 
 
 
--------------------
+
 ## Alumni Highlights
+<hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
+
 
 **Zebin Wang**  
 **Achievement at RAI Lab**: ICML 2025 publication.  
