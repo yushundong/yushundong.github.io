@@ -8,16 +8,14 @@ header:
 author_profile: false
 
 ---
-
-
-## RAI Logo
-<hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
-
 <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-top: -3.5rem;">
   <img src="../files/campus2.jpg" style="width: 100%; height: auto; display: block;" alt="RAI Lab Banner">
 </div>
 
 <br>
+
+## RAI Logo
+<hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
 
 <div class="rai-container">
   <div class="rai-image-container">
