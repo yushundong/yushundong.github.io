@@ -29,7 +29,7 @@ author_profile: false
 ## RAI Activities
 <hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
 
-RAI Lab has been hosting [**Student Seminar at Computer Science Department**](https://www.cs.fsu.edu/seminars/) since 2024, providing the students in FSU a wonderful platform to meet peers who are interested in various research topics, mentors who are recruiting students (e.g., PhD students, interns, GTAs, and GRAs), and leadership personnel sharing wonderful achievements of the FSU Computer Science Department. We will provide **free lunch** at each of the seminars and invited speakers to share their state-of-the-art research progress and their personal journey. **Come and join us for presentation, discussion, or just lunch!**
+RAI Lab has been hosting [**Student Seminar at Computer Science Department**](https://www.cs.fsu.edu/seminars/) since 2024, providing the students in FSU a wonderful platform to meet peers who are interested in various research topics, mentors who are recruiting students (e.g., PhD students, interns, GTAs, and GRAs), and leadership personnel sharing wonderful achievements of the FSU Computer Science Department. We will provide **free lunch** at each of the seminars and invite speakers to share their state-of-the-art research progress and their personal journey experience. **Come and join us for presentation, discussion, or just lunch!**
 
 
 ## Faculty
