@@ -7,6 +7,9 @@ main:
   - title: "RAI Lab"
     url: /students/   
 
+  - title: "RAI Fellowship"
+    url: "/fellowship/"
+    
   - title: "Teaching"
     url: /teaching/    
     
@@ -19,5 +22,4 @@ main:
   - title: "Recruiting"
     url: "/prospectivestudent/"
     
-  - title: "RAI Fellowship"
-    url: "/fellowship/"
+
