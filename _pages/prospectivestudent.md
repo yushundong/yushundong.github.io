@@ -37,7 +37,7 @@ When emailing your application, kindly mark the subject with **[Research Intern 
 
 RAI Lab will initiate a tentative plan aimming to grant RAI Fellowship Award to FSU students who show significant research excellence in the domain RAI Lab is currently focusing on. If you are interested in RAI Fellowship Award, please see details below.
 
-**RAI Fellowship Award**: RAI Lab will provide a one-semester (_RAI Fellowship Award_) or a two-semester (_RAI Fellowship Award with Highest Honors_) funding support to the winners who is selected for the award. Awardees will be invited to give a talk at the [Student Seminar hosted at FSU CS Department](https://www.cs.fsu.edu/seminars/). Selection will be conducted on a rolling basis. At each round of selection, if no candidate meets the rigorous selection criteria in the pool, the award will not be conferred.
+**RAI Fellowship Award**: RAI Lab will provide a one-semester (_RAI Fellowship Award_) or a two-semester (_RAI Fellowship Award with Highest Honors_) funding support to the winners who is selected for the award. Awardees will be conducting the proposed research in the duration of the fellowship award at RAI Lab and be invited to give a talk at the [Student Seminar hosted at FSU CS Department](https://www.cs.fsu.edu/seminars/). Selection will be conducted on a rolling basis. At each round of selection, if no candidate meets the rigorous selection criteria in the pool, the award will not be conferred.
 
 **Qualification**: Only full-time students, including undergraduate, graduate, and PhD students, at Florida State University are qualified for RAI Fellowship Award. The student should not be in any other full-time position in the duration of the fellowship award.
 
