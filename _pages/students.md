@@ -15,7 +15,7 @@ author_profile: false
 <br>
 
 ## RAI Logo
-<hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
+
 
 <div class="rai-container">
   <div class="rai-image-container">
@@ -27,20 +27,17 @@ author_profile: false
 </div>
 
 ## RAI Activities
-<hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
 
 RAI Lab has been hosting [**Student Seminar at Computer Science Department**](https://www.cs.fsu.edu/seminars/) since 2024, providing the students in FSU a wonderful platform to meet peers who are interested in various research topics, mentors who are recruiting students (e.g., PhD students, interns, GTAs, and GRAs), and leadership personnel sharing wonderful achievements of the FSU Computer Science Department. We will provide **free lunch** at each of the seminars and invite speakers to share their state-of-the-art research progress and their personal journey experience. **Come and join us for presentation, discussion, or just lunch!**
 
 
 ## Faculty
-<hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
 
 
 [**Yushun Dong**](https://yushundong.github.io)
 
 
 ## PhD Students
-<hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
 
 
 [**Lincan Li**](https://lincanli98.github.io), Spring 2025 - 
@@ -54,13 +51,11 @@ Recruiting...
 
 
 ## Master and Undergrad Students
-<hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
 
 
 
 
 ## Alumni Highlights
-<hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
 
 
 **Zebin Wang**  
