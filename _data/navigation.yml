@@ -3,21 +3,21 @@ main:
 
   - title: "Publications"
     url: /publications/  
-    
+
+  - title: "Teaching"
+    url: /teaching/    
+
   - title: "RAI Lab"
     url: /students/   
 
   - title: "RAI Fellowship"
     url: "/fellowship/"
-    
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Open Projects"
-    url: /projects/
 
   - title: "Grants & Awards"
     url: /grants/
+        
+  - title: "Open Projects"
+    url: /projects/
     
   - title: "Recruiting"
     url: "/prospectivestudent/"
