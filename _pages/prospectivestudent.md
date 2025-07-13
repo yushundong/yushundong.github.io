@@ -53,7 +53,7 @@ RAI Lab will start a tentative plan aimming to grant _RAI Fellowship Award_ to F
     <tr style="background-color: #ffffff;">
       <td style="padding: 10px;">August 1–October 31</td>
       <td style="padding: 10px;">November</td>
-      <td style="padding: 10px;">Nest Year Spring/Spring+Summer Semester</td>
+      <td style="padding: 10px;">Next Year Spring/Spring+Summer Semester</td>
     </tr>
     <tr style="background-color: #f3f3f3;">
       <td style="padding: 10px;">November 1–March 31</td>
