@@ -19,7 +19,7 @@ I am actively seeking ambitious students for Ph.D. positions in my team. If you 
 When emailing your application, kindly mark the subject with **[PhD Application]** with magic word ``appoggiatura`` to ensure it receives prompt attention.
 
 
-## Research Intern Application (<span style="color:red">Open Year-Round</span>)
+## Research Intern Application (<span style="color:red">open year-round</span>)
 <hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
 
 I have been working with multiple outstanding research interns and am always looking for enthusiastic and talented ones. <span style="color:red">Unlike many easy research opportunities, I take the training of research interns seriously</span>: I provide thoughtful and comprehensive academic guidance to research interns who are deeply committed to their research. Many outstanding research intern alumni in my lab have published top-tier research papers (see [Alumni Highlights at RAI Lab](https://yushundong.github.io//students/))—often their very first top-tier research publications in their academic career!
