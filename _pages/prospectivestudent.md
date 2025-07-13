@@ -36,7 +36,7 @@ RAI Lab will start a tentative plan aimming to grant _RAI Fellowship Award_ to F
 
 **RAI Fellowship Award**: RAI Lab will provide a one-semester (RAI Fellowship Award) or a two-semester (RAI Fellowship Award with highest honors) funding support to the students who is selected for award.
 
-**Qualification**: Only full-time students, including undergraduate, graduate, and PhD students, at Florida State University are qualified for RAI Fellowship.
+**Qualification**: Only full-time students, including undergraduate, graduate, and PhD students, at Florida State University are qualified for RAI Fellowship Award.
 
 **Application Submission**: Coming soon.
 
