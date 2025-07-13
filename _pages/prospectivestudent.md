@@ -46,29 +46,19 @@ RAI Lab will start a tentative plan aimming to grant _RAI Fellowship Award_ to F
     <tr style="background-color: #f8f8f8; text-align: left;">
       <th style="padding: 10px; border-bottom: 2px solid #ccc;">Proposal Submission Date</th>
       <th style="padding: 10px; border-bottom: 2px solid #ccc;">Decision Date</th>
-      <th style="padding: 10px; border-bottom: 2px solid #ccc;">Estimated Hardware Ship Date</th>
+      <th style="padding: 10px; border-bottom: 2px solid #ccc;">Estimated Award Semester</th>
     </tr>
   </thead>
   <tbody>
     <tr style="background-color: #ffffff;">
-      <td style="padding: 10px;">January 1–March 31</td>
-      <td style="padding: 10px;">June</td>
-      <td style="padding: 10px;">August</td>
-    </tr>
-    <tr style="background-color: #f3f3f3;">
-      <td style="padding: 10px;">April 1–June 30</td>
-      <td style="padding: 10px;">September</td>
+      <td style="padding: 10px;">August 1–October 31</td>
       <td style="padding: 10px;">November</td>
-    </tr>
-    <tr style="background-color: #ffffff;">
-      <td style="padding: 10px;">July 1–September 30</td>
-      <td style="padding: 10px;">December</td>
-      <td style="padding: 10px;">February</td>
+      <td style="padding: 10px;">Nest Year Spring/Spring+Summer Semester</td>
     </tr>
     <tr style="background-color: #f3f3f3;">
-      <td style="padding: 10px;">October 1–December 31</td>
-      <td style="padding: 10px;">March</td>
-      <td style="padding: 10px;">May</td>
+      <td style="padding: 10px;">November 1–March 31</td>
+      <td style="padding: 10px;">April</td>
+      <td style="padding: 10px;">Same Year Summer/Summer+Fall Semester</td>
     </tr>
   </tbody>
 </table>
