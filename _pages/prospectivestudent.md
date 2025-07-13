@@ -38,6 +38,6 @@ RAI Lab will start a tentative plan aimming to grant _RAI Fellowship Award_ to F
 
 **Qualification**: Only full-time students, including undergraduate, graduate, and PhD students, at Florida State University are qualified for RAI Fellowship.
 
-**Application Submission**: Comming soon.
+**Application Submission**: Coming soon.
 
 
