@@ -7,15 +7,15 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
+  - title: "Grants & Awards"
+    url: /grants/
+    
   - title: "RAI Lab"
     url: /students/   
 
   - title: "RAI Fellowship"
     url: "/fellowship/"
 
-  - title: "Grants & Awards"
-    url: /grants/
-        
   - title: "Open Projects"
     url: /projects/
     
