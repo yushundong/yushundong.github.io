@@ -16,7 +16,7 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 **Research Summary:** My research interest mainly lies in achieving responsible AI that directly contributes to critical AI infrastructures and enhances collaborative innovations for the industry, with a particular focus on Machine Learning as a Service (MLaaS). I have abundant research works under related topics with a particular focus on relational data, including **40+ published research papers (14 first-author ones)** in the following areas [[see full list]](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ):
 
 
-* **AI Security:** Attack and Defense in MLaaS
+* **AI Security & Privacy:** Attack and Defense in MLaaS; Privacy Protection
 * **AI Integrity:** Value Alignment; Knowledge Editing
 * **AI Explainability:** Mechanistic Interpretability; Outcome Attribution
 * **AI/ML+X (Applications):** Healthcare; Disaster Resilience; Social Science
