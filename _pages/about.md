@@ -55,6 +55,9 @@ News
 
 Invited Talks (Selected)
 ------
+* 10/2025, INFORMS (Tentative): Understanding the preferences of large language models under interdisciplinary contexts
+* 08/2025, Harvard University (Tentative): Secure Machine Learning as a Service & Interdisciplinary Applications in Healthcare
+* 07/2025, Florida State University: Navigating Secure Machine Learning as a Service
 * 06/2025, Harvard University: Model Extraction Attacks on Large Language Models
 * 04/2025, Rice University: Political-LLM
 * 03/2025, UIIC Summit @DistribuTech: AI in Utility Operations
