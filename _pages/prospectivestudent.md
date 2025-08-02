@@ -6,6 +6,20 @@ author_profile: true
 
 ---
 
+
+## PhD Application (<span style="color:red">2026 spring and fall admission is open</span>)
+<hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
+
+I am actively seeking ambitious students for Ph.D. positions in my team. If you are interested in applying, please [submit your application here](https://www.cs.fsu.edu/admissions/graduate-admissions/) and [email me](mailto:yd24f@fsu.edu) with the following materials:
+
+- **CV**
+- **Transcripts**
+- **TOEFL Scores** (necessary)
+- **Additional Materials Supporting Your Application**
+
+When emailing your application, kindly mark the subject with **[PhD Application]** with magic word ``appoggiatura`` to ensure it receives prompt attention.
+
+
 ## PhD Transfer (<span style="color:red">2026 spring and fall admission is open</span>)
 <hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
 
@@ -22,19 +36,6 @@ If you are interested, please [submit your application here](https://www.cs.fsu.
 
 When emailing your application, kindly mark the subject with **[PhD Transfer]** with magic word ``appoggiatura`` to ensure it receives prioritized consideration.
 
-
-
-## PhD Application (<span style="color:red">2026 spring and fall admission is open</span>)
-<hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
-
-I am actively seeking ambitious students for Ph.D. positions in my team. If you are interested in applying, please [submit your application here](https://www.cs.fsu.edu/admissions/graduate-admissions/) and [email me](mailto:yd24f@fsu.edu) with the following materials:
-
-- **CV**
-- **Transcripts**
-- **TOEFL Scores** (necessary)
-- **Additional Materials Supporting Your Application**
-
-When emailing your application, kindly mark the subject with **[PhD Application]** with magic word ``appoggiatura`` to ensure it receives prompt attention.
 
 
 ## Research Intern Application (<span style="color:red">open year-round</span>)
