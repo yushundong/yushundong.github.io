@@ -6,6 +6,24 @@ author_profile: true
 
 ---
 
+## PhD Transfer (<span style="color:red">2026 spring and fall admission is open</span>)
+<hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
+
+RAI Lab is committed to provide an opportunity for talented PhD students who face difficult financial situations, e.g., losing funding halfway their program, to continue their PhD journey in the Computer Science Department at Florida State University. You shall receive prioritized consideration if you are qualified:
+
+- **Current full-time PhD student in any US university**
+- **First-author publication at top-tier CS conferences**
+
+If you are interested, please [submit your application here](https://www.cs.fsu.edu/admissions/graduate-admissions/) and [email me](mailto:yd24f@fsu.edu) with the following materials:
+
+- **CV**
+- **Transcripts**
+- **Published representative work**
+
+When emailing your application, kindly mark the subject with **[PhD Transfer]** with magic word ``appoggiatura`` to ensure it receives prioritized consideration.
+
+
+
 ## PhD Application (<span style="color:red">2026 spring and fall admission is open</span>)
 <hr style="border: 0; height: 1px; background: #e0e0e0; margin-top: 0.5em; margin-bottom: 1.5em;">
 
