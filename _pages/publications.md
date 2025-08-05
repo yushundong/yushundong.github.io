@@ -31,6 +31,10 @@ The IEEE International Conference on Data Mining (**ICDM 2022**).
 
 ## Journal Publications
 
+1. SEESAW: Do Graph Neural Networks Improve Node Representation Learning for All? [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+**Yushun Dong**, William Shiao, Yozen Liu, Jundong Li, Neil Shah, Tong Zhao, **Yushun Dong** <br>
+Data-centric Machine Learning Research (**DMLR 2025**).
+
 1. Federated Graph Learning with Graphless Clients [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Xingbo Fu, Song Wang, **Yushun Dong**, Binchi Zhang, Chen Chen, Jundong Li <br>
 Transactions on Machine Learning Research (TMLR) 2024.
@@ -47,6 +51,7 @@ IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023.
 4. Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications [\[PDF\]](http://yushundong.github.io/files/fedgraph.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Xingbo Fu, Binchi Zhang, **Yushun Dong**, Chen Chen, Jundong Li <br>
 SIGKDD Explorations 2022.
+
 
 ## Preprint
 
@@ -109,6 +114,13 @@ AAAI Conference on Artificial Intelligence (**AAAI 2025**).
 1. BrainMAP: Learning Multiple Activation Pathways in Brain Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Song Wang, Zhenyu Lei, Zhen Tan, Jiaqi Ding, Xinyu Zhao, **Yushun Dong**, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li <br>
 AAAI Conference on Artificial Intelligence (**AAAI 2025**). 
+
+1. TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting (Short Paper) [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Lincan Li, Eren Erman Ozguven, Yue Zhao, Guang Wang, Yiqun Xie, **Yushun Dong** <br>
+International Conference on Advances in Geographic Information Systems (**SIGSPATIAL 2025**).
+
+
+
 
 ### 2024
 
