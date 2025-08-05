@@ -32,7 +32,7 @@ The IEEE International Conference on Data Mining (**ICDM 2022**).
 ## Journal Publications
 
 1. SEESAW: Do Graph Neural Networks Improve Node Representation Learning for All? [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
-**Yushun Dong**, William Shiao, Yozen Liu, Jundong Li, Neil Shah, Tong Zhao, **Yushun Dong** <br>
+**Yushun Dong**, William Shiao, Yozen Liu, Jundong Li, Neil Shah, Tong Zhao <br>
 Journal of Data-centric Machine Learning Research (**DMLR**) 2025.
 
 1. Federated Graph Learning with Graphless Clients [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
