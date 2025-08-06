@@ -26,6 +26,7 @@ News
 
 <div style="border:1px solid #ccc; padding:10px; height:400px; overflow:auto; background-color:#f9f9f9">
 {{"
+* **July 2025**: Received an NSF Award to study wildfire management in hurricane prone regions.
 * **Aug. 2025**: One paper accepted by SIGSPATIAL 2025.  
 * **Aug. 2025**: One paper accepted by DMLR 2025.  
 * **July 2025**: Received an NSF Award to study secure and reliable Machine Learning as a service (MLaaS).   
