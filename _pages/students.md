@@ -44,6 +44,7 @@ RAI Lab has been hosting [**Student Seminar at Computer Science Department**](ht
 
 [**Bolin Shen**](https://blshen.org), Spring 2025 - 
 
+[**Xueqi Cheng**](https://xueqic.github.io), Fall 2025 - 
 
 Recruiting...
 
