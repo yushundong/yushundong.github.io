@@ -70,6 +70,10 @@ Kaixiang Zhao, Lincan Li, Kaize Ding, Neil Zhenqiang Gong, Yue Zhao, **Yushun Do
 
 ### 2025
 
+1. Learning from Diverse Reasoning Paths with Routing and Collaboration [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Zhenyu Lei, Zhen Tan, Song Wang, Yaochen Zhu, Zihan Chen, **Yushun Dong**, Jundong Li <br>
+Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**).
+
 1. Harnessing Large Language Models for Disaster Management: A Survey [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Zhenyu Lei, **Yushun Dong**, Weiyu Li, Rong Ding, Qi Wang, Jundong Li <br>
 Annual Meeting of the Association for Computational Linguistics Findings (**ACL 2025**).
