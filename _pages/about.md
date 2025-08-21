@@ -26,7 +26,7 @@ News
 
 <div style="border:1px solid #ccc; padding:10px; height:400px; overflow:auto; background-color:#f9f9f9">
 {{"
-* **Aug. 2025**: Received IGNITE FSU Seed Translational Research Projects (STRPs) grant to study safe MLaaS.
+* **Aug. 2025**: Received IGNITE FSU Seed Translational Research Projects grant to study safe MLaaS.
 * **Aug. 2025**: One paper accepted by EMNLP 2025.  
 * **July 2025**: Received an NSF Award to study wildfire management in hurricane prone regions.  
 * **Aug. 2025**: One paper accepted by SIGSPATIAL 2025.  
