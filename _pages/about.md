@@ -17,8 +17,9 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 
 * **AI Security & Privacy:** Attack and Defense in MLaaS; Privacy Protection
-* **AI Integrity:** Value Alignment; Knowledge Editing
+* **AI Robustness:** Generalization; Invariant Learning
 * **AI Explainability:** Mechanistic Interpretability; Outcome Attribution
+* **AI Integrity:** Value Alignment; Knowledge Editing
 * **AI/ML+X (Applications):** Healthcare; Disaster Resilience; Social Science
 
 News
