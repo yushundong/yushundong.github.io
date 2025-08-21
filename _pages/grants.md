@@ -12,7 +12,7 @@ The grants and awards listed below have been instrumental in advancing my resear
 Grants
 ------
 
-* Lead PI in the IGNITE FSU Seed Translational Research Projects (STRPs) grant, 07/14/2025 - 07/13/2026.
+* Lead PI in the IGNITE FSU Seed Translational Research Projects grant, 07/14/2025 - 07/13/2026.
 
 * Lead PI in the NSF grant “FIRE: An Integrated AI System Tackling the Full Life Cycle of Wildfires in Hurricane Prone Regions”, NSF (#2536578), 09/01/2025 - 08/31/2029.
 
