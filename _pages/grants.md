@@ -19,7 +19,7 @@ The grants and awards listed below have been instrumental in advancing my resear
 
 * FYAP Grant, Florida State University, (Lead PI, 05/11/2025 - 08/07/2025).
 
-* Collaborative Grant between Computer Science and Psychology, Florida State University, Nov. 2024
+* Collaborative Grant between Computer Science and Psychology, Florida State University, (Lead PI, 11/01/2024 - 10/31/2025).
 
 * The College of Arts and Sciences Dean’s Faculty Award, Florida State University, Sept. 2024
 
