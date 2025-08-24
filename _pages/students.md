@@ -46,6 +46,8 @@ RAI Lab has been hosting [**Student Seminar at Computer Science Department**](ht
 
 [**Xueqi Cheng**](https://xueqic.github.io), Fall 2025 - 
 
+[**Ryan Leigh**](https://www.linkedin.com/in/ryan-leigh-ba9b61112/), Fall 2025 - 
+
 Recruiting...
 
 
