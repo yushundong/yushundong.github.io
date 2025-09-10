@@ -24,11 +24,14 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 News
 ------
 
+
+
 <div style="border:1px solid #ccc; padding:10px; height:400px; overflow:auto; background-color:#f9f9f9">
 {{"
+* **Aug. 2025**: We published a brand new library focusing on the model extraction attack & defense for graph machine learning! Check [our Github Repo](https://github.com/LabRAI/PyGIP) and [our Official Website](https://labrai.github.io/PyGIP/)!
 * **Aug. 2025**: Received IGNITE FSU Seed Translational Research Projects grant to study safe MLaaS.
 * **Aug. 2025**: One paper accepted by EMNLP 2025.  
-* **July 2025**: Received an NSF Award to study wildfire management in hurricane prone regions.  
+* **Aug. 2025**: Received an NSF Award to study wildfire management in hurricane prone regions.  
 * **Aug. 2025**: One paper accepted by SIGSPATIAL 2025.  
 * **Aug. 2025**: One paper accepted by DMLR 2025.  
 * **July 2025**: Received an NSF Award to study secure and reliable Machine Learning as a service (MLaaS).   
