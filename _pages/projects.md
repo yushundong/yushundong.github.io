@@ -11,7 +11,7 @@ author_profile: true
 <div class="rai-container">
   <!-- PyGIP -->
   <div class="rai-image-container">
-    <a href="https://labrai.github.io/pygip/index.html">
+    <a href="https://labrai.github.io/PyGIP/">
       <img src="../files/ip.png" alt="PyGIP Logo" class="rai-image">
     </a>
   </div>
