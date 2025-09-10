@@ -16,7 +16,7 @@ author_profile: true
     </a>
   </div>
   <div class="rai-text">
-    <b>PyGIP</b> is a comprehensive Python library focused on model extraction attacks and defenses in Graph Neural Networks (GNNs). Built on PyTorch, PyTorch Geometric, and DGL, the library offers a robust framework for understanding, implementing, and defending against attacks targeting GNN models. Check [our Github Repo](https://github.com/LabRAI/PyGIP) and [our Official Website](https://labrai.github.io/PyGIP/)!
+    <b>PyGIP</b> is a comprehensive Python library focused on model extraction attacks and defenses in Graph Neural Networks (GNNs). Built on PyTorch, PyTorch Geometric, and DGL, the library offers a robust framework for understanding, implementing, and defending against attacks targeting GNN models. Check our Github Repo at https://github.com/LabRAI/PyGIP
   </div>
 
 </div>
