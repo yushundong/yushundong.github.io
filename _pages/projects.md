@@ -35,7 +35,7 @@ author_profile: true
     </a>
   </div>
   <div class="rai-text">
-    <b>PyOD</b> includes more than 50 detection algorithms, from classical LOF (SIGMOD 2000) to the cutting-edge ECOD and DIF (TKDE 2022 and 2023). Since 2017, PyOD has been successfully used in numerous academic research projects and commercial products with more than <b>26 million downloads</b>.
+    <b>PyOD</b> includes more than 50 detection algorithms, from classical LOF (SIGMOD 2000) to the cutting-edge ECOD and DIF (TKDE 2022 and 2023). Since 2017, PyOD has been successfully used in numerous academic research projects and commercial products with more than <b>32 million downloads</b>.
   </div>
 
 </div>
