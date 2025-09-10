@@ -5,6 +5,44 @@ permalink: /projects/
 author_profile: true
 ---
 
+
+# AI + Privacy
+
+<div class="rai-container">
+  <!-- PyGIP -->
+  <div class="rai-image-container">
+    <a href="https://labrai.github.io/pygip/index.html">
+      <img src="../files/ip.png" alt="PyGIP Logo" class="rai-image">
+    </a>
+  </div>
+  <div class="rai-text">
+    <b>PyGIP</b> is a comprehensive Python library focused on model extraction attacks and defenses in Graph Neural Networks (GNNs). Built on PyTorch, PyTorch Geometric, and DGL, the library offers a robust framework for understanding, implementing, and defending against attacks targeting GNN models. Check [our Github Repo](https://github.com/LabRAI/PyGIP) and [our Official Website](https://labrai.github.io/PyGIP/)!
+  </div>
+
+<br>
+
+
+
+# AI + Security
+
+
+<div class="rai-container">
+  
+  <!-- PyOD V2 -->
+  <div class="rai-image-container">
+    <a href="https://pyod.readthedocs.io/en/latest/">
+      <img src="../files/pyod.png" alt="PyOD Logo" class="rai-image">
+    </a>
+  </div>
+  <div class="rai-text">
+    <b>PyOD</b> includes more than 50 detection algorithms, from classical LOF (SIGMOD 2000) to the cutting-edge ECOD and DIF (TKDE 2022 and 2023). Since 2017, PyOD has been successfully used in numerous academic research projects and commercial products with more than <b>26 million downloads</b>.
+  </div>
+
+</div>
+
+<br>
+
+
 # AI + Social Science
 
 
@@ -18,25 +56,6 @@ author_profile: true
   </div>
   <div class="rai-text">
     What if large language models (LLMs) could transform how we understand politics? This project introduces <b>Political-LLM</b>, the first comprehensive framework to systematically integrate LLMs into political science research. It bridges computer science and political science by providing a taxonomy, technical insights, and ethical considerations to guide impactful LLM applications in the political domain.
-  </div>
-
-</div>
-
-<br>
-
-# AI + Security
-
-
-<div class="rai-container">
-  
-  <!-- PyOD -->
-  <div class="rai-image-container">
-    <a href="https://pyod.readthedocs.io/en/latest/">
-      <img src="../files/pyod.png" alt="PyOD Logo" class="rai-image">
-    </a>
-  </div>
-  <div class="rai-text">
-    <b>PyOD</b> includes more than 50 detection algorithms, from classical LOF (SIGMOD 2000) to the cutting-edge ECOD and DIF (TKDE 2022 and 2023). Since 2017, PyOD has been successfully used in numerous academic research projects and commercial products with more than <b>26 million downloads</b>.
   </div>
 
 </div>
@@ -61,21 +80,5 @@ author_profile: true
 </div>
 
 
-<br>
-
-# AI + Privacy
-
-
-
-<div class="rai-container">
-  <!-- PyGIP -->
-  <div class="rai-image-container">
-    <a href="https://labrai.github.io/pygip/index.html">
-      <img src="../files/ip.png" alt="PyGIP Logo" class="rai-image">
-    </a>
-  </div>
-  <div class="rai-text">
-    <b>PyGIP</b> is a comprehensive Python library focused on model extraction attacks and defenses in Graph Neural Networks (GNNs). Built on PyTorch, PyTorch Geometric, and DGL, the library offers a robust framework for understanding, implementing, and defending against attacks targeting GNN models.
-  </div>
 
 </div>
