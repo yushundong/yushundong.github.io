@@ -28,7 +28,7 @@ News
 
 <div style="border:1px solid #ccc; padding:10px; height:400px; overflow:auto; background-color:#f9f9f9">
 {{"
-* **Sept. 2025**: Our lab was featured in the FSU news! Check it out [here](https://news.fsu.edu/news/science-technology/2025/09/10/fsu-researchers-receive-2-3-million-national-science-foundation-grant-to-strengthen-wildfire-management-in-hurricane-prone-areas/).
+* **Sept. 2025**: Our lab was featured in FSU news! Check it out [here](https://news.fsu.edu/news/science-technology/2025/09/10/fsu-researchers-receive-2-3-million-national-science-foundation-grant-to-strengthen-wildfire-management-in-hurricane-prone-areas/).
 * **Aug. 2025**: We published a brand new library focusing on the model extraction attack & defense for graph machine learning! Check [our Github Repo](https://github.com/LabRAI/PyGIP) and [our Official Website](https://labrai.github.io/PyGIP/)!
 * **Aug. 2025**: Received IGNITE FSU Seed Translational Research Projects grant to study safe MLaaS.
 * **Aug. 2025**: One paper accepted by EMNLP 2025.  
