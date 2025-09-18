@@ -70,6 +70,12 @@ Kaixiang Zhao, Lincan Li, Kaize Ding, Neil Zhenqiang Gong, Yue Zhao, **Yushun Do
 
 ### 2025
 
+
+1. Hierarchical Demonstration Order Optimization for Many-shot In-Context Learning [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Yinhan He, Wendy Zheng, Song Wang, Zaiyi Zheng, **Yushun Dong**, Yaochen Zhu, Jundong Li <br>
+Annual Conference on Neural Information Processing Systems (**NeurIPS 2025**).
+
+
 1. Learning from Diverse Reasoning Paths with Routing and Collaboration [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Zhenyu Lei, Zhen Tan, Song Wang, Yaochen Zhu, Zihan Chen, **Yushun Dong**, Jundong Li <br>
 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**).
