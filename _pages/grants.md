@@ -26,6 +26,10 @@ Grants
 Awards
 ------
 
+* Featured AI Researcher, Florida State Univeristy, 2025
+
+* Outstanding Doctoral Student Award (one out of three), University of Virginia, May 2025
+
 * Outstanding Doctoral Student Award (one out of three), University of Virginia, May 2025
 
 * ISO Graduate Academic Excellence Honors, University of Virginia, May 2025
