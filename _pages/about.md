@@ -28,6 +28,7 @@ News
 
 <div style="border:1px solid #ccc; padding:10px; height:400px; overflow:auto; background-color:#f9f9f9">
 {{"
+* **Oct. 2025**: Awarded Featured AI Researcher by Campus Partners at Florida State University.
 * **Sept. 2025**: One paper accepted by ICDM 2025 Bluesky Track.
 * **Sept. 2025**: One paper accepted by NeurIPS 2025.
 * **Sept. 2025**: Our lab was featured in FSU news! Check it out [here](https://news.fsu.edu/news/science-technology/2025/09/10/fsu-researchers-receive-2-3-million-national-science-foundation-grant-to-strengthen-wildfire-management-in-hurricane-prone-areas/).
