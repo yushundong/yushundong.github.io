@@ -12,13 +12,15 @@ The grants and awards listed below have been instrumental in advancing my resear
 Grants
 ------
 
-* Lead PI in the IGNITE FSU Seed Translational Research Projects grant, 07/14/2025 - 07/13/2026.
+* Sole PI in the FSU Honors in the Major Mentor Materials Grant, 10/06/2025 - 06/30/2026.
+
+* Sole PI in the IGNITE FSU Seed Translational Research Projects grant, 07/14/2025 - 07/13/2026.
 
 * Lead PI in the NSF grant “FIRE: An Integrated AI System Tackling the Full Life Cycle of Wildfires in Hurricane Prone Regions”, NSF (#2536578), 09/01/2025 - 08/31/2029.
 
 * Lead PI in the NSF grant “CICI: UCSS: Secure Machine Learning as a Service for Collaborative Scientific Research”, NSF (#2530786), 01/01/2026 - 12/31/2028.
 
-* Lead PI in the FYAP Grant, Florida State University, 05/11/2025 - 08/07/2025.
+* Sole PI in the FYAP Grant, Florida State University, 05/11/2025 - 08/07/2025.
 
 * Lead PI in the Collaborative Grant between Computer Science and Psychology, Florida State University, 11/01/2024 - 10/31/2025.
 
