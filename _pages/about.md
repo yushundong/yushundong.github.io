@@ -28,6 +28,7 @@ News
 
 <div style="border:1px solid #ccc; padding:10px; height:400px; overflow:auto; background-color:#f9f9f9">
 {{"
+* **Oct. 2025**: Invited talk at National Science Foundation PATh CICI Presentation Series.
 * **Oct. 2025**: Awarded the FSU Honors in the Major Mentor Materials Grant.
 * **Oct. 2025**: Awarded Featured AI Researcher by Campus Partners at Florida State University.
 * **Sept. 2025**: One paper accepted by ICDM 2025 Bluesky Track.
