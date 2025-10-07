@@ -69,7 +69,8 @@ News
 
 Invited Talks (Selected)
 ------
-* 10/2025, INFORMS (Tentative): Understanding the preferences of large language models under interdisciplinary contexts
+
+* 10/2025, National Science Foundation PATh CICI Presentation Series: Toward Secure Machine Learning as a Service for Collaborative Scientific Research
 * 08/2025, Harvard University: Secure Machine Learning as a Service & Interdisciplinary Applications in Healthcare
 * 07/2025, Florida State University: Navigating Secure Machine Learning as a Service
 * 06/2025, Harvard University: Model Extraction Attacks on Large Language Models
