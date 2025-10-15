@@ -26,7 +26,7 @@ News
 
 
 
-<div style="border:1px solid #ccc; padding:10px; height:400px; overflow:auto; background-color:#f9f9f9">
+<div style="border:1px solid #ccc; padding:10px; height:600px; overflow:auto; background-color:#f9f9f9">
 {{"
 * **Oct. 2025**: Featured interview by WCTV (CBS News)!  
   [![news](../files/news-photos.png)](https://www.wctv.tv/2025/09/29/fsu-researchers-awarded-over-2-million-combat-wildfires-fueled-by-hurricanes/)
