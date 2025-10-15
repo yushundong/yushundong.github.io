@@ -28,6 +28,10 @@ News
 
 <div style="border:1px solid #ccc; padding:10px; height:400px; overflow:auto; background-color:#f9f9f9">
 {{"
+* **Oct. 2025**: Featured interview by WCTV (CBS News)!
+  <a href="https://news.fsu.edu/news/science-technology/2025/09/10/fsu-researchers-receive-2-3-million-national-science-foundation-grant-to-strengthen-wildfire-management-in-hurricane-prone-areas/" target="_blank">
+    <img src="../files/news-photos.png" alt="news" style="display:block; margin-top:6px; width:320px; height:auto; border-radius:6px;"/>
+  </a>
 * **Oct. 2025**: Invited talk at National Science Foundation PATh CICI Presentation Series.
 * **Oct. 2025**: Awarded the FSU Honors in the Major Mentor Materials Grant.
 * **Oct. 2025**: Awarded Featured AI Researcher by Campus Partners at Florida State University.
