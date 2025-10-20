@@ -6,15 +6,15 @@ permalink: /poplive/
 
 <div class="archive__item" style="margin-bottom:2rem;">
   <h2 class="archive__item-title" style="margin-bottom:0.25rem;">
-    Pop Live — Mid-Autumn Gala Performance
+    Mid-Autumn Gala Performance 2025
   </h2>
 
   <div class="archive__item-excerpt" style="margin:0.25rem 0 0.5rem; font-style:italic;">
-    FSU Moore Auditorium (MOR) | October 18, 2025
+    FSU Moore Auditorium (MOR) | October 18
   </div>
 
   <p>
-     Cover Li Jian: *A Father's Poem*
+     Cover Li Jian: A Father's Poem
   </p>
 
   <div style="position:relative; width:50%; min-width:300px; max-width:600px; aspect-ratio:16/9; margin:1rem auto;">
