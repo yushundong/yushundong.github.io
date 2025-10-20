@@ -179,21 +179,30 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  teaching:
     output: true
     permalink: /:collection/:path/
-  talks:
+  grants:
+    output: true
+    permalink: /:collection/:path/
+  students:
+    output: true
+    permalink: /:collection/:path/
+  projects:
     output: true
     permalink: /:collection/:path/
   poplive:
     output: true
     permalink: /:collection/:path/
+  prospectivestudent:
+    output: true
+    permalink: /:collection/:path/
+
+
+
     
 
 # Defaults
