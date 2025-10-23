@@ -28,6 +28,7 @@ News
 
 <div style="border:1px solid #ccc; padding:10px; height:600px; overflow:auto; background-color:#f9f9f9">
 {{"
+* **Oct. 2025**: One paper accepted by IEEE BigData.
 * **Oct. 2025**: Featured interview by WCTV (CBS News)!  
   [![news](../files/news-photos.png)](https://www.wctv.tv/2025/09/29/fsu-researchers-awarded-over-2-million-combat-wildfires-fueled-by-hurricanes/)
 * **Oct. 2025**: Invited talk at National Science Foundation PATh CICI Presentation Series.
