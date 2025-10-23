@@ -70,6 +70,11 @@ Kaixiang Zhao, Lincan Li, Kaize Ding, Neil Zhenqiang Gong, Yue Zhao, **Yushun Do
 
 ### 2025
 
+
+1. VirtualGCN – Enhancing Graph Collaborative Filtering with Virtual Interactions [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Patrick Soga, **Yushun Dong**, Yaochen Zhu, Jundong Li, Tong Zhao, and Neil Shah<br>
+IEEE International Conference on Big Data (**BigData 2025**).
+
 1. Navigating Between Explainability and Extractability in Machine Learning as a Service [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Ojas Nimase, Yue Zhao, **Yushun Dong**<br>
 The IEEE International Conference on Data Mining, Bluesky Track (**ICDM 2025**).
