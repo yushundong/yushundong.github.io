@@ -68,6 +68,13 @@ Kaixiang Zhao, Lincan Li, Kaize Ding, Neil Zhenqiang Gong, Yue Zhao, **Yushun Do
 ## Conference Publications
 
 
+### 2026
+
+
+1. MolEdit: Knowledge Editing for Multimodal Molecule Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Zhenyu Lei, Patrick Soga, Yaochen Zhu, Yinhan He, **Yushun Dong**, Jundong Li <br>
+International Conference on Web Search and Data Mining (**WSDM 2026**).
+
 ### 2025
 
 
