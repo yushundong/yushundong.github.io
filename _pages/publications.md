@@ -77,6 +77,9 @@ International Conference on Web Search and Data Mining (**WSDM 2026**).
 
 ### 2025
 
+1. LLM-Empowered Patient-Provider Communication: A Data-Centric Survey from a Clinical Perspective [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Ruosi Shao, Md Shamim Seraj, Kangyi Zhao, Yingtao Luo, Lincan Li, Bolin Shen, Averi Bates, Yue Zhao, Chongle Pan, Lisa Hightow-Weidman, Shayok Chakraborty, **Yushun Dong**<br>
+International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (**IJCNLP-AACL 2025**).
 
 1. VirtualGCN – Enhancing Graph Collaborative Filtering with Virtual Interactions [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Patrick Soga, **Yushun Dong**, Yaochen Zhu, Jundong Li, Tong Zhao, and Neil Shah<br>
