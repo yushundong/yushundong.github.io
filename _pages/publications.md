@@ -81,7 +81,7 @@ International Conference on Web Search and Data Mining (**WSDM 2026**).
 1. TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Lincan Li, Eren Erman Ozguven, Yue Zhao, Guang Wang, Yiqun Xie, **Yushun Dong**<br>
 ACM Special Interest Group on Spatial Information (**ACM SIGSPATIAL 2025**).
-
+<span style="color:red">**Best Short Paper Award**</span>
 
 1. Learning from the Storm: A Multivariate Machine Learning Approach to Predicting Hurricane-Induced Economic Losses [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Bolin Shen, Eren Erman Ozguven, Yue Zhao, Guang Wang, Yiqun Xie, **Yushun Dong**<br>
