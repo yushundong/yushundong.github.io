@@ -28,6 +28,8 @@ Grants
 Awards
 ------
 
+* Best Short Paper Award at ACM SIGSPATIAL, 2025
+
 * Featured AI Researcher by Campus Partners, Florida State University, 2025
 
 * Outstanding Doctoral Student Award (one out of three), University of Virginia, May 2025
