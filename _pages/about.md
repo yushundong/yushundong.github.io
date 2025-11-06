@@ -26,7 +26,7 @@ News
 
 
 
-<div style="border:1px solid #ccc; padding:10px; height:600px; overflow:auto; background-color:#f9f9f9">
+<div style="border:1px solid #ccc; padding:10px; height:800px; overflow:auto; background-color:#f9f9f9">
 {{"
 * **Nov. 2025**: Received the Best Short Paper Award at ACM SIGSPATIAL 2025.
 * **Oct. 2025**: One paper accepted by AACL 2025.
@@ -86,15 +86,6 @@ Invited Talks (Selected)
 * 02/2025, Harvard University: Model Extraction Attacks Against Graph Learning Models
 * 10/2024, INFORMS: Responsible Graph Machine Learning
 * 10/2024, Case Western University: Algorithmic Fairness
-
-  
-
-Services
-------
-
-* **Invited Program Committee Member**: NeurIPS, ICLR, ICML, ACL, AAAI, KDD, CIKM, ECMLPKDD, SDM, etc.
-* **Invited Reviewer & External Reviewer**: SIGKDD, SIGIR, AAAI, ICML, WWW, ICLR, ICML, NeurIPS, TKDE, TKDD, CIKM, WSDM, ECML-PKDD, PAKDD, BigData, etc.
-* **Volunteer**: SIGKDD 2021, IJCAI 2021, SIGKDD 2020, etc.
 
 
 
