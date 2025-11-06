@@ -28,6 +28,8 @@ Grants
 Awards
 ------
 
+* Highlights by CRA Academic Member Book, 2025
+
 * Best Short Paper Award at ACM SIGSPATIAL, 2025
 
 * Featured AI Researcher by Campus Partners, Florida State University, 2025
