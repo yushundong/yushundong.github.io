@@ -28,6 +28,7 @@ News
 
 <div style="border:1px solid #ccc; padding:10px; height:800px; overflow:auto; background-color:#f9f9f9">
 {{"
+* **Nov. 2025**: Two papers accepted by AAAI 2026.
 * **Nov. 2025**: Received the Best Short Paper Award at ACM SIGSPATIAL 2025.
 * **Oct. 2025**: One paper accepted by AACL 2025.
 * **Oct. 2025**: One paper accepted by WSDM 2026.
