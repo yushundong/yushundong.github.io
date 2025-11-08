@@ -75,6 +75,16 @@ Kaixiang Zhao, Lincan Li, Kaize Ding, Neil Zhenqiang Gong, Yue Zhao, **Yushun Do
 Zhenyu Lei, Patrick Soga, Yaochen Zhu, Yinhan He, **Yushun Dong**, Jundong Li <br>
 International Conference on Web Search and Data Mining (**WSDM 2026**).
 
+
+1. Query-Efficient Domain Knowledge Stealing Against Large Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Zhengao Li, Xiaopeng Yuan, Bolin Shen, Kien Le, Haohan Wang, Xugui Zhou, Shangqian Gao, **Yushun Dong** <br>
+AAAI Conference on Artificial Intelligence (**AAAI 2026**).
+
+
+1. Targeted Pathway Inference for Biological Knowledge Bases via Graph Learning and Explanation [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Rikuto Kotoge, Ziwei Yang, Zheng Chen, **Yushun Dong**, Yasuko Matsubara, Jimeng Sun, Yasushi Sakurai <br>
+AAAI Conference on Artificial Intelligence (**AAAI 2026**).
+
 ### 2025
 
 
