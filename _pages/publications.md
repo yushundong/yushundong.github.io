@@ -88,7 +88,7 @@ AAAI Conference on Artificial Intelligence (**AAAI 2026**).
 ### 2025
 
 
-1. TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+1. TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting (Short Paper) [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Lincan Li, Eren Erman Ozguven, Yue Zhao, Guang Wang, Yiqun Xie, **Yushun Dong**<br>
 ACM Special Interest Group on Spatial Information (**ACM SIGSPATIAL 2025**).   <br>
 <span style="color:red">**Best Short Paper Award**</span>
