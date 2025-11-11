@@ -30,6 +30,7 @@ News
 {{"
 * **Nov. 2025**: Two papers accepted by AAAI 2026.
 * **Nov. 2025**: Received the Best Short Paper Award at ACM SIGSPATIAL 2025.
+  <img src="../files/best_short_paper_award_photo.jpeg" alt="Best Short Paper Award" style="width:33%; height:auto; display:block; margin:auto;">
 * **Oct. 2025**: One paper accepted by AACL 2025.
 * **Oct. 2025**: One paper accepted by WSDM 2026.
 * **Oct. 2025**: One paper accepted by IEEE BigData.
