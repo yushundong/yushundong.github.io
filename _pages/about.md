@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am an Assistant Professor in the [Department of Computer Science](https://www.cs.fsu.edu) at [Florida State University](https://www.fsu.edu/), where I serve as the founder and director of [RAI (Responsible AI) Lab](https://yushundong.github.io//students/). Prior to that, I obtained my Ph.D. degree from the [University of Virginia](http://www.virginia.edu/), where I was fortunate to work with [Prof. Jundong Li](https://jundongli.github.io).
+I am an Assistant Professor in the [Department of Computer Science](https://www.cs.fsu.edu) at [Florida State University](https://www.fsu.edu/), where I serve as the founder and director of [RAI (Responsible AI) Lab](https://yushundong.github.io//students/). I obtained my Ph.D. degree from the [University of Virginia](http://www.virginia.edu/), where I was fortunate to work with [Prof. Jundong Li](https://jundongli.github.io).
 
 <span style="color:red">**\[Recruiting PhDs & Interns\]:**</span> I am actively seeking ambitious students for Ph.D. or research intern roles. Please [email me](mailto:yd24f@fsu.edu) with your CV, transcripts, and brief descriptions of your preferred research topics. Kindly mark the subject with `[PhD Application]` or `[Research Intern Application]`. <span style="color:red">**Magic Word**</span>: Please add `appoggiatura` in the email subject to ensure attention and to show that you have read this carefully.  
 
