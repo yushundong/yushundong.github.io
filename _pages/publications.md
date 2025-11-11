@@ -31,9 +31,14 @@ The IEEE International Conference on Data Mining (**ICDM 2022**).
 
 ## Journal Publications
 
+
+1. FedHERO: A Federated Learning Approach for Node Classification Task on Heterophilic Graphs  [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Zihan Chen, Xingbo Fu, **Yushun Dong**, Jundong Li, Cong Shen
+Transactions on Machine Learning Research (TMLR) 2025.
+
 1. SEESAW: Do Graph Neural Networks Improve Node Representation Learning for All? [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, William Shiao, Yozen Liu, Jundong Li, Neil Shah, Tong Zhao <br>
-Journal of Data-centric Machine Learning Research (**DMLR**) 2025.
+Journal of Data-centric Machine Learning Research (DMLR) 2025.
 
 1. Federated Graph Learning with Graphless Clients [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Xingbo Fu, Song Wang, **Yushun Dong**, Binchi Zhang, Chen Chen, Jundong Li <br>
