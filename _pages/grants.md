@@ -28,6 +28,8 @@ Grants
 Awards
 ------
 
+* Second Prize Award in BlueSky Track of ICDM, 2025
+
 * Highlights by [CRA Academic Member Book](https://cra.org/about/membership/member-books/), 2025
 
 * Best Short Paper Award at ACM SIGSPATIAL, 2025
