@@ -29,23 +29,31 @@ Awards
 ------
 
 * Second Prize Award in BlueSky Track of ICDM, 2025
-
-* Highlights by [CRA Academic Member Book](https://cra.org/about/membership/member-books/), 2025
-
+  
 * Best Short Paper Award at ACM SIGSPATIAL, 2025
+  
+* Featured Interview as a Distinguished Faculty by WCTV (CBS News) [Link](https://www.wctv.tv/2025/09/29/fsu-researchers-awarded-over-2-million-combat-wildfires-fueled-by-hurricanes/), 2025
+  
+* Highlights by [CRA Academic Member Book](https://cra.org/about/membership/member-books/), 2025
+  
+* Highlights by [NSF PATh CICI Presentation Series](https://path-cc.io/cici-awardees/), 2025
+  
+* Honors in the Major Mentor Thesis Program, Florida State University, 2025
+  
+* Featured AI Researcher Honor by Campus Partners, Florida State University, 2025
+  
+* Outstanding Doctoral Student Award, University of Virginia, 2025
+  
+* ISO Graduate Academic Excellence Honors, University of Virginia, 2025
+  
+* The College of Arts and Sciences Dean’s Faculty Award, Florida State University, 2024
+  
+* Louis T. Rader Graduate Research Award, University of Virginia, 2023
+  
+* Endowed Fellowship Award, University of Virginia, 2022
+  
+* Best Poster Award, SIAM International Conference on Data Mining, 2022
+  
+* McVey Fellowship Award, University of Virginia, 2021
 
-* Featured AI Researcher by Campus Partners, Florida State University, 2025
 
-* Outstanding Doctoral Student Award (one out of three), University of Virginia, May 2025
-
-* ISO Graduate Academic Excellence Honors, University of Virginia, May 2025
-
-* The College of Arts and Sciences Dean’s Faculty Award, Florida State University, Sept. 2024
-
-* Louis T. Rader Graduate Research Award, University of Virginia, Apr. 2023
-
-* Endowed Fellowship, University of Virginia, Nov. 2022
-
-* Best Poster of SDM Doctoral Forum, Society for Industrial and Applied Mathematics (SIAM), Apr. 2022
-
-* McVey Fellowship, University of Virginia, Sept. 2021
