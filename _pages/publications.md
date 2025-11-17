@@ -114,6 +114,7 @@ IEEE International Conference on Big Data (**BigData 2025**).
 1. Navigating Between Explainability and Extractability in Machine Learning as a Service [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Ojas Nimase, Yue Zhao, **Yushun Dong**<br>
 The IEEE International Conference on Data Mining, Bluesky Track (**ICDM 2025**).
+<span style="color:red">**Second Prize Award in BlueSky Track of ICDM**</span>
 
 
 1. Hierarchical Demonstration Order Optimization for Many-shot In-Context Learning [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
