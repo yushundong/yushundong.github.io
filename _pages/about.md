@@ -28,6 +28,7 @@ News
 
 <div style="border:1px solid #ccc; padding:10px; height:1000px; overflow:auto; background-color:#f9f9f9">
 {{"
+* **Nov. 2025**: Received the Second Prize Award in BlueSky Track of ICDM, 2025
 * **Nov. 2025**: Two papers accepted by AAAI 2026.
 * **Nov. 2025**: Received the Best Short Paper Award at ACM SIGSPATIAL 2025.
   [![best_short_paper_award_photo](../files/best_short_paper_award_photo.png)](https://www.linkedin.com/feed/update/urn:li:activity:7393869987737780224/)
