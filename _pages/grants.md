@@ -9,6 +9,9 @@ author_profile: true
 
 The grants and awards listed below have been instrumental in advancing my research and contributing to the scientific community. I extend my heartfelt thanks to all the organizations and institutions that have strong confidence in my vision and provided valuable support to pursue groundbreaking research.
 
+![news](../files/sponsors.png)
+
+
 Grants
 ------
 
