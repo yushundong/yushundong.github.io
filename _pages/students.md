@@ -40,15 +40,20 @@ RAI Lab has been hosting [**Student Seminar at Computer Science Department**](ht
 ## PhD Students
 
 
-[**Lincan Li**](https://lincanli98.github.io), Spring 2025 - 
+[**Lincan Li**](https://lincanli98.github.io), Spring 2025 -  
+**Achievements**: Best Short Paper Award at ACM SIGSPATIAL 2025.
 
-[**Bolin Shen**](https://blshen.org), Spring 2025 - 
+[**Bolin Shen**](https://blshen.org), Spring 2025 -  
+**Achievements**: Publications at AAAI 2025, SIGKDD 2025, ICML 2025, AACL 2025, etc.
 
-[**Xueqi Cheng**](https://xueqic.github.io), Fall 2025 - 
+[**Xueqi Cheng**](https://xueqic.github.io), Fall 2025 -    
+**Achievements**: Publications at WSDM 2025 * 2, SIGKDD 2025 (oral), ICLR 2024, TKDE 2023, etc.
 
-[**Ryan Leigh**](https://www.linkedin.com/in/ryan-leigh-ba9b61112/), Fall 2025 - 
+[**Ryan Leigh**](https://www.linkedin.com/in/ryan-leigh-ba9b61112/), Fall 2025 -   
+**Achievements**: To be updated.  
 
-[**Yangshuang Xu**](https://www.linkedin.com/in/yangshuang-xu-424160259/) (Visiting), Fall 2025 - 
+[**Yangshuang Xu**](https://www.linkedin.com/in/yangshuang-xu-424160259/) (Visiting), Fall 2025 -    
+**Achievements**: To be updated.  
 
 Recruiting...
 
@@ -62,6 +67,9 @@ Recruiting...
 
 ## Alumni Highlights
 
+**Ojas Nimase**  
+**Achievement at RAI Lab**: Second Prize Award in the BlueSky Track of ICDM 2025.  
+**Last Known Position**: Undergraduate student at the University of Southern California.
 
 **Zebin Wang**  
 **Achievement at RAI Lab**: ICML 2025 publication.  
@@ -73,15 +81,15 @@ Recruiting...
 
 **Ken Anderson**   
 **Achievement at RAI Lab**: ICML 2025 publication.  
-**Last Known Position**: Undergrad student at FSU.
+**Last Known Position**: Undergraduate student at FSU.
 
 **Kaixiang Zhao**   
 **Achievement at RAI Lab**: SIGKDD 2025 publication; SIGKDD 2025 tutorial.  
-**Last Known Position**: Undergrad student at University of Notre Dame.
+**Last Known Position**: Undergraduate student at University of Notre Dame.
 
 **Zhan Cheng**   
 **Achievement at RAI Lab**: SIGKDD 2025 publication.  
-**Last Known Position**: Undergrad student at University of Wisconsin–Madison.
+**Last Known Position**: Undergraduate student at University of Wisconsin–Madison.
 
 
 
