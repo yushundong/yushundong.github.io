@@ -91,7 +91,7 @@ AAAI Conference on Artificial Intelligence (**AAAI 2026**).
 
 
 1. Certified Defense on the Fairness of Graph Neural Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
-**Yushun Dong**, Binchi Zhang, Hanghang Tong, Jundong Li
+**Yushun Dong**, Binchi Zhang, Hanghang Tong, Jundong Li <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD 2026**).
 
 
