@@ -60,13 +60,12 @@ SIGKDD Explorations 2022.
 
 ## Preprint
 
-1. ELEGANT: Certified Defense on the Fairness of Graph Neural Networks [\[PDF\]](https://arxiv.org/pdf/2311.02757) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
-**Yushun Dong**, Binchi Zhang, Hanghang Tong, Jundong Li
 
-2. Political-LLM: Large Language Models in Political Science [\[PDF\]](https://arxiv.org/abs/2412.06864) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+
+1. Political-LLM: Large Language Models in Political Science [\[PDF\]](https://arxiv.org/abs/2412.06864) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Lincan Li, Jiaqi Li, Catherine Chen, Fred Gui, Hongjia Yang, Chenxiao Yu, Zhengguang Wang, Jianing Cai, Junlong Aaron Zhou, Bolin Shen, Alex Qian, Weixin Chen, Zhongkai Xue, Lichao Sun, Lifang He, Hanjie Chen, Kaize Ding, Zijian Du, Fangzhou Mu, Jiaxin Pei, Jieyu Zhao, Swabha Swayamdipta, Willie Neiswanger, Hua Wei, Xiyang Hu, Shixiang Zhu, Tianlong Chen, Yingzhou Lu, Yang Shi, Lianhui Qin, Tianfan Fu, Zhengzhong Tu, Yuzhe Yang, Jaemin Yoo, Jiaheng Zhang, Ryan Rossi, Liang Zhan, Liang Zhao, Emilio Ferrara, Yan Liu, Furong Huang, Xiangliang Zhang, Lawrence Rothenberg, Shuiwang Ji, Philip S Yu, Yue Zhao, **Yushun Dong**
 
-3. A Survey of Model Extraction Attacks and Defenses in Distributed Computing Environments [\[PDF\]](https://www.arxiv.org/abs/2502.16065) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+1. A Survey of Model Extraction Attacks and Defenses in Distributed Computing Environments [\[PDF\]](https://www.arxiv.org/abs/2502.16065) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Kaixiang Zhao, Lincan Li, Kaize Ding, Neil Zhenqiang Gong, Yue Zhao, **Yushun Dong**
 
 
@@ -89,6 +88,13 @@ AAAI Conference on Artificial Intelligence (**AAAI 2026**).
 1. Targeted Pathway Inference for Biological Knowledge Bases via Graph Learning and Explanation [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Rikuto Kotoge, Ziwei Yang, Zheng Chen, **Yushun Dong**, Yasuko Matsubara, Jimeng Sun, Yasushi Sakurai <br>
 AAAI Conference on Artificial Intelligence (**AAAI 2026**).
+
+
+1. ELEGANT: Certified Defense on the Fairness of Graph Neural Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+**Yushun Dong**, Binchi Zhang, Hanghang Tong, Jundong Li
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD 2026**).
+
+
 
 ### 2025
 
