@@ -90,7 +90,7 @@ Rikuto Kotoge, Ziwei Yang, Zheng Chen, **Yushun Dong**, Yasuko Matsubara, Jimeng
 AAAI Conference on Artificial Intelligence (**AAAI 2026**).
 
 
-1. ELEGANT: Certified Defense on the Fairness of Graph Neural Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+1. Certified Defense on the Fairness of Graph Neural Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Binchi Zhang, Hanghang Tong, Jundong Li
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD 2026**).
 
