@@ -68,15 +68,15 @@ Recruiting...
 ## Alumni Highlights
 
 
-**Zhengao Li**
+**Zhengao Li**   
 **Achievement at RAI Lab**: AAAI 2026 publication (first author).   
 **Last Known Position**: Undergraduate student at FSU.
 
-**Xiaopeng Yuan**
+**Xiaopeng Yuan**   
 **Achievement at RAI Lab**: AAAI 2026 publication.   
 **Last Known Position**: Master's student at UCLA.
 
-**Kien Le**
+**Kien Le**   
 **Achievement at RAI Lab**: AAAI 2026 publication.   
 **Last Known Position**: Undergraduate student at FSU.
 
