@@ -70,7 +70,7 @@ Recruiting...
 
 **Zhengao Li**   
 **Achievement at RAI Lab**: AAAI 2026 publication (first author).   
-**Last Known Position**: Undergraduate student at FSU.
+**Last Known Position**: Master's student at FSU.
 
 **Xiaopeng Yuan**   
 **Achievement at RAI Lab**: AAAI 2026 publication.   
