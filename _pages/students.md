@@ -67,28 +67,42 @@ Recruiting...
 
 ## Alumni Highlights
 
+
+**Zhengao Li**
+**Achievement at RAI Lab**: AAAI 2026 publication (first author).   
+**Last Known Position**: Undergraduate student at FSU.
+
+**Xiaopeng Yuan**
+**Achievement at RAI Lab**: AAAI 2026 publication.   
+**Last Known Position**: Master's student at UCLA.
+
+**Kien Le**
+**Achievement at RAI Lab**: AAAI 2026 publication.   
+**Last Known Position**: Undergraduate student at FSU.
+
+
 **Ojas Nimase**  
-**Achievement at RAI Lab**: Second Prize Award in the BlueSky Track of ICDM 2025.  
+**Achievement at RAI Lab**: Second Prize Award in the BlueSky Track of ICDM 2025, ICDM Bluesky Track publication (first author).  
 **Last Known Position**: Undergraduate student at the University of Southern California.
 
 **Zebin Wang**  
-**Achievement at RAI Lab**: ICML 2025 publication.  
-**Last Known Position**: PhD student at Harvard University.    
+**Achievement at RAI Lab**: ICML 2025 publication (first author).  
+**Last Known Position**: PhD student at Harvard University.
 
 **Menghan Lin**   
 **Achievement at RAI Lab**: ICML 2025 publication.  
-**Last Known Position**: Data Scientist at Meta.   
+**Last Known Position**: Data Scientist at Meta.
 
 **Ken Anderson**   
 **Achievement at RAI Lab**: ICML 2025 publication.  
 **Last Known Position**: Undergraduate student at FSU.
 
 **Kaixiang Zhao**   
-**Achievement at RAI Lab**: SIGKDD 2025 publication; SIGKDD 2025 tutorial.  
-**Last Known Position**: Undergraduate student at University of Notre Dame.
+**Achievement at RAI Lab**: SIGKDD 2025 publication (first author); SIGKDD 2025 tutorial (first author).     
+**Last Known Position**: Undergraduate student at University of Notre Dame.   
 
 **Zhan Cheng**   
-**Achievement at RAI Lab**: SIGKDD 2025 publication.  
+**Achievement at RAI Lab**: SIGKDD 2025 publication (first author).  
 **Last Known Position**: Undergraduate student at University of Wisconsin–Madison.
 
 
