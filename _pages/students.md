@@ -70,15 +70,15 @@ Recruiting...
 
 **Zhengao Li**   
 **Achievement at RAI Lab**: AAAI 2026 publication (first author).   
-**Last Known Position**: Master's student at FSU.
+**Last Known Position**: Master's student at Florida State University.
 
 **Xiaopeng Yuan**   
 **Achievement at RAI Lab**: AAAI 2026 publication.   
-**Last Known Position**: Master's student at UCLA.
+**Last Known Position**: Master's student at University of California, Los Angeles.
 
 **Kien Le**   
 **Achievement at RAI Lab**: AAAI 2026 publication.   
-**Last Known Position**: Undergraduate student at FSU.
+**Last Known Position**: Undergraduate student at Florida State University.
 
 
 **Ojas Nimase**  
@@ -95,7 +95,7 @@ Recruiting...
 
 **Ken Anderson**   
 **Achievement at RAI Lab**: ICML 2025 publication.  
-**Last Known Position**: Undergraduate student at FSU.
+**Last Known Position**: Undergraduate student at Florida State University.
 
 **Kaixiang Zhao**   
 **Achievement at RAI Lab**: SIGKDD 2025 publication (first author); SIGKDD 2025 tutorial (first author).     
