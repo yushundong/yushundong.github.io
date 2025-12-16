@@ -33,7 +33,7 @@ Awards
 
 * [Second Prize Award in BlueSky Track of ICDM](https://verified.sertifier.com/en/verify/42172525069129/), 2025
   
-* Best Short Paper Award at ACM SIGSPATIAL, 2025
+* [Best Short Paper Award at ACM SIGSPATIAL](https://www.sigspatial.org/people/award-recipients/), 2025
   
 * Featured Interview as a Distinguished Faculty by WCTV (CBS News) [Link](https://www.wctv.tv/2025/09/29/fsu-researchers-awarded-over-2-million-combat-wildfires-fueled-by-hurricanes/), 2025
   
