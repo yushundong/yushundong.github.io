@@ -35,7 +35,7 @@ Awards
   
 * [Best Short Paper Award at ACM SIGSPATIAL](https://www.sigspatial.org/people/award-recipients/), 2025
   
-* Featured Interview as a Distinguished Faculty by WCTV (CBS News) [Link](https://www.wctv.tv/2025/09/29/fsu-researchers-awarded-over-2-million-combat-wildfires-fueled-by-hurricanes/), 2025
+* [Featured Interview](https://www.wctv.tv/2025/09/29/fsu-researchers-awarded-over-2-million-combat-wildfires-fueled-by-hurricanes/) as a Distinguished Faculty by WCTV (CBS News) , 2025
   
 * Highlights by [CRA Academic Member Book](https://cra.org/about/membership/member-books/), 2025
   
