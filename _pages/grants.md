@@ -31,7 +31,7 @@ Grants
 Awards
 ------
 
-* Second Prize Award in BlueSky Track of ICDM, 2025
+* [Second Prize Award in BlueSky Track of ICDM](https://verified.sertifier.com/en/verify/42172525069129/), 2025
   
 * Best Short Paper Award at ACM SIGSPATIAL, 2025
   
