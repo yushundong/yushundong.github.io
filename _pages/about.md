@@ -13,7 +13,7 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 <span style="color:red">**\[Recruiting PhDs & Interns\]:**</span> I am actively seeking ambitious students for Ph.D. or research intern roles. Please [email me](mailto:yd24f@fsu.edu) with your CV, transcripts, and brief descriptions of your preferred research topics. Kindly mark the subject with `[PhD Application]` or `[Research Intern Application]`. <span style="color:red">**Magic Word**</span>: Please add `appoggiatura` in the email subject to ensure attention and to show that you have read this carefully.  
 
-**Research Summary:** My research interest mainly lies in achieving responsible AI that directly contributes to critical AI infrastructures and enhances collaborative innovations for the industry, with a particular focus on Machine Learning as a Service (MLaaS). I have abundant research works under related topics with a particular focus on relational data, including **40+ published research papers (14 first-author ones)** in the following areas [[see full list]](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ):
+**Research Summary:** My research interest mainly lies in achieving responsible AI that directly contributes to critical AI infrastructures and enhances collaborative innovations for the industry, with a particular focus on Machine Learning as a Service (MLaaS). I have abundant research works under related topics with a particular focus on relational data, including **60+ published research papers (17 first-author ones)** in the following areas [[see full list]](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ):
 
 
 * **AI Security & Privacy:** Model Extraction Attack and Defense; Privacy Certification
