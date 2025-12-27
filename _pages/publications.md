@@ -99,6 +99,7 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD 2026**).
 ### 2025
 
 
+
 1. TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting (Short Paper) [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Lincan Li, Eren Erman Ozguven, Yue Zhao, Guang Wang, Yiqun Xie, **Yushun Dong**<br>
 ACM Special Interest Group on Spatial Information (**ACM SIGSPATIAL 2025**).   <br>
@@ -176,11 +177,6 @@ AAAI Conference on Artificial Intelligence (**AAAI 2025**).
 1. BrainMAP: Learning Multiple Activation Pathways in Brain Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Song Wang, Zhenyu Lei, Zhen Tan, Jiaqi Ding, Xinyu Zhao, **Yushun Dong**, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li <br>
 AAAI Conference on Artificial Intelligence (**AAAI 2025**). 
-
-1. TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting (Short Paper) [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
-Lincan Li, Eren Erman Ozguven, Yue Zhao, Guang Wang, Yiqun Xie, **Yushun Dong** <br>
-International Conference on Advances in Geographic Information Systems (**SIGSPATIAL 2025**).
-
 
 
 
