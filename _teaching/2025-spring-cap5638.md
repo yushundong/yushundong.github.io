@@ -1,5 +1,5 @@
 ---
-title: "Instructor of CAP 5638: Pattern Recognition - 2025 Spring"
+title: "CAP 5638: Pattern Recognition - 2025 Spring"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-spring-cap5638
