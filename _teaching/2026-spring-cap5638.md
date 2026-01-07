@@ -1,7 +1,7 @@
 ---
 title: "CIS 4930/CAP 5638: Pattern Recognition - 2026 Spring"
 collection: teaching
-type: "Graduate course"
+type: "Undergrad & Graduate Course"
 permalink: /teaching/2026-spring-cap5638
 venue: "Florida State University"
 date: 2026-01-07
