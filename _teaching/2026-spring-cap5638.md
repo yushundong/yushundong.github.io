@@ -59,7 +59,7 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 
 |       Date        |             Topic             |  Materials   |      Notes       |
 | :---------------: | :---------------------------: | :----------: | :--------------: |
-| 1.08 (Thursday)   |       Course Overview         |              |                  |
+| 1.08 (Thursday)   |       Course Overview         |  [Course Overview](https://drive.google.com/file/d/1A1m-iDGRWGCC37NeRqEXeqWoXATcSj30/view?usp=share_link)   |                  |
 | 1.13 (Tuesday)    |                               |              |                  |
 | 1.15 (Thursday)   |                               |              |                  |
 | 1.20 (Tuesday)    |                               |              |                  |
