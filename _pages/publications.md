@@ -37,6 +37,10 @@ AAAI Conference on Artificial Intelligence (**AAAI 2026**).
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD 2026**).
 
 
+1. Safety in Graph Machine Learning: Threats and Safeguards [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Song Wang, **Yushun Dong**, Binchi Zhang, Zihan Chen, Xingbo Fu, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V. Chawla, Jundong Li <br>
+IEEE Transactions on Knowledge and Data Engineering (**TKDE 2026**).  
+
 
 ### 2025
 
@@ -233,7 +237,7 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**).
 
 1. Fairness in Graph Mining: A Survey [\[PDF\]](http://yushundong.github.io/files/fairness_survey.pdf) [\[Code\]](https://github.com/yushundong/Graph-Mining-Fairness-Data) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Jing Ma, Song Wang, Chen Chen, Jundong Li <br>
-IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023.
+IEEE Transactions on Knowledge and Data Engineering (**TKDE 2023**).
 
 
 ### 2022
