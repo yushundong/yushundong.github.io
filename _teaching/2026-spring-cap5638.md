@@ -61,7 +61,7 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 | :---------------: | :---------------------------: | :----------: | :--------------: |
 | 1.08 (Thursday)   |       Course Overview         |  [Course Overview](https://drive.google.com/file/d/1A1m-iDGRWGCC37NeRqEXeqWoXATcSj30/view?usp=share_link)   |   Team up and register your presentation timeslot!   |
 | 1.13 (Tuesday)    |  Pattern Recognition Applications    |    [Pattern Recognition Applications](https://drive.google.com/file/d/1HfJSLxaJChEd08s_4Cs5n2eOUK3iRqks/view?usp=share_link)           |       |
-| 1.15 (Thursday)   |                               |              |                  |
+| 1.15 (Thursday)   |   Statistics Basics and Bayesian    |   [Statistics Basics and Bayesian](https://drive.google.com/file/d/1rZ1OxmGcDHl3rmDj_2POJti-FSi3WVDE/view?usp=share_link)    |                  |
 | 1.20 (Tuesday)    |                               |              |                  |
 | 1.22 (Thursday)   |                               |              |                  |
 | 1.25   |     🚨 Team Up & Registration DDL    |       N/A      | N/A |
