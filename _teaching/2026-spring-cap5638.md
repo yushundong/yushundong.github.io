@@ -12,7 +12,7 @@ location: "Tallahassee, FL"
 
 ## **Administrivia**
 * 📢 **Instructor**: [**Dr. Yushun Dong**](https://yushundong.github.io) (yd24f[at]fsu[dot]edu)
-* 💡 **Teaching Assistant**: To be updated.
+* 💡 **Teaching Assistant**: [Kelsey Li](https://lincanli.com) (ll24bb@fsu.edu)
 * 📅 **Time**: Tuesday & Thursday, 4:50 pm-6:05 pm (ET)
 * 🏫 **Location**: [HCB 0215](https://map.concept3d.com/?id=1235#!m/345264?share)
 * 🔍 **Instructor Office Hours**: Tuesday & Thursday, 6:05 to 7:05 PM at HCB 0215.
