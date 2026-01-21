@@ -15,7 +15,7 @@ location: "Tallahassee, FL"
 * 💡 **Teaching Assistant**: [Kelsey Li](https://lincanli.com) (ll24bb@fsu.edu)
 * 📅 **Time**: Tuesday & Thursday, 4:50 pm-6:05 pm (ET)
 * 🏫 **Location**: [HCB 0215](https://map.concept3d.com/?id=1235#!m/345264?share)
-* 🔍 **Instructor Office Hours**: Tuesday & Thursday, 6:05 to 7:05 PM at HCB 0215.
+* 🔍 **Instructor Office Hours**: Tuesday & Thursday, 6:05 to 7:05 PM, HCB 0215.
 * 🔍 **TA Office Hours**: Tuesday & Thursday, 3:00 pm -5:00 pm (ET), LOV 207 (Please email TA one day before).
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
 
