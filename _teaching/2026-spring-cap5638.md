@@ -16,7 +16,7 @@ location: "Tallahassee, FL"
 * 📅 **Time**: Tuesday & Thursday, 4:50 pm-6:05 pm (ET)
 * 🏫 **Location**: [HCB 0215](https://map.concept3d.com/?id=1235#!m/345264?share)
 * 🔍 **Instructor Office Hours**: Tuesday & Thursday, 6:05 to 7:05 PM at HCB 0215.
-* 🔍 **TA Office Hours**: To be updated.
+* 🔍 **TA Office Hours**: Tuesday & Thursday, 3:00 pm -5:00 pm (ET), LOV 207 (Please email TA one day before).
 * 🎒 **Format**: In-person only (unless there is a drastic change in the situation).
 
 ## Course Overview
@@ -62,7 +62,7 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 | 1.08 (Thursday)   |       Course Overview         |  [Course Overview](https://drive.google.com/file/d/1A1m-iDGRWGCC37NeRqEXeqWoXATcSj30/view?usp=share_link)   |   Team up and register your presentation timeslot!   |
 | 1.13 (Tuesday)    |  Pattern Recognition Applications    |    [Pattern Recognition Applications](https://drive.google.com/file/d/1HfJSLxaJChEd08s_4Cs5n2eOUK3iRqks/view?usp=share_link)           |       |
 | 1.15 (Thursday)   |   Statistics Basics and Bayesian    |   [Statistics Basics and Bayesian](https://drive.google.com/file/d/1rZ1OxmGcDHl3rmDj_2POJti-FSi3WVDE/view?usp=share_link)    |                  |
-| 1.20 (Tuesday)    |                               |              |                  |
+| 1.20 (Tuesday)    |     Minimum-Error-Rate Classification      | [Minimum-Error-Rate Classification](https://drive.google.com/file/d/1FhsI_kLyWIdbdkSz9pp-IefItUSM1qIH/view?usp=share_link)     |                  |
 | 1.22 (Thursday)   |                               |              |                  |
 | 1.25   |     🚨 Team Up & Registration DDL    |       N/A      | N/A |
 | 1.27 (Tuesday)    |                               |              |                  |
