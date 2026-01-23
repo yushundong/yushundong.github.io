@@ -65,8 +65,8 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 | 1.20 (Tuesday)    |     Minimum-Error-Rate Classification      | [Minimum-Error-Rate Classification](https://drive.google.com/file/d/1FhsI_kLyWIdbdkSz9pp-IefItUSM1qIH/view?usp=share_link)     |                  |
 | 1.22 (Thursday)   |    Minimum Distance Classifier   |   [Minimum Distance Classifier](https://drive.google.com/file/d/14SgTpd-2g1NokadZmnqZiCyjqosiAFAJ/view?usp=share_link)   |                  |
 | 1.25   |     🚨 Team Up & Registration DDL    |       N/A      | N/A |
-| 1.27 (Tuesday)    |                               |              |                  |
-| 1.29 (Thursday)   |                               |              |                  |
+| 1.27 (Tuesday)    |     Online (Recording)      |              |                  |
+| 1.29 (Thursday)   |     Online (Recording)        |              |                  |
 | 2.03 (Tuesday)    |     **Proposal presentation.**    |              | Start advertising your project!  |
 | 2.05 (Thursday)   |     **Proposal presentation.**    |              | Start advertising your project!  |
 | 2.10 (Tuesday)    |     **Proposal presentation.**    |              | Start advertising your project!  |
