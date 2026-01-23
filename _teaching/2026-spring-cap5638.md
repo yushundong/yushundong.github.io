@@ -63,7 +63,7 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 | 1.13 (Tuesday)    |  Pattern Recognition Applications    |    [Pattern Recognition Applications](https://drive.google.com/file/d/1HfJSLxaJChEd08s_4Cs5n2eOUK3iRqks/view?usp=share_link)           |       |
 | 1.15 (Thursday)   |   Statistics Basics and Bayesian    |   [Statistics Basics and Bayesian](https://drive.google.com/file/d/1rZ1OxmGcDHl3rmDj_2POJti-FSi3WVDE/view?usp=share_link)    |                  |
 | 1.20 (Tuesday)    |     Minimum-Error-Rate Classification      | [Minimum-Error-Rate Classification](https://drive.google.com/file/d/1FhsI_kLyWIdbdkSz9pp-IefItUSM1qIH/view?usp=share_link)     |                  |
-| 1.22 (Thursday)   |                               |              |                  |
+| 1.22 (Thursday)   |    Minimum Distance Classifier   |   [Minimum Distance Classifier](https://drive.google.com/file/d/14SgTpd-2g1NokadZmnqZiCyjqosiAFAJ/view?usp=share_link)   |                  |
 | 1.25   |     🚨 Team Up & Registration DDL    |       N/A      | N/A |
 | 1.27 (Tuesday)    |                               |              |                  |
 | 1.29 (Thursday)   |                               |              |                  |
