@@ -39,7 +39,13 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD 2026**).
 
 1. Safety in Graph Machine Learning: Threats and Safeguards [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Song Wang, **Yushun Dong**, Binchi Zhang, Zihan Chen, Xingbo Fu, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V. Chawla, Jundong Li <br>
-IEEE Transactions on Knowledge and Data Engineering (**TKDE 2026**).  
+IEEE Transactions on Knowledge and Data Engineering (**TKDE 2026**).
+
+
+1. Reforming the Mechanism: Editing Reasoning Patterns in LLMs with Circuit Reshaping [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Zhenyu Lei, Qiong Wu, Jianxiong Dong, Yinhan He, Emily Dodwell, **Yushun Dong**, Jundong Li
+International Conference on Learning Representations (**ICLR 2026**).
+
 
 
 ### 2025
