@@ -28,6 +28,7 @@ News
 
 <div style="border:1px solid #ccc; padding:10px; height:1000px; overflow:auto; background-color:#f9f9f9">
 {{"
+* **Jan. 2026**: One paper accepted by ICLR 2026.
 * **Jan. 2026**: One paper accepted by TKDE 2026.
 * **Nov. 2025**: One paper accepted by SIGKDD 2026.
 * **Nov. 2025**: Received the Second Prize Award in BlueSky Track of ICDM, 2025
