@@ -40,7 +40,7 @@ RAI Lab has been hosting [**Student Seminar at Computer Science Department**](ht
 ## PhD Students
 
 
-[**Lincan Li**](https://lincanli98.github.io), Spring 2025 -  
+[**Lincan Li**](https://lincanli.com), Spring 2025 -  
 **Achievements**: Best Short Paper Award at ACM SIGSPATIAL 2025, etc.
 
 [**Bolin Shen**](https://blshen.org), Spring 2025 -  
