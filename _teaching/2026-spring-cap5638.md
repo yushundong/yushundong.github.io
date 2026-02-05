@@ -78,7 +78,7 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 | 2.26 (Thursday)   |                               |              |                  |
 | 3.03 (Tuesday)    |                               |              |                  |
 | 3.05 (Thursday)   |                               |              |                  |
-| 3.10 (Tuesday)    |     Recitation Lecture       |              |                  |
+| 3.10 (Tuesday)    |     Recitation Lecture       |              |  Contact [Kelsey Li](https://lincanli.com) (ll24bb@fsu.edu) for more details   |
 | 3.12 (Thursday)   |                               |              |                  |
 | 3.17 (Tuesday)    |     Spring Break.        |              | 🏖️ No class.  |
 | 3.19 (Thursday)   |     Spring Break.        |              | 🏖️ No class.  |
