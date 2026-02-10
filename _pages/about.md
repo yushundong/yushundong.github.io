@@ -82,6 +82,7 @@ News
 Invited Talks (Selected)
 ------
 
+* 02/2026, FSU-FAMU College of Engineering: Graph-Based Machine Learning as a Service
 * 11/2025, Invited panelist at ACM SIGSPATIAL 2025
 * 10/2025, University of Delaware: Unleashing the Power of Graph-Based Machine Learning as a Service
 * 10/2025, National Science Foundation PATh CICI Presentation Series: Toward Secure Machine Learning as a Service for Collaborative Scientific Research
