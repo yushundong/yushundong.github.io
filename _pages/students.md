@@ -41,7 +41,7 @@ RAI Lab has been hosting [**Student Seminar at Computer Science Department**](ht
 
 
 [**Lincan Li**](https://lincanli.com), Spring 2025 -  
-**Achievements**: Best Short Paper Award at ACM SIGSPATIAL 2025, Lead tutor at SIGKDD 2025, etc.
+**Achievements**: Best Short Paper Award at ACM SIGSPATIAL 2025, Lead tutor at SIGKDD 2025, AACL 2025, etc.
 
 [**Bolin Shen**](https://blshen.org), Spring 2025 -  
 **Achievements**: Publications at AAAI 2025, SIGKDD 2025, ICML 2025, AACL 2025, etc.
