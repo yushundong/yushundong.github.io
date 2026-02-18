@@ -72,7 +72,7 @@ Please see a detailed introduction of **Project Proposal & Presentation** and **
 | 2.10 (Tuesday)    |     **Proposal presentation.**    |              | Start advertising your project!  |
 | 2.12 (Thursday)   |     **Proposal presentation.**    |              | Start advertising your project!  |
 | 2.13 (Friday)    | 🚨 Project Proposal Report DDL at 23:59 PM (ET) |     N/A      | N/A |
-| 2.17 (Tuesday)    |                               |              |                  |
+| 2.17 (Tuesday)    |     Parameter Estimation     |   [Parameter Estimation](https://drive.google.com/file/d/1yx8daMbRle_zzkmhwmrnxcO75OutxHEL/view?usp=share_link)   |                  |
 | 2.19 (Thursday)   |                               |              |                  |
 | 2.24 (Tuesday)    |                               |              |                  |
 | 2.26 (Thursday)   |                               |              |                  |
