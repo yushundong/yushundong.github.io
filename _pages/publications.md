@@ -43,7 +43,7 @@ IEEE Transactions on Knowledge and Data Engineering (**TKDE 2026**).
 
 
 1. Reforming the Mechanism: Editing Reasoning Patterns in LLMs with Circuit Reshaping [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
-Zhenyu Lei, Qiong Wu, Jianxiong Dong, Yinhan He, Emily Dodwell, **Yushun Dong**, Jundong Li
+Zhenyu Lei, Qiong Wu, Jianxiong Dong, Yinhan He, Emily Dodwell, **Yushun Dong**, Jundong Li <br>
 International Conference on Learning Representations (**ICLR 2026**).
 
 
